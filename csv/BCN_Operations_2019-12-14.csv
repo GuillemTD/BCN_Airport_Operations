@@ -1,0 +1,1650 @@
+,Scheduled Date,City,IATA,Airline,Flight,Operation,Scheduled Time,Terminal,Status,Real Date,Real Time,Gate
+0,2019-12-14,Buenos Aires,(EZE),Iberia ,IB2601,Departure,01:30,1, Landed - On-time,2019-12-14,01:41,D16
+1,2019-12-14,Palma Mallorca,(PMI),Swiftair,WT112,Departure,04:30,, Scheduled,2019-12-14,04:30,-
+2,2019-12-14,Algiers,(ALG),Vueling ,VY7476,Departure,06:00,1, Landed - On-time,2019-12-14,05:47,E74
+3,2019-12-14,Algiers,(ALG),Iberia ,IB5682,Departure,06:00,1, Landed - On-time,2019-12-14,05:47,E74
+4,2019-12-14,Amsterdam,(AMS),KLM ,KL1662,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+5,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9394,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+6,2019-12-14,Amsterdam,(AMS),China Southern Airlines ,CZ7795,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+7,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9678,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+8,2019-12-14,Amsterdam,(AMS),Etihad Airways ,EY7354,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+9,2019-12-14,Amsterdam,(AMS),Gol ,G35681,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+10,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9247,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+11,2019-12-14,Amsterdam,(AMS),Kenya Airways ,KQ1662,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+12,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9680,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+13,2019-12-14,Amsterdam,(AMS),China Eastern Airlines ,MU1840,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+14,2019-12-14,Amsterdam,(AMS),UIA ,PS9432,Departure,06:00,1, Landed - Delayed,2019-12-14,06:17,A22
+15,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1139,Departure,06:00,1, Landed - On-time,2019-12-14,05:58,B62
+16,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9183,Departure,06:00,1, Landed - On-time,2019-12-14,05:58,B62
+17,2019-12-14,Frankfurt,(FRA),SAS ,SK3391,Departure,06:00,1, Landed - On-time,2019-12-14,05:58,B62
+18,2019-12-14,Frankfurt,(FRA),Oman Air ,WY5539,Departure,06:00,1, Landed - On-time,2019-12-14,05:58,B62
+19,2019-12-14,Marrakech,(RAK),Vueling ,VY7336,Departure,06:10,1, Landed - On-time,2019-12-14,06:07,D8
+20,2019-12-14,Marrakech,(RAK),Iberia ,IB5663,Departure,06:10,1, Landed - On-time,2019-12-14,06:07,D8
+21,2019-12-14,Florence,(FLR),Vueling ,VY6001,Departure,06:15,1, Landed - On-time,2019-12-14,06:05,C71
+22,2019-12-14,Florence,(FLR),British Airways ,BA8158,Departure,06:15,1, Landed - On-time,2019-12-14,06:05,C71
+23,2019-12-14,Florence,(FLR),Iberia ,IB5505,Departure,06:15,1, Landed - On-time,2019-12-14,06:05,C71
+24,2019-12-14,Florence,(FLR),Qatar Airways ,QR3576,Departure,06:15,1, Landed - On-time,2019-12-14,06:05,C71
+25,2019-12-14,Geneva,(GVA),easyJet ,U21402,Departure,06:15,2, Landed - On-time,2019-12-14,06:11,-
+26,2019-12-14,Brussels,(BRU),Ryanair ,FR2918,Departure,06:20,2, Landed - On-time,2019-12-14,06:20,S24
+27,2019-12-14,Paris,(CDG),Air France ,AF1449,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+28,2019-12-14,Paris,(CDG),Aeromexico ,AM6009,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+29,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7062,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+30,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8445,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+31,2019-12-14,Paris,(CDG),Gol ,G35206,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+32,2019-12-14,Paris,(CDG),Air Serbia ,JU7812,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+33,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3049,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+34,2019-12-14,Paris,(CDG),Air Mauritius ,MK9543,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+35,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU8636,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+36,2019-12-14,Paris,(CDG),Air Europa ,UX2208,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+37,2019-12-14,Paris,(CDG),Vietnam Airlines ,VN3679,Departure,06:20,1, Landed - On-time,2019-12-14,06:22,A21
+38,2019-12-14,Porto,(OPO),Vueling ,VY8476,Departure,06:20,1, Landed - On-time,2019-12-14,06:17,B33
+39,2019-12-14,Porto,(OPO),Iberia ,IB5222,Departure,06:20,1, Landed - On-time,2019-12-14,06:17,B33
+40,2019-12-14,Porto,(OPO),Qatar Airways ,QR3607,Departure,06:20,1, Landed - On-time,2019-12-14,06:17,B33
+41,2019-12-14,London,(STN),Ryanair ,FR9815,Departure,06:20,2, Landed - On-time,2019-12-14,06:20,Y55
+42,2019-12-14,Tenerife,(TFN),Ryanair ,FR3063,Departure,06:20,2, Landed - On-time,2019-12-14,06:20,R13
+43,2019-12-14,Milan,(BGY),Ryanair ,FR6353,Departure,06:25,2, Landed - On-time,2019-12-14,06:25,U34
+44,2019-12-14,Rome,(FCO),Alitalia ,AZ75,Departure,06:25,1, Landed,2019-12-14,06:25,-
+45,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7225,Departure,06:25,1, Landed,2019-12-14,06:25,-
+46,2019-12-14,Rome,(FCO),China Southern Airlines ,CZ7397,Departure,06:25,1, Landed,2019-12-14,06:25,-
+47,2019-12-14,Rome,(FCO),Delta Air Lines ,DL6596,Departure,06:25,1, Landed,2019-12-14,06:25,-
+48,2019-12-14,Rome,(FCO),Etihad Airways ,EY2821,Departure,06:25,1, Landed,2019-12-14,06:25,-
+49,2019-12-14,Rome,(FCO),Bulgaria Air ,FB1728,Departure,06:25,1, Landed,2019-12-14,06:25,-
+50,2019-12-14,Rome,(FCO),Hainan Airlines ,HU8664,Departure,06:25,1, Landed,2019-12-14,06:25,-
+51,2019-12-14,Rome,(FCO),Air Serbia ,JU7265,Departure,06:25,1, Landed,2019-12-14,06:25,-
+52,2019-12-14,Rome,(FCO),Kenya Airways ,KQ3425,Departure,06:25,1, Landed,2019-12-14,06:25,-
+53,2019-12-14,Rome,(FCO),Middle East Airlines ,ME2075,Departure,06:25,1, Landed,2019-12-14,06:25,-
+54,2019-12-14,Rome,(FCO),Air Europa ,UX3124,Departure,06:25,1, Landed,2019-12-14,06:25,-
+55,2019-12-14,Paris,(BVA),Ryanair ,FR6374,Departure,06:35,2, Landed - On-time,2019-12-14,06:35,U31
+56,2019-12-14,Rome,(FCO),Ryanair ,FR6341,Departure,06:35,2, Landed - On-time,2019-12-14,06:35,S22
+57,2019-12-14,Berlin,(SXF),Ryanair ,FR149,Departure,06:35,2, Landed - Delayed,2019-12-14,07:48,S20
+58,2019-12-14,Tangier,(TNG),Vueling ,VY7364,Departure,06:35,1, Landed - On-time,2019-12-14,06:49,D11
+59,2019-12-14,Tangier,(TNG),Iberia ,IB5669,Departure,06:35,1, Landed - On-time,2019-12-14,06:49,D11
+60,2019-12-14,San Sebastian,(EAS),Vueling ,VY2486,Departure,06:40,1, Landed - On-time,2019-12-14,06:39,B34
+61,2019-12-14,San Sebastian,(EAS),Iberia ,IB5219,Departure,06:40,1, Landed - On-time,2019-12-14,06:39,B34
+62,2019-12-14,San Sebastian,(EAS),Qatar Airways ,QR3525,Departure,06:40,1, Landed - On-time,2019-12-14,06:39,B34
+63,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1049,Departure,06:40,1, Landed - On-time,2019-12-14,06:48,A18
+64,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48045,Departure,06:40,1, Landed - On-time,2019-12-14,06:48,A18
+65,2019-12-14,Lisbon,(LIS),United Airlines ,UA6872,Departure,06:40,1, Landed - On-time,2019-12-14,06:48,A18
+66,2019-12-14,Las Palmas,(LPA),Vueling ,VY3006,Departure,06:40,1, Landed - On-time,2019-12-14,06:40,B51
+67,2019-12-14,Las Palmas,(LPA),Iberia ,IB5286,Departure,06:40,1, Landed - On-time,2019-12-14,06:40,B51
+68,2019-12-14,Las Palmas,(LPA),Qatar Airways ,QR3623,Departure,06:40,1, Landed - On-time,2019-12-14,06:40,B51
+69,2019-12-14,Santiago De Compostela,(SCQ),Ryanair ,FR6332,Departure,06:40,2, Landed - On-time,2019-12-14,06:40,U33
+70,2019-12-14,Alicante,(ALC),Vueling ,VY1302,Departure,06:45,1, Landed - On-time,2019-12-14,06:42,B39
+71,2019-12-14,Alicante,(ALC),Iberia ,IB5025,Departure,06:45,1, Landed - On-time,2019-12-14,06:42,B39
+72,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3797,Departure,06:45,1, Landed - On-time,2019-12-14,06:42,B39
+73,2019-12-14,Brussels,(BRU),Vueling ,VY8988,Departure,06:50,1, Landed - On-time,2019-12-14,06:50,A14
+74,2019-12-14,Brussels,(BRU),Iberia ,IB5843,Departure,06:50,1, Landed - On-time,2019-12-14,06:50,A14
+75,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8136,Departure,06:50,2, Landed - On-time,2019-12-14,06:52,S23
+76,2019-12-14,Asturias,(OVD),Vueling ,VY1573,Departure,06:50,1, Landed - On-time,2019-12-14,06:49,B65
+77,2019-12-14,Asturias,(OVD),Iberia ,IB5100,Departure,06:50,1, Landed - On-time,2019-12-14,06:49,B65
+78,2019-12-14,Asturias,(OVD),Qatar Airways ,QR3698,Departure,06:50,1, Landed - On-time,2019-12-14,06:49,B65
+79,2019-12-14,Sevilla,(SVQ),Vueling ,VY2212,Departure,06:50,1, Landed - On-time,2019-12-14,06:46,B25
+80,2019-12-14,Sevilla,(SVQ),Iberia ,IB5190,Departure,06:50,1, Landed - On-time,2019-12-14,06:46,B25
+81,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3534,Departure,06:50,1, Landed - On-time,2019-12-14,06:46,B25
+82,2019-12-14,Malaga,(AGP),Ryanair ,FR6386,Departure,06:55,2, Landed - On-time,2019-12-14,06:55,R14
+83,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1137,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+84,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9011,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+85,2019-12-14,Frankfurt,(FRA),Etihad Airways ,EY4165,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+86,2019-12-14,Frankfurt,(FRA),ANA ,NH5442,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+87,2019-12-14,Frankfurt,(FRA),SAS ,SK3379,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+88,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9317,Departure,06:55,1, Landed - On-time,2019-12-14,07:03,B52
+89,2019-12-14,Malaga,(AGP),Vueling ,VY2115,Departure,07:00,1, Landed - On-time,2019-12-14,06:54,B40
+90,2019-12-14,Malaga,(AGP),Iberia ,IB5173,Departure,07:00,1, Landed - On-time,2019-12-14,06:54,B40
+91,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3567,Departure,07:00,1, Landed - On-time,2019-12-14,06:54,B40
+92,2019-12-14,Bilbao,(BIO),Vueling ,VY1420,Departure,07:00,1, Landed - On-time,2019-12-14,06:57,B31
+93,2019-12-14,Bilbao,(BIO),Iberia ,IB5053,Departure,07:00,1, Landed - On-time,2019-12-14,06:57,B31
+94,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3621,Departure,07:00,1, Landed - On-time,2019-12-14,06:57,B31
+95,2019-12-14,Madrid,(MAD),Vueling ,VY7001,Departure,07:00,1, Landed - On-time,2019-12-14,07:02,A6
+96,2019-12-14,Madrid,(MAD),Iberia ,IB5875,Departure,07:00,1, Landed - On-time,2019-12-14,07:02,A6
+97,2019-12-14,Munich,(MUC),Vueling ,VY1812,Departure,07:00,1, Landed - On-time,2019-12-14,07:00,B55
+98,2019-12-14,Munich,(MUC),British Airways ,BA8064,Departure,07:00,1, Landed - On-time,2019-12-14,07:00,B55
+99,2019-12-14,Munich,(MUC),Iberia ,IB5056,Departure,07:00,1, Landed - On-time,2019-12-14,07:00,B55
+100,2019-12-14,Paris,(ORY),Vueling ,VY8012,Departure,07:00,1, Landed - On-time,2019-12-14,07:14,-
+101,2019-12-14,Paris,(ORY),British Airways ,BA8141,Departure,07:00,1, Landed - On-time,2019-12-14,07:14,-
+102,2019-12-14,Paris,(ORY),Iberia ,IB5268,Departure,07:00,1, Landed - On-time,2019-12-14,07:14,-
+103,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3902,Departure,07:00,1, Landed - Delayed,2019-12-14,07:33,B63
+104,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5148,Departure,07:00,1, Landed - Delayed,2019-12-14,07:33,B63
+105,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3598,Departure,07:00,1, Landed - Delayed,2019-12-14,07:33,B63
+106,2019-12-14,Amsterdam,(AMS),Vueling ,VY8300,Departure,07:05,1, Landed - Delayed,2019-12-14,07:40,A4
+107,2019-12-14,Amsterdam,(AMS),British Airways ,BA8111,Departure,07:05,1, Landed - Delayed,2019-12-14,07:40,A4
+108,2019-12-14,Amsterdam,(AMS),Iberia ,IB5755,Departure,07:05,1, Landed - Delayed,2019-12-14,07:40,A4
+109,2019-12-14,Ibiza,(IBZ),Vueling ,VY3514,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B32
+110,2019-12-14,Ibiza,(IBZ),Iberia ,IB5423,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B32
+111,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3561,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B32
+112,2019-12-14,Lisbon,(LIS),Vueling ,VY8460,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B38
+113,2019-12-14,Lisbon,(LIS),British Airways ,BA2046,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B38
+114,2019-12-14,Lisbon,(LIS),Iberia ,IB5776,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B38
+115,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3539,Departure,07:10,1, Landed - On-time,2019-12-14,07:09,B38
+116,2019-12-14,Venice,(VCE),Ryanair ,FR3043,Departure,07:10,2, Landed - On-time,2019-12-14,07:08,S25
+117,2019-12-14,Athens,(ATH),Vueling ,VY8100,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,B27
+118,2019-12-14,Athens,(ATH),Iberia ,IB5726,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,B27
+119,2019-12-14,Rome,(FCO),Vueling ,VY6100,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,B24
+120,2019-12-14,Rome,(FCO),British Airways ,BA8093,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,B24
+121,2019-12-14,Rome,(FCO),Iberia ,IB5514,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,B24
+122,2019-12-14,London,(LGW),Vueling ,VY7834,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,D13
+123,2019-12-14,London,(LGW),British Airways ,BA8079,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,D13
+124,2019-12-14,London,(LGW),Iberia ,IB5708,Departure,07:15,1, Landed - On-time,2019-12-14,07:14,D13
+125,2019-12-14,Menorca,(MAH),Vueling ,VY3712,Departure,07:15,1, Landed - On-time,2019-12-14,07:06,B59
+126,2019-12-14,Menorca,(MAH),Iberia ,IB5434,Departure,07:15,1, Landed - On-time,2019-12-14,07:06,B59
+127,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3536,Departure,07:15,1, Landed - On-time,2019-12-14,07:06,B59
+128,2019-12-14,"Basel, Switzerland / Mulhouse",(BSL),easyJet ,U21076,Departure,07:20,2, Landed - On-time,2019-12-14,07:20,-
+129,2019-12-14,Geneva,(GVA),Vueling ,VY6199,Departure,07:20,1, Landed - On-time,2019-12-14,07:19,B35
+130,2019-12-14,Geneva,(GVA),Iberia ,IB5208,Departure,07:20,1, Landed - On-time,2019-12-14,07:19,B35
+131,2019-12-14,London,(LGW),easyJet ,U28570,Departure,07:20,2, Landed - On-time,2019-12-14,07:07,-
+132,2019-12-14,Nice,(NCE),Vueling ,VY1515,Departure,07:20,1, Landed - On-time,2019-12-14,07:17,A12
+133,2019-12-14,Nice,(NCE),Iberia ,IB5043,Departure,07:20,1, Landed - On-time,2019-12-14,07:17,A12
+134,2019-12-14,Granada,(GRX),Vueling ,VY2010,Departure,07:25,1, Landed - On-time,2019-12-14,07:25,A5
+135,2019-12-14,Granada,(GRX),Iberia ,IB5080,Departure,07:25,1, Landed - On-time,2019-12-14,07:25,A5
+136,2019-12-14,Granada,(GRX),Qatar Airways ,QR3530,Departure,07:25,1, Landed - On-time,2019-12-14,07:25,A5
+137,2019-12-14,"Basel, Switzerland / Mulhouse",(BSL),Turkish Airlines ,TK6351,Departure,07:30,, Landed,2019-12-14,07:30,-
+138,2019-12-14,Cologne,(CGN),Ryanair ,FR2511,Departure,07:30,2, Landed - On-time,2019-12-14,07:30,U32
+139,2019-12-14,London,(LGW),Vueling ,VY7822,Departure,07:35,1, Landed - Delayed,2019-12-14,07:57,D15
+140,2019-12-14,London,(LGW),British Airways ,BA8068,Departure,07:35,1, Landed - Delayed,2019-12-14,07:57,D15
+141,2019-12-14,London,(LGW),Iberia ,IB5703,Departure,07:35,1, Landed - Delayed,2019-12-14,07:57,D15
+142,2019-12-14,Milan,(MXP),Vueling ,VY6330,Departure,07:40,1, Landed - On-time,2019-12-14,07:44,B37
+143,2019-12-14,Milan,(MXP),British Airways ,BA8838,Departure,07:40,1, Landed - On-time,2019-12-14,07:44,B37
+144,2019-12-14,Milan,(MXP),Iberia ,IB5584,Departure,07:40,1, Landed - On-time,2019-12-14,07:44,B37
+145,2019-12-14,Prague,(PRG),Vueling ,VY8652,Departure,07:40,1, Landed - On-time,2019-12-14,07:41,B30
+146,2019-12-14,Prague,(PRG),British Airways ,BA8192,Departure,07:40,1, Landed - On-time,2019-12-14,07:41,B30
+147,2019-12-14,Prague,(PRG),Iberia ,IB5806,Departure,07:40,1, Landed - On-time,2019-12-14,07:41,B30
+148,2019-12-14,Vienna,(VIE),Vueling ,VY8714,Departure,07:40,1, Landed - On-time,2019-12-14,07:40,A1
+149,2019-12-14,Vienna,(VIE),Iberia ,IB5809,Departure,07:40,1, Landed - On-time,2019-12-14,07:40,A1
+150,2019-12-14,Reykjavik,(KEF),Norwegian Air International ,D85666,Departure,07:45,2, Landed - On-time,2019-12-14,07:49,U35
+151,2019-12-14,Manchester,(MAN),Ryanair ,FR7543,Departure,07:45,2, Landed - On-time,2019-12-14,07:51,W42
+152,2019-12-14,London,(STN),Ryanair ,FR9811,Departure,07:50,2, Landed - On-time,2019-12-14,07:50,W46
+153,2019-12-14,Paris,(CDG),Vueling ,VY8242,Departure,07:55,1, Landed - On-time,2019-12-14,07:53,B47
+154,2019-12-14,Paris,(CDG),British Airways ,BA8832,Departure,07:55,1, Landed - On-time,2019-12-14,07:53,B47
+155,2019-12-14,Paris,(CDG),Iberia ,IB5741,Departure,07:55,1, Landed - On-time,2019-12-14,07:53,B47
+156,2019-12-14,London,(LHR),British Airways ,BA477,Departure,07:55,1, Landed - Delayed,2019-12-14,08:32,D10
+157,2019-12-14,London,(LHR),American Airlines ,AA6289,Departure,07:55,1, Landed - Delayed,2019-12-14,08:32,D10
+158,2019-12-14,London,(LHR),Iberia ,IB7478,Departure,07:55,1, Landed - Delayed,2019-12-14,08:32,D10
+159,2019-12-14,London,(LHR),JAL ,JL6508,Departure,07:55,1, Landed - Delayed,2019-12-14,08:32,D10
+160,2019-12-14,Munich,(MUC),Lufthansa ,LH1817,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+161,2019-12-14,Munich,(MUC),Aegean Airlines ,A31475,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+162,2019-12-14,Munich,(MUC),Air Canada ,AC9217,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+163,2019-12-14,Munich,(MUC),Air China LTD ,CA6300,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+164,2019-12-14,Munich,(MUC),Etihad Airways ,EY4166,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+165,2019-12-14,Munich,(MUC),SAS ,SK3311,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+166,2019-12-14,Munich,(MUC),United Airlines ,UA9273,Departure,07:55,1, Landed - On-time,2019-12-14,07:56,B56
+167,2019-12-14,Algiers,(ALG),Swiftair,WT8154,Departure,08:00,, Unknown,2019-12-14,08:00,-
+168,2019-12-14,Doha,(DOH),Qatar Airways ,QR138,Departure,08:00,1, Landed - On-time,2019-12-14,08:08,E70
+169,2019-12-14,Doha,(DOH),SriLankan Airlines ,UL3548,Departure,08:00,1, Landed - On-time,2019-12-14,08:08,E70
+170,2019-12-14,Almeria,(LEI),Iberia ,IB8612,Departure,08:00,1, Landed - On-time,2019-12-14,08:00,-
+171,2019-12-14,Madrid,(MAD),Aerolineas Argentinas ,AR7325,Departure,08:00,1, Landed - On-time,2019-12-14,07:59,B44
+172,2019-12-14,Madrid,(MAD),Delta Air Lines ,DL6779,Departure,08:00,1, Landed - On-time,2019-12-14,07:59,B44
+173,2019-12-14,Madrid,(MAD),China Eastern Airlines ,MU4462,Departure,08:00,1, Landed - On-time,2019-12-14,07:59,B44
+174,2019-12-14,Madrid,(MAD),Aeroflot ,SU3679,Departure,08:00,1, Landed - On-time,2019-12-14,07:59,B44
+175,2019-12-14,Madrid,(MAD),Air Europa ,UX7704,Departure,08:00,1, Landed - On-time,2019-12-14,07:59,B44
+176,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6362,Departure,08:00,2, Landed - On-time,2019-12-14,07:54,U31
+177,2019-12-14,Madrid,(MAD),Vueling ,VY8350,Departure,08:35,1, Landed - Delayed,2019-12-14,10:08,A6
+178,2019-12-14,Madrid,(MAD),Iberia ,IB5878,Departure,08:35,1, Landed - Delayed,2019-12-14,10:08,A6
+179,2019-12-14,Nice,(NCE),easyJet ,U21698,Departure,08:35,2, Landed - On-time,2019-12-14,08:24,-
+180,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6007,Departure,08:40,1, Landed - On-time,2019-12-14,08:37,B24
+181,2019-12-14,Palma Mallorca,(PMI),Etihad Airways ,EY4387,Departure,08:40,1, Landed - On-time,2019-12-14,08:37,B24
+182,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3916,Departure,08:40,1, Landed - On-time,2019-12-14,08:36,A20
+183,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5460,Departure,08:40,1, Landed - On-time,2019-12-14,08:36,A20
+184,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3675,Departure,08:40,1, Landed - On-time,2019-12-14,08:36,A20
+185,2019-12-14,Alicante,(ALC),Vueling ,VY1312,Departure,08:55,1, Landed - On-time,2019-12-14,08:44,B27
+186,2019-12-14,Alicante,(ALC),Iberia ,IB5035,Departure,08:55,1, Landed - On-time,2019-12-14,08:44,B27
+187,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3756,Departure,08:55,1, Landed - On-time,2019-12-14,08:44,B27
+188,2019-12-14,Milan,(MXP),easyJet ,U22760,Departure,08:55,2, Landed - On-time,2019-12-14,08:52,-
+189,2019-12-14,Vienna,(VIE),Lauda ,OE323,Departure,08:55,2, Landed - On-time,2019-12-14,08:53,U32
+190,2019-12-14,Stockholm,(ARN),Norwegian Air International ,D85554,Departure,09:00,2, Landed - On-time,2019-12-14,08:48,U36
+191,2019-12-14,London,(LGW),Norwegian Air International ,D85500,Departure,09:00,2, Landed - On-time,2019-12-14,08:55,W44
+192,2019-12-14,Madrid,(MAD),Iberia ,IB901,Departure,09:00,1, Landed - On-time,2019-12-14,08:58,-
+193,2019-12-14,Madrid,(MAD),American Airlines ,AA8801,Departure,09:00,1, Landed - On-time,2019-12-14,08:58,-
+194,2019-12-14,Madrid,(MAD),SA AVIANCA ,AV6047,Departure,09:00,1, Landed - On-time,2019-12-14,08:58,-
+195,2019-12-14,Menorca,(MAH),Vueling ,VY3714,Departure,09:10,1, Landed - On-time,2019-12-14,09:00,B35
+196,2019-12-14,Menorca,(MAH),Iberia ,IB5436,Departure,09:10,1, Landed - On-time,2019-12-14,09:00,B35
+197,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3654,Departure,09:10,1, Landed - On-time,2019-12-14,09:00,B35
+198,2019-12-14,Sevilla,(SVQ),Ryanair ,FR6396,Departure,09:15,2, Landed - On-time,2019-12-14,09:15,U34
+199,2019-12-14,Budapest,(BUD),Wizz Air ,W62376,Departure,09:20,2, Landed - On-time,2019-12-14,09:28,U33
+200,2019-12-14,Paris,(CDG),easyJet ,U23916,Departure,09:20,2, Landed - On-time,2019-12-14,09:21,-
+201,2019-12-14,Ibiza,(IBZ),Vueling ,VY3508,Departure,09:20,1, Landed - On-time,2019-12-14,09:11,B68
+202,2019-12-14,Ibiza,(IBZ),Iberia ,IB5416,Departure,09:20,1, Landed - On-time,2019-12-14,09:11,B68
+203,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3702,Departure,09:20,1, Landed - On-time,2019-12-14,09:11,B68
+204,2019-12-14,Santiago De Compostela,(SCQ),Vueling ,VY1675,Departure,09:20,1, Landed - Delayed,2019-12-14,09:56,B29
+205,2019-12-14,Santiago De Compostela,(SCQ),Iberia ,IB5120,Departure,09:20,1, Landed - Delayed,2019-12-14,09:56,B29
+206,2019-12-14,Santiago De Compostela,(SCQ),Qatar Airways ,QR3600,Departure,09:20,1, Landed - Delayed,2019-12-14,09:56,B29
+207,2019-12-14,La Coruna,(LCG),Vueling ,VY1292,Departure,09:30,1, Landed - On-time,2019-12-14,09:30,A12
+208,2019-12-14,La Coruna,(LCG),Iberia ,IB5752,Departure,09:30,1, Landed - On-time,2019-12-14,09:30,A12
+209,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3626,Departure,09:30,1, Landed - On-time,2019-12-14,09:30,A12
+210,2019-12-14,Dusseldorf,(DUS),Eurowings ,EW9441,Departure,09:35,2, Landed - On-time,2019-12-14,09:34,-
+211,2019-12-14,Dusseldorf,(DUS),Lufthansa ,LH5180,Departure,09:35,2, Landed - On-time,2019-12-14,09:34,-
+212,2019-12-14,Dusseldorf,(DUS),ANA ,NH5001,Departure,09:35,2, Landed - On-time,2019-12-14,09:34,-
+213,2019-12-14,Rome,(FCO),Vueling ,VY6108,Departure,09:35,1, Landed - On-time,2019-12-14,09:42,B37
+214,2019-12-14,Rome,(FCO),British Airways ,BA8101,Departure,09:35,1, Landed - On-time,2019-12-14,09:42,B37
+215,2019-12-14,Rome,(FCO),Iberia ,IB5522,Departure,09:35,1, Landed - On-time,2019-12-14,09:42,B37
+216,2019-12-14,Paris,(CDG),Air France ,AF1149,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+217,2019-12-14,Paris,(CDG),Aeromexico ,AM6008,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+218,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8670,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+219,2019-12-14,Paris,(CDG),Gol ,G35267,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+220,2019-12-14,Paris,(CDG),Korean Air ,KE6344,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+221,2019-12-14,Paris,(CDG),Air Mauritius ,MK9329,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+222,2019-12-14,Paris,(CDG),Air Europa ,UX2253,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+223,2019-12-14,Paris,(CDG),Vietnam Airlines ,VN3683,Departure,09:40,1, Landed - On-time,2019-12-14,09:32,B28
+224,2019-12-14,Tenerife,(TFS),Vueling ,VY3220,Departure,09:45,1, Landed - On-time,2019-12-14,09:47,B36
+225,2019-12-14,Tenerife,(TFS),Iberia ,IB5373,Departure,09:45,1, Landed - On-time,2019-12-14,09:47,B36
+226,2019-12-14,Tenerife,(TFS),Qatar Airways ,QR3583,Departure,09:45,1, Landed - On-time,2019-12-14,09:47,B36
+227,2019-12-14,Zurich,(ZRH),SWISS ,LX1953,Departure,09:45,1, Landed - On-time,2019-12-14,09:40,-
+228,2019-12-14,Zurich,(ZRH),Air Canada ,AC6783,Departure,09:45,1, Landed - On-time,2019-12-14,09:40,-
+229,2019-12-14,Bilbao,(BIO),Vueling ,VY1440,Departure,09:55,1, Landed - On-time,2019-12-14,09:51,B47
+230,2019-12-14,Bilbao,(BIO),Iberia ,IB5067,Departure,09:55,1, Landed - On-time,2019-12-14,09:51,B47
+231,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3550,Departure,09:55,1, Landed - On-time,2019-12-14,09:51,B47
+232,2019-12-14,Moscow,(DME),Vueling ,VY7782,Departure,09:55,1, Landed - On-time,2019-12-14,10:01,D15
+233,2019-12-14,Moscow,(DME),Iberia ,IB5695,Departure,09:55,1, Landed - On-time,2019-12-14,10:01,D15
+234,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1125,Departure,09:55,1, Landed - On-time,2019-12-14,09:53,B24
+235,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9185,Departure,09:55,1, Landed - On-time,2019-12-14,09:53,B24
+236,2019-12-14,Frankfurt,(FRA),Air China LTD ,CA6290,Departure,09:55,1, Landed - On-time,2019-12-14,09:53,B24
+237,2019-12-14,Frankfurt,(FRA),Thai Airways International ,TG7659,Departure,09:55,1, Landed - On-time,2019-12-14,09:53,B24
+238,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9310,Departure,09:55,1, Landed - On-time,2019-12-14,09:53,B24
+239,2019-12-14,Mexico City,(MEX),Emirates ,EK255,Departure,09:55,1, Landed - On-time,2019-12-14,09:57,-
+240,2019-12-14,Santiago,(SCL),Iberia ,IB2605,Departure,09:55,1, Landed - On-time,2019-12-14,09:52,D16
+241,2019-12-14,Amsterdam,(AMS),Transavia ,HV5132,Departure,10:00,2, Landed - Delayed,2019-12-14,10:38,U32
+242,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL7478,Departure,10:00,2, Landed - Delayed,2019-12-14,10:38,U32
+243,2019-12-14,Amsterdam,(AMS),KLM ,KL2699,Departure,10:00,2, Landed - Delayed,2019-12-14,10:38,U32
+244,2019-12-14,Milan,(BGY),Ryanair ,FR6296,Departure,10:00,2, Landed - On-time,2019-12-14,10:07,U36
+245,2019-12-14,Madrid,(MAD),Iberia ,IB1001,Departure,10:00,1, Landed - Delayed,2019-12-14,12:31,A4
+246,2019-12-14,Madrid,(MAD),American Airlines ,AA8854,Departure,10:00,1, Landed - Delayed,2019-12-14,12:31,A4
+247,2019-12-14,Madrid,(MAD),JAL ,JL6940,Departure,10:00,1, Landed - Delayed,2019-12-14,12:31,A4
+248,2019-12-14,Madrid,(MAD),LATAM Airlines ,LA5430,Departure,10:00,1, Landed - Delayed,2019-12-14,12:31,A4
+249,2019-12-14,Porto,(OPO),Ryanair ,FR4585,Departure,10:00,2, Landed - On-time,2019-12-14,10:00,U35
+250,2019-12-14,Amsterdam,(AMS),Anisec ,VK8319,Departure,10:05,1, Landed - Delayed,2019-12-14,10:42,B40
+251,2019-12-14,Amsterdam,(AMS),Vueling ,VY9541,Departure,10:05,1, Landed - Delayed,2019-12-14,10:42,B40
+252,2019-12-14,London,(LTN),easyJet ,U22264,Departure,10:05,2, Landed - On-time,2019-12-14,09:55,M6
+253,2019-12-14,Miami,(MIA),American Airlines ,AA113,Departure,10:05,1, Landed - On-time,2019-12-14,10:00,D21
+254,2019-12-14,Miami,(MIA),Finnair ,AY4009,Departure,10:05,1, Landed - On-time,2019-12-14,10:00,D21
+255,2019-12-14,Miami,(MIA),British Airways ,BA1519,Departure,10:05,1, Landed - On-time,2019-12-14,10:00,D21
+256,2019-12-14,Miami,(MIA),Iberia ,IB4461,Departure,10:05,1, Landed - On-time,2019-12-14,10:00,D21
+257,2019-12-14,Miami,(MIA),El Al ,LY8162,Departure,10:05,1, Landed - On-time,2019-12-14,10:00,D21
+258,2019-12-14,Lanzarote,(ACE),Vueling ,VY2472,Departure,10:10,1, Landed - On-time,2019-12-14,10:24,A5
+259,2019-12-14,Lanzarote,(ACE),Iberia ,IB5205,Departure,10:10,1, Landed - On-time,2019-12-14,10:24,A5
+260,2019-12-14,Lanzarote,(ACE),Qatar Airways ,QR3720,Departure,10:10,1, Landed - On-time,2019-12-14,10:24,A5
+261,2019-12-14,Belgrade,(BEG),Air Serbia ,JU581,Departure,10:10,2, Landed - Delayed,2019-12-14,10:49,Y63
+262,2019-12-14,Belgrade,(BEG),Etihad Airways ,EY6037,Departure,10:10,2, Landed - Delayed,2019-12-14,10:49,Y63
+263,2019-12-14,Belgrade,(BEG),Air Europa ,UX3644,Departure,10:10,2, Landed - Delayed,2019-12-14,10:49,Y63
+264,2019-12-14,London,(LHR),British Airways ,BA473,Departure,10:10,1, Landed - On-time,2019-12-14,10:19,D14
+265,2019-12-14,London,(LHR),American Airlines ,AA6286,Departure,10:10,1, Landed - On-time,2019-12-14,10:19,D14
+266,2019-12-14,London,(LHR),Iberia ,IB7475,Departure,10:10,1, Landed - On-time,2019-12-14,10:19,D14
+267,2019-12-14,Lisbon,(LIS),Air China LTD ,CA7039,Departure,10:15,1, Landed - On-time,2019-12-14,10:09,B32
+268,2019-12-14,Lisbon,(LIS),Etihad Airways ,EY1519,Departure,10:15,1, Landed - On-time,2019-12-14,10:09,B32
+269,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48711,Departure,10:15,1, Landed - On-time,2019-12-14,10:09,B32
+270,2019-12-14,Lisbon,(LIS),Singapore Airlines ,SQ2793,Departure,10:15,1, Landed - On-time,2019-12-14,10:09,B32
+271,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1043,Departure,10:15,1, Landed - On-time,2019-12-14,10:09,B32
+272,2019-12-14,Casablanca,(CMN),Air Arabia Maroc ,3O374,Departure,10:20,2, Landed - On-time,2019-12-14,10:24,Y59
+273,2019-12-14,Dublin,(DUB),Ryanair ,FR6874,Departure,10:20,2, Landed - On-time,2019-12-14,10:20,W42
+274,2019-12-14,Hanover,(HAJ),Vueling ,VY1890,Departure,10:20,1, Landed - On-time,2019-12-14,10:11,B27
+275,2019-12-14,Hanover,(HAJ),Iberia ,IB5153,Departure,10:20,1, Landed - On-time,2019-12-14,10:11,B27
+276,2019-12-14,Dakar,(DSS),Air Senegal,HC405,Departure,10:25,2, Landed - Delayed,2019-12-14,11:00,Y57
+277,2019-12-14,Dublin,(DUB),Aer Lingus ,EI563,Departure,10:25,2, Landed - On-time,2019-12-14,10:17,W46
+278,2019-12-14,Dublin,(DUB),British Airways ,BA8949,Departure,10:25,2, Landed - On-time,2019-12-14,10:17,W46
+279,2019-12-14,Dublin,(DUB),Etihad Airways ,EY7877,Departure,10:25,2, Landed - On-time,2019-12-14,10:17,W46
+280,2019-12-14,Granada,(GRX),Vueling ,VY2020,Departure,10:25,1, Landed - On-time,2019-12-14,10:23,B52
+281,2019-12-14,Granada,(GRX),Iberia ,IB5167,Departure,10:25,1, Landed - On-time,2019-12-14,10:23,B52
+282,2019-12-14,Granada,(GRX),Qatar Airways ,QR3709,Departure,10:25,1, Landed - On-time,2019-12-14,10:23,B52
+283,2019-12-14,Manchester,(MAN),easyJet ,U21850,Departure,10:30,2, Landed - On-time,2019-12-14,10:22,-
+284,2019-12-14,Abu Dhabi,(AUH),Etihad Airways ,EY50,Departure,10:35,1, Landed - On-time,2019-12-14,10:34,-
+285,2019-12-14,Abu Dhabi,(AUH),Malaysia Airlines ,MH5228,Departure,10:35,1, Landed - On-time,2019-12-14,10:34,-
+286,2019-12-14,Abu Dhabi,(AUH),Air Europa ,UX2735,Departure,10:35,1, Landed - On-time,2019-12-14,10:34,-
+287,2019-12-14,London,(LGW),easyJet ,U28572,Departure,10:35,2, Landed - On-time,2019-12-14,10:37,-
+288,2019-12-14,Helsinki,(HEL),Finnair ,AY1654,Departure,10:40,1, Landed - On-time,2019-12-14,10:37,B48
+289,2019-12-14,Helsinki,(HEL),Iberia ,IB383,Departure,10:40,1, Landed - On-time,2019-12-14,10:37,B48
+290,2019-12-14,Helsinki,(HEL),JAL ,JL6854,Departure,10:40,1, Landed - On-time,2019-12-14,10:37,B48
+291,2019-12-14,Helsinki,(HEL),LATAM Airlines ,LA5323,Departure,10:40,1, Landed - On-time,2019-12-14,10:37,B48
+292,2019-12-14,New York,(JFK),American Airlines ,AA67,Departure,10:40,1, Landed - On-time,2019-12-14,10:39,D18
+293,2019-12-14,New York,(JFK),Finnair ,AY4003,Departure,10:40,1, Landed - On-time,2019-12-14,10:39,D18
+294,2019-12-14,New York,(JFK),British Airways ,BA1557,Departure,10:40,1, Landed - On-time,2019-12-14,10:39,D18
+295,2019-12-14,New York,(JFK),Iberia ,IB4186,Departure,10:40,1, Landed - On-time,2019-12-14,10:39,D18
+296,2019-12-14,New York,(JFK),El Al ,LY8001,Departure,10:40,1, Landed - On-time,2019-12-14,10:39,D18
+297,2019-12-14,Beijing,(PEK),Air China LTD ,CA846,Departure,10:40,1, Landed - On-time,2019-12-14,10:38,E73
+298,2019-12-14,Beijing,(PEK),TAP Air Portugal ,TP8320,Departure,10:40,1, Landed - On-time,2019-12-14,10:38,E73
+299,2019-12-14,Edinburgh,(EDI),Ryanair ,FR6267,Departure,10:45,2, Landed - On-time,2019-12-14,10:40,W44
+300,2019-12-14,Lyon,(LYS),easyJet ,U24416,Departure,10:50,2, Landed - On-time,2019-12-14,10:39,-
+301,2019-12-14,London,(STN),Ryanair ,FR9045,Departure,10:50,2, Landed - Delayed,2019-12-14,11:08,Y62
+302,2019-12-14,Bristol,(BRS),easyJet ,U26026,Departure,10:55,2, Diverted,2019-12-14,10:50,M6
+303,2019-12-14,Minsk,(MSQ),Belavia ,B2870,Departure,10:55,2, Landed - On-time,2019-12-14,10:58,W48
+304,2019-12-14,Olbia,(OLB),Vueling ,VY6142,Departure,10:55,1, Landed - On-time,2019-12-14,10:53,A20
+305,2019-12-14,Olbia,(OLB),Iberia ,IB5534,Departure,10:55,1, Landed - On-time,2019-12-14,10:53,A20
+306,2019-12-14,Olbia,(OLB),Qatar Airways ,QR3692,Departure,10:55,1, Landed - On-time,2019-12-14,10:53,A20
+307,2019-12-14,Newark,(EWR),United Airlines ,UA121,Departure,11:00,1, Landed - On-time,2019-12-14,11:04,D8
+308,2019-12-14,Newark,(EWR),Air Canada ,AC5935,Departure,11:00,1, Landed - On-time,2019-12-14,11:04,D8
+309,2019-12-14,Newark,(EWR),Lufthansa ,LH7969,Departure,11:00,1, Landed - On-time,2019-12-14,11:04,D8
+310,2019-12-14,Newark,(EWR),SWISS ,LX3006,Departure,11:00,1, Landed - On-time,2019-12-14,11:04,D8
+311,2019-12-14,Newark,(EWR),Brussels Airlines ,SN9035,Departure,11:00,1, Landed - On-time,2019-12-14,11:04,D8
+312,2019-12-14,Liverpool,(LPL),easyJet ,U27202,Departure,11:00,2, Landed - On-time,2019-12-14,10:46,-
+313,2019-12-14,Berlin,(SXF),easyJet ,U24532,Departure,11:05,2, Landed - On-time,2019-12-14,10:58,-
+314,2019-12-14,Tenerife,(TFS),Ryanair ,FR6376,Departure,11:05,2, Landed - On-time,2019-12-14,11:00,U33
+315,2019-12-14,Amsterdam,(AMS),KLM ,KL1666,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+316,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6212,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+317,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9396,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+318,2019-12-14,Amsterdam,(AMS),China Southern Airlines ,CZ7712,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+319,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9411,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+320,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9249,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+321,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9354,Departure,11:10,1, Landed - Delayed,2019-12-14,11:30,B24
+322,2019-12-14,Sao Paulo,(GRU),Iberia ,IB7067,Departure,11:20,1, Landed - On-time,2019-12-14,11:20,D10
+323,2019-12-14,Sao Paulo,(GRU),LATAM Airlines ,LA8115,Departure,11:20,1, Landed - On-time,2019-12-14,11:20,D10
+324,2019-12-14,Birmingham,(BHX),Ryanair ,FR9162,Departure,11:25,2, Landed - On-time,2019-12-14,11:20,W42
+325,2019-12-14,Bologna,(BLQ),Ryanair ,FR9366,Departure,11:25,2, Landed - On-time,2019-12-14,11:27,U35
+326,2019-12-14,Florence,(FLR),Vueling ,VY6005,Departure,11:25,1, Landed - On-time,2019-12-14,11:14,B35
+327,2019-12-14,Florence,(FLR),British Airways ,BA8168,Departure,11:25,1, Landed - On-time,2019-12-14,11:14,B35
+328,2019-12-14,Florence,(FLR),Iberia ,IB5510,Departure,11:25,1, Landed - On-time,2019-12-14,11:14,B35
+329,2019-12-14,Florence,(FLR),LATAM Airlines ,LA5743,Departure,11:25,1, Landed - On-time,2019-12-14,11:14,B35
+330,2019-12-14,Florence,(FLR),Qatar Airways ,QR3730,Departure,11:25,1, Landed - On-time,2019-12-14,11:14,B35
+331,2019-12-14,Moscow,(SVO),Aeroflot ,SU2639,Departure,11:25,1, Landed - On-time,2019-12-14,11:17,D16
+332,2019-12-14,Moscow,(SVO),Air Europa ,UX3283,Departure,11:25,1, Landed - On-time,2019-12-14,11:17,D16
+333,2019-12-14,Bucharest,(OTP),TAROM ,RO422,Departure,11:30,1, Landed - On-time,2019-12-14,11:26,D6
+334,2019-12-14,Bucharest,(OTP),Air Europa ,UX3707,Departure,11:30,1, Landed - On-time,2019-12-14,11:26,D6
+335,2019-12-14,Sevilla,(SVQ),Vueling ,VY2216,Departure,11:30,1, Landed - On-time,2019-12-14,11:36,B47
+336,2019-12-14,Sevilla,(SVQ),Iberia ,IB5196,Departure,11:30,1, Landed - On-time,2019-12-14,11:36,B47
+337,2019-12-14,Sevilla,(SVQ),LATAM Airlines ,LA5799,Departure,11:30,1, Landed - On-time,2019-12-14,11:36,B47
+338,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3617,Departure,11:30,1, Landed - On-time,2019-12-14,11:36,B47
+339,2019-12-14,Birmingham,(BHX),Vueling ,VY8752,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D11
+340,2019-12-14,Birmingham,(BHX),British Airways ,BA8196,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D11
+341,2019-12-14,Birmingham,(BHX),Iberia ,IB5819,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D11
+342,2019-12-14,London,(LHR),British Airways ,BA479,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D14
+343,2019-12-14,London,(LHR),American Airlines ,AA6291,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D14
+344,2019-12-14,London,(LHR),Iberia ,IB7480,Departure,11:40,1, Landed - On-time,2019-12-14,11:40,D14
+345,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR3070,Departure,11:40,2, Landed - On-time,2019-12-14,11:36,U34
+346,2019-12-14,Berlin,(TXL),Vueling ,VY1882,Departure,11:40,1, Landed - On-time,2019-12-14,11:41,B55
+347,2019-12-14,Berlin,(TXL),Iberia ,IB5146,Departure,11:40,1, Landed - On-time,2019-12-14,11:41,B55
+348,2019-12-14,Athens,(ATH),Aegean Airlines ,A3711,Departure,11:45,1, Landed - On-time,2019-12-14,11:53,B32
+349,2019-12-14,Athens,(ATH),TAP Air Portugal ,TP7425,Departure,11:45,1, Landed - On-time,2019-12-14,11:53,B32
+350,2019-12-14,Brussels,(CRL),Ryanair ,FR2834,Departure,11:45,2, Landed - On-time,2019-12-14,11:42,U31
+351,2019-12-14,Madrid,(MAD),Air Europa ,UX7706,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+352,2019-12-14,Madrid,(MAD),Aeromexico ,AM6810,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+353,2019-12-14,Madrid,(MAD),Aerolineas Argentinas ,AR7365,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+354,2019-12-14,Madrid,(MAD),Delta Air Lines ,DL6767,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+355,2019-12-14,Madrid,(MAD),Ethiopian Airlines ,ET1164,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+356,2019-12-14,Madrid,(MAD),Etihad Airways ,EY4389,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+357,2019-12-14,Madrid,(MAD),Korean Air ,KE6652,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+358,2019-12-14,Madrid,(MAD),Middle East Airlines ,ME2057,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+359,2019-12-14,Madrid,(MAD),Aeroflot ,SU3667,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+360,2019-12-14,Madrid,(MAD),Saudia ,SV6178,Departure,11:45,1, Landed - Delayed,2019-12-14,12:31,B62
+361,2019-12-14,Munich,(MUC),Lufthansa ,LH1811,Departure,11:45,1, Landed - On-time,2019-12-14,11:50,B40
+362,2019-12-14,Munich,(MUC),SAS ,SK3303,Departure,11:45,1, Landed - On-time,2019-12-14,11:50,B40
+363,2019-12-14,Munich,(MUC),United Airlines ,UA9291,Departure,11:45,1, Landed - On-time,2019-12-14,11:50,B40
+364,2019-12-14,Rome,(FCO),Alitalia ,AZ77,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+365,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7227,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+366,2019-12-14,Rome,(FCO),Delta Air Lines ,DL6590,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+367,2019-12-14,Rome,(FCO),Etihad Airways ,EY2804,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+368,2019-12-14,Rome,(FCO),Bulgaria Air ,FB1730,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+369,2019-12-14,Rome,(FCO),Air Serbia ,JU7285,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+370,2019-12-14,Rome,(FCO),Korean Air ,KE6304,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+371,2019-12-14,Rome,(FCO),China Eastern Airlines ,MU8196,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+372,2019-12-14,Rome,(FCO),Saudia ,SV6238,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+373,2019-12-14,Rome,(FCO),Air Europa ,UX3126,Departure,11:50,1, Landed - On-time,2019-12-14,11:37,-
+374,2019-12-14,Toronto,(YYZ),Air Canada ,AC1915,Departure,11:50,1, Landed - On-time,2019-12-14,11:47,-
+375,2019-12-14,Toronto,(YYZ),Lufthansa ,LH6634,Departure,11:50,1, Landed - On-time,2019-12-14,11:47,-
+376,2019-12-14,Toronto,(YYZ),United Airlines ,UA8603,Departure,11:50,1, Landed - On-time,2019-12-14,11:47,-
+377,2019-12-14,Rome,(FCO),Vueling ,VY6104,Departure,11:55,1, Landed - Delayed,2019-12-14,12:27,B46
+378,2019-12-14,Rome,(FCO),British Airways ,BA8097,Departure,11:55,1, Landed - Delayed,2019-12-14,12:27,B46
+379,2019-12-14,Rome,(FCO),Iberia ,IB5519,Departure,11:55,1, Landed - Delayed,2019-12-14,12:27,B46
+380,2019-12-14,Rome,(FCO),LATAM Airlines ,LA5771,Departure,11:55,1, Landed - Delayed,2019-12-14,12:27,B46
+381,2019-12-14,Geneva,(GVA),easyJet ,U21406,Departure,11:55,2, Landed - Delayed,2019-12-14,16:34,-
+382,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1854,Departure,11:55,1, Landed - On-time,2019-12-14,12:07,E74
+383,2019-12-14,Istanbul,(ISL),Uzbekistan Airways ,HY7294,Departure,11:55,1, Landed - On-time,2019-12-14,12:07,E74
+384,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6037,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+385,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4846,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+386,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2410,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+387,2019-12-14,Palma Mallorca,(PMI),Delta Air Lines ,DL6746,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+388,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3341,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+389,2019-12-14,Palma Mallorca,(PMI),TAROM ,RO9423,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+390,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3686,Departure,11:55,1, Landed - On-time,2019-12-14,11:56,B56
+391,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3904,Departure,11:55,1, Landed - On-time,2019-12-14,12:01,B67
+392,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5150,Departure,11:55,1, Landed - On-time,2019-12-14,12:01,B67
+393,2019-12-14,Palma Mallorca,(PMI),LATAM Airlines ,LA5756,Departure,11:55,1, Landed - On-time,2019-12-14,12:01,B67
+394,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3691,Departure,11:55,1, Landed - On-time,2019-12-14,12:01,B67
+395,2019-12-14,Madrid,(MAD),Iberia ,IB1201,Departure,12:00,1, Landed - Delayed,2019-12-14,12:53,A2
+396,2019-12-14,Madrid,(MAD),SA AVIANCA ,AV6031,Departure,12:00,1, Landed - Delayed,2019-12-14,12:53,A2
+397,2019-12-14,Madrid,(MAD),LATAM Airlines ,LA5429,Departure,12:00,1, Landed - Delayed,2019-12-14,12:53,A2
+398,2019-12-14,Bucharest,(OTP),Blue Air ,0B108,Departure,12:00,2, Landed - On-time,2019-12-14,12:08,Y57
+399,2019-12-14,Turin,(TRN),Ryanair ,FR9111,Departure,12:00,2, Landed - On-time,2019-12-14,12:00,U32
+400,2019-12-14,Malaga,(AGP),Vueling ,VY2121,Departure,12:05,1, Landed - On-time,2019-12-14,11:57,B27
+401,2019-12-14,Malaga,(AGP),Iberia ,IB5178,Departure,12:05,1, Landed - On-time,2019-12-14,11:57,B27
+402,2019-12-14,Malaga,(AGP),LATAM Airlines ,LA5749,Departure,12:05,1, Landed - On-time,2019-12-14,11:57,B27
+403,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3510,Departure,12:05,1, Landed - On-time,2019-12-14,11:57,B27
+404,2019-12-14,Tenerife,(TFN),Vueling ,VY3216,Departure,12:05,1, Landed - On-time,2019-12-14,12:05,B65
+405,2019-12-14,Tenerife,(TFN),Iberia ,IB5368,Departure,12:05,1, Landed - On-time,2019-12-14,12:05,B65
+406,2019-12-14,Tenerife,(TFN),Qatar Airways ,QR3591,Departure,12:05,1, Landed - On-time,2019-12-14,12:05,B65
+407,2019-12-14,New York,(JFK),Delta Air Lines ,DL477,Departure,12:10,1, Landed - On-time,2019-12-14,12:20,E70
+408,2019-12-14,New York,(JFK),Air France ,AF3596,Departure,12:10,1, Landed - On-time,2019-12-14,12:20,E70
+409,2019-12-14,New York,(JFK),Aeromexico ,AM3139,Departure,12:10,1, Landed - On-time,2019-12-14,12:20,E70
+410,2019-12-14,New York,(JFK),KLM ,KL6066,Departure,12:10,1, Landed - On-time,2019-12-14,12:20,E70
+411,2019-12-14,New York,(JFK),Air Europa ,UX3399,Departure,12:10,1, Landed - On-time,2019-12-14,12:20,E70
+412,2019-12-14,Las Palmas,(LPA),Vueling ,VY3002,Departure,12:10,1, Landed - On-time,2019-12-14,12:13,B51
+413,2019-12-14,Las Palmas,(LPA),Iberia ,IB5283,Departure,12:10,1, Landed - On-time,2019-12-14,12:13,B51
+414,2019-12-14,Las Palmas,(LPA),Qatar Airways ,QR3638,Departure,12:10,1, Landed - On-time,2019-12-14,12:13,B51
+415,2019-12-14,Milan,(MXP),Vueling ,VY6334,Departure,12:10,1, Landed - On-time,2019-12-14,12:07,B68
+416,2019-12-14,Milan,(MXP),British Airways ,BA8842,Departure,12:10,1, Landed - On-time,2019-12-14,12:07,B68
+417,2019-12-14,Milan,(MXP),Iberia ,IB5587,Departure,12:10,1, Landed - On-time,2019-12-14,12:07,B68
+418,2019-12-14,Milan,(MXP),LATAM Airlines ,LA5748,Departure,12:10,1, Landed - On-time,2019-12-14,12:07,B68
+419,2019-12-14,Paris,(CDG),Air France ,AF1349,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+420,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7083,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+421,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8700,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+422,2019-12-14,Paris,(CDG),Air Mauritius ,MK9321,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+423,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU8638,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+424,2019-12-14,Paris,(CDG),Air Austral ,UU8349,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+425,2019-12-14,Paris,(CDG),Air Europa ,UX2207,Departure,12:15,1, Landed - On-time,2019-12-14,12:10,B28
+426,2019-12-14,Lisbon,(LIS),Vueling ,VY8466,Departure,12:15,1, Landed - Delayed,2019-12-14,13:25,B52
+427,2019-12-14,Lisbon,(LIS),British Airways ,BA2052,Departure,12:15,1, Landed - Delayed,2019-12-14,13:25,B52
+428,2019-12-14,Lisbon,(LIS),Iberia ,IB5783,Departure,12:15,1, Landed - Delayed,2019-12-14,13:25,B52
+429,2019-12-14,Lisbon,(LIS),LATAM Airlines ,LA5782,Departure,12:15,1, Landed - Delayed,2019-12-14,13:25,B52
+430,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3614,Departure,12:15,1, Landed - Delayed,2019-12-14,13:25,B52
+431,2019-12-14,Stuttgart,(STR),Eurowings ,EW2529,Departure,12:20,2, Landed - On-time,2019-12-14,12:13,-
+432,2019-12-14,"Basel, Switzerland / Mulhouse",(BSL),easyJet ,U21082,Departure,12:25,2, Landed - On-time,2019-12-14,12:14,-
+433,2019-12-14,London,(LGW),easyJet ,U28576,Departure,12:25,2, Landed - On-time,2019-12-14,12:23,-
+434,2019-12-14,Asturias,(OVD),Vueling ,VY1579,Departure,12:25,1, Landed - On-time,2019-12-14,12:39,B26
+435,2019-12-14,Asturias,(OVD),Iberia ,IB5102,Departure,12:25,1, Landed - On-time,2019-12-14,12:39,B26
+436,2019-12-14,Asturias,(OVD),Qatar Airways ,QR3685,Departure,12:25,1, Landed - On-time,2019-12-14,12:39,B26
+437,2019-12-14,Brussels,(BRU),Brussels Airlines ,SN3702,Departure,12:30,1, Landed - On-time,2019-12-14,12:35,B48
+438,2019-12-14,Brussels,(BRU),Vueling ,VY8992,Departure,12:30,1, Landed - Delayed,2019-12-14,13:06,B34
+439,2019-12-14,Brussels,(BRU),Iberia ,IB5847,Departure,12:30,1, Landed - Delayed,2019-12-14,13:06,B34
+440,2019-12-14,Brussels,(BRU),LATAM Airlines ,LA5764,Departure,12:30,1, Landed - Delayed,2019-12-14,13:06,B34
+441,2019-12-14,Casablanca,(CMN),Royal Air Maroc ,AT965,Departure,12:35,1, Unknown,2019-12-14,12:50,D8
+442,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1035,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+443,2019-12-14,Lisbon,(LIS),Aegean Airlines ,A31730,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+444,2019-12-14,Lisbon,(LIS),Azul ,AD7223,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+445,2019-12-14,Lisbon,(LIS),Air China LTD ,CA7035,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+446,2019-12-14,Lisbon,(LIS),Etihad Airways ,EY1518,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+447,2019-12-14,Lisbon,(LIS),El Al ,LY9013,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+448,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48707,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+449,2019-12-14,Lisbon,(LIS),Singapore Airlines ,SQ2797,Departure,12:35,1, Landed - On-time,2019-12-14,12:35,B24
+450,2019-12-14,Naples,(NAP),Ryanair ,FR5710,Departure,12:35,2, Landed - Delayed,2019-12-14,12:53,U35
+451,2019-12-14,Istanbul,(SAW),Pegasus ,PC1092,Departure,12:35,2, Landed - Delayed,2019-12-14,13:08,W46
+452,2019-12-14,London,(LHR),British Airways ,BA485,Departure,12:40,1, Landed - On-time,2019-12-14,12:50,D16
+453,2019-12-14,London,(LHR),American Airlines ,AA6296,Departure,12:40,1, Landed - On-time,2019-12-14,12:50,D16
+454,2019-12-14,London,(LHR),Iberia ,IB7485,Departure,12:40,1, Landed - On-time,2019-12-14,12:50,D16
+455,2019-12-14,London,(LHR),JAL ,JL6514,Departure,12:40,1, Landed - On-time,2019-12-14,12:50,D16
+456,2019-12-14,Dusseldorf,(DUS),Vueling ,VY1898,Departure,12:45,1, Landed - Delayed,2019-12-14,13:04,B55
+457,2019-12-14,Dusseldorf,(DUS),Iberia ,IB5155,Departure,12:45,1, Landed - Delayed,2019-12-14,13:04,B55
+458,2019-12-14,Ibiza,(IBZ),Vueling ,VY3510,Departure,12:45,1, Landed - On-time,2019-12-14,12:53,B33
+459,2019-12-14,Ibiza,(IBZ),Iberia ,IB5419,Departure,12:45,1, Landed - On-time,2019-12-14,12:53,B33
+460,2019-12-14,Ibiza,(IBZ),LATAM Airlines ,LA5776,Departure,12:45,1, Landed - On-time,2019-12-14,12:53,B33
+461,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3737,Departure,12:45,1, Landed - On-time,2019-12-14,12:53,B33
+462,2019-12-14,Amsterdam,(AMS),KLM ,KL1670,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+463,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6508,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+464,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9480,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+465,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9354,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+466,2019-12-14,Amsterdam,(AMS),Etihad Airways ,EY7333,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+467,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9023,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+468,2019-12-14,Amsterdam,(AMS),Korean Air ,KE6414,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+469,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9830,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+470,2019-12-14,Amsterdam,(AMS),China Eastern Airlines ,MU1842,Departure,13:00,1, Landed - On-time,2019-12-14,13:03,B32
+471,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1127,Departure,13:00,1, Landed - Delayed,2019-12-14,13:23,B36
+472,2019-12-14,Oslo,(OSL),Norwegian Air Shuttle ,DY1741,Departure,13:05,2, Landed - Delayed,2019-12-14,13:32,U32
+473,2019-12-14,Toronto,(YYZ),Air Transat ,TS269,Departure,13:05,2, Landed - On-time,2019-12-14,12:57,Y56
+474,2019-12-14,Paris,(CDG),easyJet ,U23920,Departure,13:10,2, Landed - On-time,2019-12-14,13:10,-
+475,2019-12-14,London,(LTN),Ryanair ,FR5091,Departure,13:10,2, Landed - Delayed,2019-12-14,14:26,W42
+476,2019-12-14,Moscow,(SVO),Aeroflot ,SU2719,Departure,13:15,1, Landed - Delayed,2019-12-14,14:25,D16
+477,2019-12-14,Moscow,(SVO),Aeromexico ,AM7024,Departure,13:15,1, Landed - Delayed,2019-12-14,14:25,D16
+478,2019-12-14,Moscow,(SVO),Air Europa ,UX3247,Departure,13:15,1, Landed - Delayed,2019-12-14,14:25,D16
+479,2019-12-14,Saint Petersburg,(LED),Aeroflot ,SU6702,Departure,13:20,1, Landed,2019-12-14,13:20,-
+480,2019-12-14,Warsaw,(WAW),LOT - Polish Airlines ,LO438,Departure,13:25,1, Landed - On-time,2019-12-14,13:23,B56
+481,2019-12-14,Brussels,(BRU),Ryanair ,FR2922,Departure,13:30,2, Landed - On-time,2019-12-14,13:42,U36
+482,2019-12-14,Kiev/Kyiv,(KBP),UIA ,PS992,Departure,13:30,1, Landed - Delayed,2019-12-14,13:51,D10
+483,2019-12-14,Kiev/Kyiv,(KBP),TAP Air Portugal ,TP8223,Departure,13:30,1, Landed - Delayed,2019-12-14,13:51,D10
+484,2019-12-14,Madrid,(MAD),Iberia ,IB1331,Departure,13:30,1, Landed - Delayed,2019-12-14,14:02,A8
+485,2019-12-14,Milan,(BGY),Ryanair ,FR6305,Departure,13:40,2, Landed - On-time,2019-12-14,13:38,U34
+486,2019-12-14,Moscow,(DME),Ural Airlines ,U6846,Departure,13:40,2, Landed - Delayed,2019-12-14,14:43,Y58
+487,2019-12-14,Mexico City,(MEX),Aeromexico ,AM38,Departure,13:40,1, Landed - On-time,2019-12-14,13:35,D21
+488,2019-12-14,Mexico City,(MEX),El Al ,LY8227,Departure,13:40,1, Landed - On-time,2019-12-14,13:35,D21
+489,2019-12-14,Mexico City,(MEX),Aeroflot ,SU4416,Departure,13:40,1, Landed - On-time,2019-12-14,13:35,D21
+490,2019-12-14,Mexico City,(MEX),Air Europa ,UX2486,Departure,13:40,1, Landed - On-time,2019-12-14,13:35,D21
+491,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1131,Departure,13:50,1, Landed - On-time,2019-12-14,13:51,B28
+492,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9169,Departure,13:50,1, Landed - On-time,2019-12-14,13:51,B28
+493,2019-12-14,Frankfurt,(FRA),Air China LTD ,CA6294,Departure,13:50,1, Landed - On-time,2019-12-14,13:51,B28
+494,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9314,Departure,13:50,1, Landed - On-time,2019-12-14,13:51,B28
+495,2019-12-14,Milan,(MXP),easyJet ,U22762,Departure,13:50,2, Landed - On-time,2019-12-14,13:48,-
+496,2019-12-14,Prague,(PRG),Ryanair ,FR3039,Departure,13:50,2, Landed - On-time,2019-12-14,13:50,U33
+497,2019-12-14,Marrakech,(RAK),Ryanair ,FR2243,Departure,13:50,2, Landed - On-time,2019-12-14,13:55,W44
+498,2019-12-14,Moscow,(DME),S7 Airlines ,S73662,Departure,13:55,1, Landed - On-time,2019-12-14,13:58,-
+499,2019-12-14,London,(STN),Ryanair ,FR9015,Departure,13:55,2, Landed - Delayed,2019-12-14,14:37,Y57
+500,2019-12-14,Madrid,(MAD),Vueling ,VY1401,Departure,14:00,1, Landed - Delayed,2019-12-14,14:31,A4
+501,2019-12-14,Madrid,(MAD),Iberia ,IB5052,Departure,14:00,1, Landed - Delayed,2019-12-14,14:31,A4
+502,2019-12-14,Madrid,(MAD),LATAM Airlines ,LA5783,Departure,14:00,1, Landed - Delayed,2019-12-14,14:31,A4
+503,2019-12-14,Venice,(VCE),Vueling ,VY6404,Departure,14:00,1, Landed - On-time,2019-12-14,14:09,B69
+504,2019-12-14,Venice,(VCE),British Airways ,BA8163,Departure,14:00,1, Landed - On-time,2019-12-14,14:09,B69
+505,2019-12-14,Venice,(VCE),Iberia ,IB5596,Departure,14:00,1, Landed - On-time,2019-12-14,14:09,B69
+506,2019-12-14,Venice,(VCE),LATAM Airlines ,LA5765,Departure,14:00,1, Landed - On-time,2019-12-14,14:09,B69
+507,2019-12-14,Venice,(VCE),Qatar Airways ,QR3786,Departure,14:00,1, Landed - On-time,2019-12-14,14:09,B69
+508,2019-12-14,Paris,(ORY),Vueling ,VY8018,Departure,14:05,1, Landed - On-time,2019-12-14,14:10,B47
+509,2019-12-14,Paris,(ORY),British Airways ,BA8146,Departure,14:05,1, Landed - On-time,2019-12-14,14:10,B47
+510,2019-12-14,Paris,(ORY),Iberia ,IB5724,Departure,14:05,1, Landed - On-time,2019-12-14,14:10,B47
+511,2019-12-14,Paris,(ORY),LATAM Airlines ,LA5751,Departure,14:05,1, Landed - On-time,2019-12-14,14:10,B47
+512,2019-12-14,Valladolid,(VLL),Ryanair ,FR6320,Departure,14:10,2, Landed - On-time,2019-12-14,14:24,U31
+513,2019-12-14,London,(LHR),British Airways ,BA475,Departure,14:15,1, Landed - Delayed,2019-12-14,14:46,D14
+514,2019-12-14,London,(LHR),American Airlines ,AA6288,Departure,14:15,1, Landed - Delayed,2019-12-14,14:46,D14
+515,2019-12-14,London,(LHR),Iberia ,IB7477,Departure,14:15,1, Landed - Delayed,2019-12-14,14:46,D14
+516,2019-12-14,London,(LHR),JAL ,JL7742,Departure,14:15,1, Landed - Delayed,2019-12-14,14:46,D14
+517,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3920,Departure,14:15,1, Landed - On-time,2019-12-14,14:14,A20
+518,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5463,Departure,14:15,1, Landed - On-time,2019-12-14,14:14,A20
+519,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3664,Departure,14:15,1, Landed - On-time,2019-12-14,14:14,A20
+520,2019-12-14,La Coruna,(LCG),Vueling ,VY1294,Departure,14:20,1, Landed - On-time,2019-12-14,14:13,B61
+521,2019-12-14,La Coruna,(LCG),Iberia ,IB5021,Departure,14:20,1, Landed - On-time,2019-12-14,14:13,B61
+522,2019-12-14,La Coruna,(LCG),LATAM Airlines ,LA5779,Departure,14:20,1, Landed - On-time,2019-12-14,14:13,B61
+523,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3628,Departure,14:20,1, Landed - On-time,2019-12-14,14:13,B61
+524,2019-12-14,Bologna,(BLQ),Vueling ,VY6522,Departure,14:30,1, Landed - On-time,2019-12-14,14:22,B48
+525,2019-12-14,Bologna,(BLQ),Iberia ,IB5605,Departure,14:30,1, Landed - On-time,2019-12-14,14:22,B48
+526,2019-12-14,Bologna,(BLQ),LATAM Airlines ,LA5761,Departure,14:30,1, Landed - On-time,2019-12-14,14:22,B48
+527,2019-12-14,Bologna,(BLQ),Qatar Airways ,QR3556,Departure,14:30,1, Landed - On-time,2019-12-14,14:22,B48
+528,2019-12-14,Nantes,(NTE),Vueling ,VY2972,Departure,14:30,1, Landed - On-time,2019-12-14,14:31,B26
+529,2019-12-14,Nantes,(NTE),Iberia ,IB5261,Departure,14:30,1, Landed - On-time,2019-12-14,14:31,B26
+530,2019-12-14,Nantes,(NTE),LATAM Airlines ,LA5845,Departure,14:30,1, Landed - On-time,2019-12-14,14:31,B26
+531,2019-12-14,Bogota,(BOG),SA AVIANCA ,AV19,Departure,14:35,1, Landed - On-time,2019-12-14,14:37,-
+532,2019-12-14,Bogota,(BOG),Air China LTD ,CA5305,Departure,14:35,1, Landed - On-time,2019-12-14,14:37,-
+533,2019-12-14,Bogota,(BOG),Singapore Airlines ,SQ1189,Departure,14:35,1, Landed - On-time,2019-12-14,14:37,-
+534,2019-12-14,Bogota,(BOG),Turkish Airlines ,TK8473,Departure,14:35,1, Landed - On-time,2019-12-14,14:37,-
+535,2019-12-14,Tel Aviv-Yafo,(TLV),Norwegian Air International ,D85672,Departure,14:40,2, Landed - Delayed,2019-12-14,15:16,W46
+536,2019-12-14,Zurich,(ZRH),SWISS ,LX1955,Departure,14:45,1, Landed - Delayed,2019-12-14,15:09,-
+537,2019-12-14,Melilla,(MLN),Iberia ,IB8250,Departure,14:50,1, Landed - On-time,2019-12-14,14:50,-
+538,2019-12-14,Melilla,(MLN),Qatar Airways ,QR5075,Departure,14:50,1, Landed - On-time,2019-12-14,14:50,-
+539,2019-12-14,Paris,(CDG),Air France ,AF1649,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+540,2019-12-14,Paris,(CDG),Aeromexico ,AM6029,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+541,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8579,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+542,2019-12-14,Paris,(CDG),Gol ,G35236,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+543,2019-12-14,Paris,(CDG),JAL ,JL5318,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+544,2019-12-14,Paris,(CDG),Air Serbia ,JU7816,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+545,2019-12-14,Paris,(CDG),Korean Air ,KE6472,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+546,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3173,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+547,2019-12-14,Paris,(CDG),Air Mauritius ,MK9323,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+548,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU4996,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+549,2019-12-14,Paris,(CDG),Air Austral ,UU8649,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+550,2019-12-14,Paris,(CDG),Air Europa ,UX2269,Departure,14:55,1, Landed - On-time,2019-12-14,15:03,B24
+551,2019-12-14,London,(LTN),easyJet ,U22270,Departure,15:00,2, Landed - On-time,2019-12-14,14:55,-
+552,2019-12-14,Stuttgart,(STR),Vueling ,VY1866,Departure,15:00,1, Landed - On-time,2019-12-14,14:57,B25
+553,2019-12-14,Stuttgart,(STR),Iberia ,IB5139,Departure,15:00,1, Landed - On-time,2019-12-14,14:57,B25
+554,2019-12-14,Doha,(DOH),Qatar Airways ,QR146,Departure,15:10,1, Landed - On-time,2019-12-14,15:19,E70
+555,2019-12-14,Doha,(DOH),SriLankan Airlines ,UL3550,Departure,15:10,1, Landed - On-time,2019-12-14,15:19,E70
+556,2019-12-14,Dubai,(DXB),Emirates ,EK256,Departure,15:10,1, Landed - On-time,2019-12-14,15:12,-
+557,2019-12-14,Dubai,(DXB),Qantas ,QF8256,Departure,15:10,1, Landed - On-time,2019-12-14,15:12,-
+558,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1468,Departure,15:10,1, Landed - On-time,2019-12-14,15:07,D21
+559,2019-12-14,Istanbul,(ISL),Uzbekistan Airways ,HY7298,Departure,15:10,1, Landed - On-time,2019-12-14,15:07,D21
+560,2019-12-14,Rome,(FCO),Vueling ,VY6110,Departure,15:15,1, Landed - On-time,2019-12-14,15:13,B27
+561,2019-12-14,Rome,(FCO),British Airways ,BA8104,Departure,15:15,1, Landed - On-time,2019-12-14,15:13,B27
+562,2019-12-14,Rome,(FCO),Iberia ,IB5523,Departure,15:15,1, Landed - On-time,2019-12-14,15:13,B27
+563,2019-12-14,Malaga,(AGP),Vueling ,VY2117,Departure,15:25,1, Landed - On-time,2019-12-14,15:19,B33
+564,2019-12-14,Malaga,(AGP),Iberia ,IB5175,Departure,15:25,1, Landed - On-time,2019-12-14,15:19,B33
+565,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3717,Departure,15:25,1, Landed - On-time,2019-12-14,15:19,B33
+566,2019-12-14,Cairo,(CAI),EgyptAir ,MS768,Departure,15:25,1, Landed - Delayed,2019-12-14,15:59,D10
+567,2019-12-14,Cairo,(CAI),TAP Air Portugal ,TP7013,Departure,15:25,1, Landed - Delayed,2019-12-14,15:59,D10
+568,2019-12-14,Munich,(MUC),Lufthansa ,LH1813,Departure,15:25,1, Landed - On-time,2019-12-14,15:28,B36
+569,2019-12-14,Munich,(MUC),Aegean Airlines ,A31473,Departure,15:25,1, Landed - On-time,2019-12-14,15:28,B36
+570,2019-12-14,Munich,(MUC),SA AVIANCA ,AV6512,Departure,15:25,1, Landed - On-time,2019-12-14,15:28,B36
+571,2019-12-14,Munich,(MUC),ANA ,NH6076,Departure,15:25,1, Landed - On-time,2019-12-14,15:28,B36
+572,2019-12-14,Munich,(MUC),South African Airways ,SA7833,Departure,15:25,1, Landed - On-time,2019-12-14,15:28,B36
+573,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1039,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+574,2019-12-14,Lisbon,(LIS),Air Canada ,AC6939,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+575,2019-12-14,Lisbon,(LIS),Azul ,AD7243,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+576,2019-12-14,Lisbon,(LIS),UIA ,PS9937,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+577,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48735,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+578,2019-12-14,Lisbon,(LIS),United Airlines ,UA6871,Departure,15:30,1, Landed - On-time,2019-12-14,15:38,B28
+579,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6071,Departure,15:30,1, Landed - On-time,2019-12-14,15:30,B52
+580,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4844,Departure,15:30,1, Landed - On-time,2019-12-14,15:30,B52
+581,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2412,Departure,15:30,1, Landed - On-time,2019-12-14,15:30,B52
+582,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3357,Departure,15:30,1, Landed - On-time,2019-12-14,15:30,B52
+583,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3647,Departure,15:30,1, Landed - On-time,2019-12-14,15:30,B52
+584,2019-12-14,Lisbon,(LIS),Vueling ,VY8464,Departure,15:35,1, Landed - On-time,2019-12-14,15:25,A22
+585,2019-12-14,Lisbon,(LIS),British Airways ,BA2050,Departure,15:35,1, Landed - On-time,2019-12-14,15:25,A22
+586,2019-12-14,Lisbon,(LIS),Iberia ,IB5781,Departure,15:35,1, Landed - On-time,2019-12-14,15:25,A22
+587,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3592,Departure,15:35,1, Landed - On-time,2019-12-14,15:25,A22
+588,2019-12-14,London,(STN),Ryanair ,FR3843,Departure,15:35,2, Landed - On-time,2019-12-14,15:35,W44
+589,2019-12-14,London,(LGW),Vueling ,VY7838,Departure,15:40,1, Landed - On-time,2019-12-14,15:41,D11
+590,2019-12-14,London,(LGW),British Airways ,BA8081,Departure,15:40,1, Landed - On-time,2019-12-14,15:41,D11
+591,2019-12-14,London,(LGW),Iberia ,IB5710,Departure,15:40,1, Landed - On-time,2019-12-14,15:41,D11
+592,2019-12-14,London,(LGW),LATAM Airlines ,LA5746,Departure,15:40,1, Landed - On-time,2019-12-14,15:41,D11
+593,2019-12-14,Amsterdam,(AMS),Vueling ,VY8308,Departure,15:45,1, Landed - On-time,2019-12-14,15:41,B31
+594,2019-12-14,Amsterdam,(AMS),British Airways ,BA8119,Departure,15:45,1, Landed - On-time,2019-12-14,15:41,B31
+595,2019-12-14,Amsterdam,(AMS),Iberia ,IB5304,Departure,15:45,1, Landed - On-time,2019-12-14,15:41,B31
+596,2019-12-14,Amsterdam,(AMS),LATAM Airlines ,LA5754,Departure,15:45,1, Landed - On-time,2019-12-14,15:41,B31
+597,2019-12-14,Bilbao,(BIO),Vueling ,VY1426,Departure,15:55,1, Landed - On-time,2019-12-14,16:02,B55
+598,2019-12-14,Bilbao,(BIO),Iberia ,IB5058,Departure,15:55,1, Landed - On-time,2019-12-14,16:02,B55
+599,2019-12-14,Bilbao,(BIO),LATAM Airlines ,LA5759,Departure,15:55,1, Landed - On-time,2019-12-14,16:02,B55
+600,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3540,Departure,15:55,1, Landed - On-time,2019-12-14,16:02,B55
+601,2019-12-14,Marseille,(MRS),Vueling ,VY1508,Departure,15:55,1, Landed - On-time,2019-12-14,15:53,B26
+602,2019-12-14,Marseille,(MRS),Iberia ,IB5089,Departure,15:55,1, Landed - On-time,2019-12-14,15:53,B26
+603,2019-12-14,Marseille,(MRS),LATAM Airlines ,LA5788,Departure,15:55,1, Landed - On-time,2019-12-14,15:53,B26
+604,2019-12-14,Vienna,(VIE),Anisec ,VK1009,Departure,15:55,1, Landed - On-time,2019-12-14,15:52,B47
+605,2019-12-14,Vienna,(VIE),Vueling ,VY9565,Departure,15:55,1, Landed - On-time,2019-12-14,15:52,B47
+606,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8841,Departure,16:00,2, Landed - On-time,2019-12-14,15:55,U35
+607,2019-12-14,Paris,(CDG),Vueling ,VY8244,Departure,16:05,1, Landed - On-time,2019-12-14,16:00,B56
+608,2019-12-14,Paris,(CDG),British Airways ,BA8834,Departure,16:05,1, Landed - On-time,2019-12-14,16:00,B56
+609,2019-12-14,Paris,(CDG),Iberia ,IB5745,Departure,16:05,1, Landed - On-time,2019-12-14,16:00,B56
+610,2019-12-14,Rome,(FCO),Ryanair ,FR6983,Departure,16:05,2, Landed - On-time,2019-12-14,16:08,U31
+611,2019-12-14,London,(LTN),easyJet ,U22268,Departure,16:10,2, Landed - On-time,2019-12-14,16:15,-
+612,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3912,Departure,16:10,1, Landed - On-time,2019-12-14,16:03,B43
+613,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5456,Departure,16:10,1, Landed - On-time,2019-12-14,16:03,B43
+614,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3678,Departure,16:10,1, Landed - On-time,2019-12-14,16:03,B43
+615,2019-12-14,Tangier,(TNG),Air Arabia Maroc ,3O378,Departure,16:10,2, Landed - On-time,2019-12-14,16:12,Y58
+616,2019-12-14,Dakar,(DSS),Vueling ,VY7888,Departure,16:15,1, Landed - Delayed,2019-12-14,16:37,D15
+617,2019-12-14,Dakar,(DSS),Iberia ,IB5717,Departure,16:15,1, Landed - Delayed,2019-12-14,16:37,D15
+618,2019-12-14,Oran,(ORN),Air Algerie ,AH2019,Departure,16:15,1, Landed - On-time,2019-12-14,16:18,D8
+619,2019-12-14,Banjul,(BJL),Vueling ,VY7574,Departure,16:25,1, Landed - On-time,2019-12-14,16:23,D12
+620,2019-12-14,Banjul,(BJL),Iberia ,IB5688,Departure,16:25,1, Landed - On-time,2019-12-14,16:23,D12
+621,2019-12-14,Kiev/Kyiv,(KBP),Ryanair ,FR3068,Departure,16:25,2, Landed - On-time,2019-12-14,16:23,W42
+622,2019-12-14,Santiago De Compostela,(SCQ),Vueling ,VY1679,Departure,16:25,1, Landed - On-time,2019-12-14,16:35,B24
+623,2019-12-14,Santiago De Compostela,(SCQ),Iberia ,IB5124,Departure,16:25,1, Landed - On-time,2019-12-14,16:35,B24
+624,2019-12-14,Santiago De Compostela,(SCQ),LATAM Airlines ,LA5854,Departure,16:25,1, Landed - On-time,2019-12-14,16:35,B24
+625,2019-12-14,Santiago De Compostela,(SCQ),Qatar Airways ,QR3568,Departure,16:25,1, Landed - On-time,2019-12-14,16:35,B24
+626,2019-12-14,Berlin,(SXF),Ryanair ,FR133,Departure,16:25,2, Landed - On-time,2019-12-14,16:34,U34
+627,2019-12-14,Las Palmas,(LPA),Ryanair ,FR6370,Departure,16:30,2, Landed - On-time,2019-12-14,16:37,S25
+628,2019-12-14,Sevilla,(SVQ),Vueling ,VY2226,Departure,16:30,1, Landed - On-time,2019-12-14,16:26,B61
+629,2019-12-14,Sevilla,(SVQ),Iberia ,IB5200,Departure,16:30,1, Landed - On-time,2019-12-14,16:26,B61
+630,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3721,Departure,16:30,1, Landed - On-time,2019-12-14,16:26,B61
+631,2019-12-14,Rome,(FCO),Alitalia ,AZ79,Departure,16:40,1, Landed,2019-12-14,16:40,-
+632,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7229,Departure,16:40,1, Landed,2019-12-14,16:40,-
+633,2019-12-14,Rome,(FCO),Etihad Airways ,EY2822,Departure,16:40,1, Landed,2019-12-14,16:40,-
+634,2019-12-14,Rome,(FCO),Air Serbia ,JU7286,Departure,16:40,1, Landed,2019-12-14,16:40,-
+635,2019-12-14,Rome,(FCO),Korean Air ,KE6284,Departure,16:40,1, Landed,2019-12-14,16:40,-
+636,2019-12-14,Rome,(FCO),Air Europa ,UX3128,Departure,16:40,1, Landed,2019-12-14,16:40,-
+637,2019-12-14,Gothenburg,(GOT),Ryanair ,FR5124,Departure,16:40,2, Landed - On-time,2019-12-14,16:40,S24
+638,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1129,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+639,2019-12-14,Frankfurt,(FRA),Ethiopian Airlines ,ET1551,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+640,2019-12-14,Frankfurt,(FRA),Etihad Airways ,EY4189,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+641,2019-12-14,Frankfurt,(FRA),ANA ,NH5450,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+642,2019-12-14,Frankfurt,(FRA),South African Airways ,SA7831,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+643,2019-12-14,Frankfurt,(FRA),SAS ,SK3389,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+644,2019-12-14,Frankfurt,(FRA),Thai Airways International ,TG7655,Departure,16:50,1, Landed - On-time,2019-12-14,16:46,B32
+645,2019-12-14,Puerto del Rosario,(FUE),Ryanair ,FR6302,Departure,16:50,2, Landed - Delayed,2019-12-14,17:17,S23
+646,2019-12-14,Budapest,(BUD),Ryanair ,FR8394,Departure,16:55,2, Landed - On-time,2019-12-14,16:55,U33
+647,2019-12-14,Ibiza,(IBZ),Vueling ,VY3516,Departure,16:55,1, Landed - On-time,2019-12-14,16:51,B51
+648,2019-12-14,Ibiza,(IBZ),Iberia ,IB5130,Departure,16:55,1, Landed - On-time,2019-12-14,16:51,B51
+649,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3602,Departure,16:55,1, Landed - On-time,2019-12-14,16:51,B51
+650,2019-12-14,Santander,(SDR),Ryanair ,FR6384,Departure,17:00,2, Landed - On-time,2019-12-14,17:07,U36
+651,2019-12-14,Menorca,(MAH),Vueling ,VY3708,Departure,17:05,1, Landed - On-time,2019-12-14,16:57,B27
+652,2019-12-14,Menorca,(MAH),Iberia ,IB5429,Departure,17:05,1, Landed - On-time,2019-12-14,16:57,B27
+653,2019-12-14,Menorca,(MAH),LATAM Airlines ,LA5768,Departure,17:05,1, Landed - On-time,2019-12-14,16:57,B27
+654,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3594,Departure,17:05,1, Landed - On-time,2019-12-14,16:57,B27
+655,2019-12-14,Moscow,(SVO),Aeroflot ,SU2515,Departure,17:05,1, Landed - On-time,2019-12-14,16:46,D21
+656,2019-12-14,Moscow,(SVO),Aeromexico ,AM7029,Departure,17:05,1, Landed - On-time,2019-12-14,16:46,D21
+657,2019-12-14,Moscow,(SVO),Air Europa ,UX3297,Departure,17:05,1, Landed - On-time,2019-12-14,16:46,D21
+658,2019-12-14,Madrid,(MAD),Vueling ,VY1711,Departure,17:10,1, Landed - On-time,2019-12-14,17:15,A4
+659,2019-12-14,Madrid,(MAD),Iberia ,IB5870,Departure,17:10,1, Landed - On-time,2019-12-14,17:15,A4
+660,2019-12-14,Vilnius,(VNO),Ryanair ,FR2744,Departure,17:10,2, Landed - On-time,2019-12-14,17:16,U35
+661,2019-12-14,Copenhagen,(CPH),Norwegian Air International ,D83659,Departure,17:20,2, Landed - On-time,2019-12-14,17:28,U31
+662,2019-12-14,London,(LGW),Vueling ,VY7824,Departure,17:20,1, Landed - On-time,2019-12-14,17:15,D13
+663,2019-12-14,London,(LGW),British Airways ,BA8070,Departure,17:20,1, Landed - On-time,2019-12-14,17:15,D13
+664,2019-12-14,London,(LGW),Iberia ,IB5705,Departure,17:20,1, Landed - On-time,2019-12-14,17:15,D13
+665,2019-12-14,Amsterdam,(AMS),KLM ,KL1674,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+666,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6512,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+667,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9484,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+668,2019-12-14,Amsterdam,(AMS),Gol ,G35624,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+669,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9257,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+670,2019-12-14,Amsterdam,(AMS),Korean Air ,KE6406,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+671,2019-12-14,Amsterdam,(AMS),Kenya Airways ,KQ1674,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+672,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9734,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+673,2019-12-14,Amsterdam,(AMS),China Eastern Airlines ,MU1844,Departure,17:25,1, Landed - On-time,2019-12-14,17:13,B28
+674,2019-12-14,Manchester,(MAN),Vueling ,VY8748,Departure,17:25,1, Landed - On-time,2019-12-14,17:18,D14
+675,2019-12-14,Manchester,(MAN),Iberia ,IB5817,Departure,17:25,1, Landed - On-time,2019-12-14,17:18,D14
+676,2019-12-14,Manchester,(MAN),LATAM Airlines ,LA5787,Departure,17:25,1, Landed - On-time,2019-12-14,17:18,D14
+677,2019-12-14,Athens,(ATH),Ryanair ,FR6327,Departure,17:30,2, Landed - On-time,2019-12-14,17:30,U32
+678,2019-12-14,London,(LHR),British Airways ,BA481,Departure,17:35,1, Landed - On-time,2019-12-14,17:39,D10
+679,2019-12-14,London,(LHR),American Airlines ,AA6293,Departure,17:35,1, Landed - On-time,2019-12-14,17:39,D10
+680,2019-12-14,London,(LHR),Iberia ,IB7482,Departure,17:35,1, Landed - On-time,2019-12-14,17:39,D10
+681,2019-12-14,Paris,(ORY),Vueling ,VY8020,Departure,17:35,1, Landed - On-time,2019-12-14,17:37,A5
+682,2019-12-14,Paris,(ORY),British Airways ,BA8148,Departure,17:35,1, Landed - On-time,2019-12-14,17:37,A5
+683,2019-12-14,Paris,(ORY),Iberia ,IB5274,Departure,17:35,1, Landed - On-time,2019-12-14,17:37,A5
+684,2019-12-14,Amsterdam,(AMS),Transavia ,HV5134,Departure,17:40,2, Landed - On-time,2019-12-14,17:47,U34
+685,2019-12-14,Bilbao,(BIO),Vueling ,VY1434,Departure,17:40,1, Landed - On-time,2019-12-14,17:40,B44
+686,2019-12-14,Bilbao,(BIO),Iberia ,IB5392,Departure,17:40,1, Landed - On-time,2019-12-14,17:40,B44
+687,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3548,Departure,17:40,1, Landed - On-time,2019-12-14,17:40,B44
+688,2019-12-14,Boston,(BOS),Iberia ,IB2625,Departure,17:45,1, Landed - On-time,2019-12-14,17:50,D16
+689,2019-12-14,Boston,(BOS),LEVEL ,LV2625,Departure,17:45,1, Landed - On-time,2019-12-14,17:50,D16
+690,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1047,Departure,17:45,1, Landed - Delayed,2019-12-14,19:59,B36
+691,2019-12-14,Lisbon,(LIS),EgyptAir ,MS9423,Departure,17:45,1, Landed - Delayed,2019-12-14,19:59,B36
+692,2019-12-14,Lisbon,(LIS),UIA ,PS9929,Departure,17:45,1, Landed - Delayed,2019-12-14,19:59,B36
+693,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48043,Departure,17:45,1, Landed - Delayed,2019-12-14,19:59,B36
+694,2019-12-14,Madrid,(MAD),Iberia ,IB1745,Departure,17:45,1, Landed - On-time,2019-12-14,17:45,A2
+695,2019-12-14,Madrid,(MAD),BoA ,OB5001,Departure,17:45,1, Landed - On-time,2019-12-14,17:45,A2
+696,2019-12-14,Berlin,(SXF),easyJet ,U24536,Departure,17:55,2, Landed - On-time,2019-12-14,18:08,-
+697,2019-12-14,London,(LGW),easyJet ,U28580,Departure,18:00,2, Landed - On-time,2019-12-14,17:49,-
+698,2019-12-14,Sofia,(SOF),Ryanair ,FR6330,Departure,18:00,2, Landed - Delayed,2019-12-14,18:16,W42
+699,2019-12-14,New York,(JFK),Norwegian Air Shuttle ,DY7025,Departure,18:05,2, Landed - Delayed,2019-12-14,18:25,Y54
+700,2019-12-14,Alicante,(ALC),Vueling ,VY1304,Departure,18:10,1, Landed - On-time,2019-12-14,18:06,B43
+701,2019-12-14,Alicante,(ALC),Iberia ,IB5027,Departure,18:10,1, Landed - On-time,2019-12-14,18:06,B43
+702,2019-12-14,Alicante,(ALC),LATAM Airlines ,LA5750,Departure,18:10,1, Landed - On-time,2019-12-14,18:06,B43
+703,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3618,Departure,18:10,1, Landed - On-time,2019-12-14,18:06,B43
+704,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1856,Departure,18:10,1, Landed - On-time,2019-12-14,18:00,E70
+705,2019-12-14,Istanbul,(ISL),SA AVIANCA ,AV6614,Departure,18:10,1, Landed - On-time,2019-12-14,18:00,E70
+706,2019-12-14,Istanbul,(ISL),Air New Zealand ,NZ4866,Departure,18:10,1, Landed - On-time,2019-12-14,18:00,E70
+707,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3910,Departure,18:10,1, Landed - On-time,2019-12-14,18:08,B48
+708,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5454,Departure,18:10,1, Landed - On-time,2019-12-14,18:08,B48
+709,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3680,Departure,18:10,1, Landed - On-time,2019-12-14,18:08,B48
+710,2019-12-14,Tel Aviv-Yafo,(TLV),Blue Bird Airways ,BZ251,Departure,18:10,2, En Route - Delayed,2019-12-14,18:36,W48
+711,2019-12-14,Milan,(MXP),easyJet ,U22766,Departure,18:15,2, Landed - On-time,2019-12-14,18:22,-
+712,2019-12-14,Munich,(MUC),Lufthansa ,LH1815,Departure,18:20,1, Landed - On-time,2019-12-14,18:17,B24
+713,2019-12-14,Munich,(MUC),Etihad Airways ,EY4167,Departure,18:20,1, Landed - On-time,2019-12-14,18:17,B24
+714,2019-12-14,Beirut,(BEY),Vueling ,VY7620,Departure,18:25,1, Landed - On-time,2019-12-14,18:37,D11
+715,2019-12-14,Beirut,(BEY),Iberia ,IB5690,Departure,18:25,1, Landed - On-time,2019-12-14,18:37,D11
+716,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6578,Departure,18:30,2, Landed - On-time,2019-12-14,18:24,U31
+717,2019-12-14,Cologne,(CGN),Ryanair ,FR2507,Departure,18:40,2, Landed - On-time,2019-12-14,18:38,U36
+718,2019-12-14,Casablanca,(CMN),Royal Air Maroc ,AT961,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,D8
+719,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1133,Departure,18:45,1, Landed - On-time,2019-12-14,18:35,B28
+720,2019-12-14,Frankfurt,(FRA),SA AVIANCA ,AV6514,Departure,18:45,1, Landed - On-time,2019-12-14,18:35,B28
+721,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6073,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,B32
+722,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4840,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,B32
+723,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2416,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,B32
+724,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3361,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,B32
+725,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3648,Departure,18:45,1, Landed - On-time,2019-12-14,18:41,B32
+726,2019-12-14,Rome,(FCO),Ryanair ,FR6985,Departure,18:55,2, Landed - Delayed,2019-12-14,19:53,U33
+727,2019-12-14,Madrid,(MAD),Vueling ,VY1901,Departure,19:00,1, Landed - Delayed,2019-12-14,19:22,A6
+728,2019-12-14,Madrid,(MAD),Iberia ,IB5158,Departure,19:00,1, Landed - Delayed,2019-12-14,19:22,A6
+729,2019-12-14,Algiers,(ALG),Air Algerie ,AH2015,Departure,19:05,1, En Route - On-time,2019-12-14,18:55,D21
+730,2019-12-14,Seoul,(ICN),Korean Air ,KE916,Departure,19:05,1, Landed - On-time,2019-12-14,19:06,E74
+731,2019-12-14,Kiev/Kyiv,(KBP),SkyUP Airlines ,PQ742,Departure,19:10,2, Landed - On-time,2019-12-14,19:10,Y58
+732,2019-12-14,Sevilla,(SVQ),Ryanair ,FR6398,Departure,19:10,2, Landed - On-time,2019-12-14,19:02,U34
+733,2019-12-14,Lisbon,(LIS),Vueling ,VY8462,Departure,19:15,1, Landed - On-time,2019-12-14,19:13,B31
+734,2019-12-14,Lisbon,(LIS),British Airways ,BA2048,Departure,19:15,1, Landed - On-time,2019-12-14,19:13,B31
+735,2019-12-14,Lisbon,(LIS),Iberia ,IB5779,Departure,19:15,1, Landed - On-time,2019-12-14,19:13,B31
+736,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3632,Departure,19:15,1, Landed - On-time,2019-12-14,19:13,B31
+737,2019-12-14,Dubai,(DXB),Emirates ,EK186,Departure,19:25,1, Landed - On-time,2019-12-14,19:29,-
+738,2019-12-14,Dubai,(DXB),Qantas ,QF8186,Departure,19:25,1, Landed - On-time,2019-12-14,19:29,-
+739,2019-12-14,Malaga,(AGP),Vueling ,VY2119,Departure,19:30,1, Landed - On-time,2019-12-14,19:41,A4
+740,2019-12-14,Malaga,(AGP),Iberia ,IB5285,Departure,19:30,1, Landed - On-time,2019-12-14,19:41,A4
+741,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3754,Departure,19:30,1, Landed - On-time,2019-12-14,19:41,A4
+742,2019-12-14,Paris,(CDG),Air France ,AF1049,Departure,19:35,1, Landed - On-time,2019-12-14,19:26,B24
+743,2019-12-14,Paris,(CDG),Aeromexico ,AM6027,Departure,19:35,1, Landed - On-time,2019-12-14,19:26,B24
+744,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7058,Departure,19:35,1, Landed - On-time,2019-12-14,19:26,B24
+745,2019-12-14,Paris,(CDG),Gol ,G35144,Departure,19:35,1, Landed - On-time,2019-12-14,19:26,B24
+746,2019-12-14,Paris,(CDG),Air Europa ,UX2243,Departure,19:35,1, Landed - On-time,2019-12-14,19:26,B24
+747,2019-12-14,Seoul,(ICN),Asiana Airlines ,OZ512,Departure,19:35,1, Landed - Delayed,2019-12-14,20:00,E73
+748,2019-12-14,Milan,(BGY),Ryanair ,FR6365,Departure,19:40,2, Landed - Delayed,2019-12-14,20:15,U31
+749,2019-12-14,Frankfurt,(FRA),Ryanair ,FR1681,Departure,19:40,2, Landed - On-time,2019-12-14,19:50,U36
+750,2019-12-14,London,(LGW),easyJet ,U28578,Departure,19:40,2, Landed - On-time,2019-12-14,19:31,-
+751,2019-12-14,Nador,(NDR),Ryanair ,FR2233,Departure,19:40,2, Landed - Delayed,2019-12-14,20:04,W42
+752,2019-12-14,Porto,(OPO),Ryanair ,FR4597,Departure,19:40,2, Landed - On-time,2019-12-14,19:48,U35
+753,2019-12-14,Modlin,(EPMO),Ryanair ,FR6944,Departure,19:45,2, Landed - On-time,2019-12-14,19:41,U32
+754,2019-12-14,Fez,(FEZ),Ryanair ,FR9016,Departure,19:50,2, Landed - Delayed,2019-12-14,20:57,W46
+755,2019-12-14,London,(LGW),Vueling ,VY7828,Departure,19:55,1, Landed - On-time,2019-12-14,19:41,D14
+756,2019-12-14,London,(LGW),British Airways ,BA8074,Departure,19:55,1, Landed - On-time,2019-12-14,19:41,D14
+757,2019-12-14,London,(LGW),Iberia ,IB5528,Departure,19:55,1, Landed - On-time,2019-12-14,19:41,D14
+758,2019-12-14,Zurich,(ZRH),SWISS ,LX1957,Departure,19:55,1, Landed - On-time,2019-12-14,19:52,-
+759,2019-12-14,La Coruna,(LCG),Vueling ,VY1290,Departure,20:00,1, Landed - On-time,2019-12-14,19:58,B47
+760,2019-12-14,La Coruna,(LCG),Iberia ,IB5018,Departure,20:00,1, Landed - On-time,2019-12-14,19:58,B47
+761,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3624,Departure,20:00,1, Landed - On-time,2019-12-14,19:58,B47
+762,2019-12-14,London,(LHR),British Airways ,BA483,Departure,20:00,1, Landed - On-time,2019-12-14,20:06,D10
+763,2019-12-14,London,(LHR),American Airlines ,AA6757,Departure,20:00,1, Landed - On-time,2019-12-14,20:06,D10
+764,2019-12-14,Madrid,(MAD),Iberia ,IB2001,Departure,20:00,1, Landed - On-time,2019-12-14,19:57,A2
+765,2019-12-14,Madrid,(MAD),American Airlines ,AA8667,Departure,20:00,1, Landed - On-time,2019-12-14,19:57,A2
+766,2019-12-14,Madrid,(MAD),LATAM Airlines ,LA7104,Departure,20:00,1, Landed - On-time,2019-12-14,19:57,A2
+767,2019-12-14,Geneva,(GVA),easyJet ,U21412,Departure,20:10,2, Landed - On-time,2019-12-14,20:09,-
+768,2019-12-14,Paris,(CDG),Air France ,AF1249,Departure,20:20,1, Landed - On-time,2019-12-14,20:19,B28
+769,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7154,Departure,20:20,1, Landed - On-time,2019-12-14,20:19,B28
+770,2019-12-14,Paris,(CDG),Gol ,G35272,Departure,20:20,1, Landed - On-time,2019-12-14,20:19,B28
+771,2019-12-14,Paris,(CDG),Air Mauritius ,MK9587,Departure,20:20,1, Landed - On-time,2019-12-14,20:19,B28
+772,2019-12-14,Paris,(CDG),Air Europa ,UX2245,Departure,20:20,1, Landed - On-time,2019-12-14,20:19,B28
+773,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3918,Departure,20:20,1, Landed - On-time,2019-12-14,20:14,B43
+774,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5162,Departure,20:20,1, Landed - On-time,2019-12-14,20:14,B43
+775,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3670,Departure,20:20,1, Landed - On-time,2019-12-14,20:14,B43
+776,2019-12-14,London,(LHR),British Airways ,BA487,Departure,20:30,1, Landed - On-time,2019-12-14,20:32,D21
+777,2019-12-14,London,(LHR),American Airlines ,AA6298,Departure,20:30,1, Landed - On-time,2019-12-14,20:32,D21
+778,2019-12-14,London,(LHR),Iberia ,IB7487,Departure,20:30,1, Landed - On-time,2019-12-14,20:32,D21
+779,2019-12-14,Madrid,(MAD),Air Europa ,UX7708,Departure,20:35,1, Landed - On-time,2019-12-14,20:33,B62
+780,2019-12-14,Madrid,(MAD),Korean Air ,KE6654,Departure,20:35,1, Landed - On-time,2019-12-14,20:33,B62
+781,2019-12-14,Dublin,(DUB),Aer Lingus ,EI565,Departure,20:40,2, Landed - On-time,2019-12-14,20:34,Y57
+782,2019-12-14,Dublin,(DUB),British Airways ,BA8951,Departure,20:40,2, Landed - On-time,2019-12-14,20:34,Y57
+783,2019-12-14,Katowice,(KTW),Wizz Air ,W61176,Departure,20:40,2, En Route - Delayed,2019-12-14,21:40,U33
+784,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8141,Departure,20:50,2, Landed - On-time,2019-12-14,20:49,U36
+785,2019-12-14,Tel Aviv-Yafo,(TLV),El Al ,LY392,Departure,20:55,1, Landed - On-time,2019-12-14,21:01,D12
+786,2019-12-14,Tel Aviv-Yafo,(TLV),Iberia ,IB2391,Departure,20:55,1, Landed - On-time,2019-12-14,21:01,D12
+787,2019-12-14,Madrid,(MAD),Air Europa ,UX7994,Departure,21:00,1, Landed - On-time,2019-12-14,21:06,B63
+788,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1045,Departure,21:10,1, Landed - On-time,2019-12-14,20:57,B24
+789,2019-12-14,Lisbon,(LIS),Azul ,AD7216,Departure,21:10,1, Landed - On-time,2019-12-14,20:57,B24
+790,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48715,Departure,21:10,1, Landed - On-time,2019-12-14,20:57,B24
+791,2019-12-14,Dublin,(DUB),Ryanair ,FR6394,Departure,21:15,2, Landed - On-time,2019-12-14,21:21,W42
+792,2019-12-14,Algiers,(ALG),Vueling ,VY7474,Departure,21:35,1, Landed - On-time,2019-12-14,21:26,D13
+793,2019-12-14,Algiers,(ALG),Iberia ,IB5680,Departure,21:35,1, Landed - On-time,2019-12-14,21:26,D13
+794,2019-12-14,Doha,(DOH),Qatar Airways ,QR142,Departure,21:35,1, Landed - On-time,2019-12-14,21:36,E70
+795,2019-12-14,London,(LGW),Norwegian Air International ,D82433,Departure,21:35,2, Landed - Delayed,2019-12-14,21:58,Y58
+796,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6368,Departure,21:35,2, Landed - On-time,2019-12-14,21:31,U35
+797,2019-12-14,Vilnius,(VNO),Wizz Air ,W68064,Departure,21:50,2, En Route - Delayed,2019-12-14,22:13,U32
+798,2019-12-14,Bucharest,(OTP),Wizz Air ,W63176,Departure,21:55,2, Landed - Delayed,2019-12-14,22:13,W46
+799,2019-12-14,Budapest,(BUD),Wizz Air ,W62378,Departure,22:00,2, Landed - Delayed,2019-12-14,22:21,U31
+800,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6103,Departure,22:00,1, Landed - On-time,2019-12-14,21:46,C73
+801,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4834,Departure,22:00,1, Landed - On-time,2019-12-14,21:46,C73
+802,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2418,Departure,22:00,1, Landed - On-time,2019-12-14,21:46,C73
+803,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3363,Departure,22:00,1, Landed - On-time,2019-12-14,21:46,C73
+804,2019-12-14,Dubai,(DXB),Emirates ,EK188,Departure,22:05,1, Landed - Delayed,2019-12-14,22:28,-
+805,2019-12-14,Dubai,(DXB),Malaysia Airlines ,MH4508,Departure,22:05,1, Landed - Delayed,2019-12-14,22:28,-
+806,2019-12-14,Dubai,(DXB),Qantas ,QF8188,Departure,22:05,1, Landed - Delayed,2019-12-14,22:28,-
+807,2019-12-14,Chisinau,(KIV),Wizz Air ,W66902,Departure,22:10,2, Landed - Delayed,2019-12-14,23:00,W42
+808,2019-12-14,Nador,(NDR),Air Arabia Maroc ,3O376,Departure,22:10,2, En Route - On-time,2019-12-14,22:08,Y57
+809,2019-12-14,Tel Aviv-Yafo,(TLV),Vueling ,VY7844,Departure,23:05,1, Landed - On-time,2019-12-14,23:07,D11
+810,2019-12-14,Tel Aviv-Yafo,(TLV),Iberia ,IB5713,Departure,23:05,1, Landed - On-time,2019-12-14,23:07,D11
+811,2019-12-14,Moscow,(SVO),Aeroflot ,SU2513,Departure,23:40,1, Landed - On-time,2019-12-14,23:28,D6
+812,2019-12-14,Moscow,(SVO),Air Europa ,UX3289,Departure,23:40,1, Landed - On-time,2019-12-14,23:28,D6
+813,2019-12-14,Modlin,(EPMO),Ryanair ,FR6945,Arrival,00:10,2, Landed - Delayed,2019-12-14,18:53,-
+814,2019-12-14,Granada,(GRX),Vueling ,VY2017,Arrival,00:10,1, Landed - On-time,2019-12-14,00:17,-
+815,2019-12-14,Granada,(GRX),Iberia ,IB5166,Arrival,00:10,1, Landed - On-time,2019-12-14,00:17,-
+816,2019-12-14,Granada,(GRX),LATAM Airlines ,LA5817,Arrival,00:10,1, Landed - On-time,2019-12-14,00:17,-
+817,2019-12-14,Granada,(GRX),Qatar Airways ,QR3701,Arrival,00:10,1, Landed - On-time,2019-12-14,00:17,-
+818,2019-12-14,Pisa,(PSA),Qatar Airways ,QR3584,Arrival,00:10,1, Landed - On-time,2019-12-14,00:09,-
+819,2019-12-14,Pisa,(PSA),Iberia ,IB5631,Arrival,00:10,1, Landed - On-time,2019-12-14,00:09,-
+820,2019-12-14,Pisa,(PSA),Vueling ,VY6771,Arrival,00:10,1, Landed - On-time,2019-12-14,00:09,-
+821,2019-12-14,Milan,(MXP),British Airways ,BA8849,Arrival,00:15,1, Landed - On-time,2019-12-14,00:15,-
+822,2019-12-14,Milan,(MXP),Vueling ,VY6341,Arrival,00:15,1, Landed - On-time,2019-12-14,00:15,-
+823,2019-12-14,Milan,(MXP),Iberia ,IB5592,Arrival,00:15,1, Landed - On-time,2019-12-14,00:15,-
+824,2019-12-14,Milan,(MXP),LATAM Airlines ,LA5896,Arrival,00:15,1, Landed - On-time,2019-12-14,00:15,-
+825,2019-12-14,Athens,(ATH),Iberia ,IB5729,Arrival,00:20,1, Landed - Delayed,2019-12-14,01:18,-
+826,2019-12-14,Athens,(ATH),LATAM Airlines ,LA5778,Arrival,00:20,1, Landed - Delayed,2019-12-14,01:18,-
+827,2019-12-14,Athens,(ATH),Vueling ,VY8103,Arrival,00:20,1, Landed - Delayed,2019-12-14,01:18,-
+828,2019-12-14,Edinburgh,(EDI),LATAM Airlines ,LA5884,Arrival,00:20,1, Landed - Delayed,2019-12-14,00:36,-
+829,2019-12-14,Edinburgh,(EDI),Iberia ,IB5700,Arrival,00:20,1, Landed - Delayed,2019-12-14,00:36,-
+830,2019-12-14,Edinburgh,(EDI),Vueling ,VY7816,Arrival,00:20,1, Landed - Delayed,2019-12-14,00:36,-
+831,2019-12-14,Vienna,(VIE),Vueling ,VY8717,Arrival,00:20,1, Landed - On-time,2019-12-14,00:15,-
+832,2019-12-14,Vienna,(VIE),Iberia ,IB5812,Arrival,00:20,1, Landed - On-time,2019-12-14,00:15,-
+833,2019-12-14,Vienna,(VIE),LATAM Airlines ,LA5855,Arrival,00:20,1, Landed - On-time,2019-12-14,00:15,-
+834,2019-12-14,Nantes,(NTE),Vueling ,VY2973,Arrival,00:25,1, Landed - On-time,2019-12-14,00:19,-
+835,2019-12-14,Nantes,(NTE),Iberia ,IB5262,Arrival,00:25,1, Landed - On-time,2019-12-14,00:19,-
+836,2019-12-14,Nantes,(NTE),LATAM Airlines ,LA5834,Arrival,00:25,1, Landed - On-time,2019-12-14,00:19,-
+837,2019-12-14,Las Palmas,(LPA),Qatar Airways ,QR3611,Arrival,00:35,1, Landed - On-time,2019-12-14,00:24,-
+838,2019-12-14,Las Palmas,(LPA),Iberia ,IB5289,Arrival,00:35,1, Landed - On-time,2019-12-14,00:24,-
+839,2019-12-14,Las Palmas,(LPA),Vueling ,VY3009,Arrival,00:35,1, Landed - On-time,2019-12-14,00:24,-
+840,2019-12-14,Malta,(MLA),Ryanair ,FR1526,Arrival,00:40,2, Landed - Delayed,2019-12-14,01:31,-
+841,2019-12-14,Marrakech,(RAK),Iberia ,IB5662,Arrival,00:45,1, Landed - Delayed,2019-12-14,01:17,-
+842,2019-12-14,Marrakech,(RAK),Vueling ,VY7333,Arrival,00:45,1, Landed - Delayed,2019-12-14,01:17,-
+843,2019-12-14,Porto,(OPO),Vueling ,VY8481,Arrival,00:50,1, Landed - On-time,2019-12-14,00:26,-
+844,2019-12-14,Porto,(OPO),Iberia ,IB5793,Arrival,00:50,1, Landed - On-time,2019-12-14,00:26,-
+845,2019-12-14,Porto,(OPO),LATAM Airlines ,LA5837,Arrival,00:50,1, Landed - On-time,2019-12-14,00:26,-
+846,2019-12-14,Porto,(OPO),Qatar Airways ,QR3683,Arrival,00:50,1, Landed - On-time,2019-12-14,00:26,-
+847,2019-12-14,Riga,(RIX),Ryanair ,FR4483,Arrival,00:50,2, Landed - Delayed,2019-12-14,01:36,-
+848,2019-12-14,Tenerife,(TFN),Qatar Airways ,QR3528,Arrival,01:00,1, Landed - On-time,2019-12-14,00:41,-
+849,2019-12-14,Tenerife,(TFN),Iberia ,IB5366,Arrival,01:00,1, Landed - On-time,2019-12-14,00:41,-
+850,2019-12-14,Tenerife,(TFN),Vueling ,VY3213,Arrival,01:00,1, Landed - On-time,2019-12-14,00:41,-
+851,2019-12-14,London,(LGW),LATAM Airlines ,LA5809,Arrival,01:05,1, Landed - On-time,2019-12-14,00:50,-
+852,2019-12-14,London,(LGW),Iberia ,IB5529,Arrival,01:05,1, Landed - On-time,2019-12-14,00:50,-
+853,2019-12-14,London,(LGW),British Airways ,BA8075,Arrival,01:05,1, Landed - On-time,2019-12-14,00:50,-
+854,2019-12-14,London,(LGW),Vueling ,VY7829,Arrival,01:05,1, Landed - On-time,2019-12-14,00:50,-
+855,2019-12-14,Algiers,(ALG),Vueling ,VY7479,Arrival,02:10,1, Landed - On-time,2019-12-14,01:39,-
+856,2019-12-14,Algiers,(ALG),Iberia ,IB5685,Arrival,02:10,1, Landed - On-time,2019-12-14,01:39,-
+857,2019-12-14,Buenos Aires,(EZE),Iberia ,IB2602,Arrival,05:30,1, Landed - Delayed,2019-12-14,05:46,-
+858,2019-12-14,Palma Mallorca,(PMI),Swiftair,WT802,Arrival,05:45,, En Route,2019-12-14,05:45,-
+859,2019-12-14,Istanbul,(IST),Turkish Airlines ,TK6351,Arrival,06:00,, Landed,2019-12-14,06:00,-
+860,2019-12-14,Doha,(DOH),Qatar Airways ,QR137,Arrival,06:35,1, Landed - On-time,2019-12-14,06:48,-
+861,2019-12-14,Doha,(DOH),SriLankan Airlines ,UL3547,Arrival,06:35,1, Landed - On-time,2019-12-14,06:48,-
+862,2019-12-14,Abu Dhabi,(AUH),Etihad Airways ,EY49,Arrival,06:50,1, Landed - On-time,2019-12-14,06:58,-
+863,2019-12-14,Abu Dhabi,(AUH),Malaysia Airlines ,MH5229,Arrival,06:50,1, Landed - On-time,2019-12-14,06:58,-
+864,2019-12-14,Abu Dhabi,(AUH),Air Europa ,UX2736,Arrival,06:50,1, Landed - On-time,2019-12-14,06:58,-
+865,2019-12-14,Abu Dhabi,(AUH),flynas ,XY3049,Arrival,06:50,1, Landed - On-time,2019-12-14,06:58,-
+866,2019-12-14,New York,(JFK),American Airlines ,AA66,Arrival,07:10,1, Landed - On-time,2019-12-14,06:40,21
+867,2019-12-14,New York,(JFK),Finnair ,AY4004,Arrival,07:10,1, Landed - On-time,2019-12-14,06:40,21
+868,2019-12-14,New York,(JFK),British Airways ,BA1556,Arrival,07:10,1, Landed - On-time,2019-12-14,06:40,21
+869,2019-12-14,New York,(JFK),Iberia ,IB4185,Arrival,07:10,1, Landed - On-time,2019-12-14,06:40,21
+870,2019-12-14,New York,(JFK),El Al ,LY8000,Arrival,07:10,1, Landed - On-time,2019-12-14,06:40,21
+871,2019-12-14,Beijing,(PEK),Air China LTD ,CA845,Arrival,07:25,1, Landed - On-time,2019-12-14,07:28,-
+872,2019-12-14,Beijing,(PEK),TAP Air Portugal ,TP8321,Arrival,07:25,1, Landed - On-time,2019-12-14,07:28,-
+873,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6363,Arrival,07:25,2, Landed - On-time,2019-12-14,07:05,-
+874,2019-12-14,Madrid,(MAD),Vueling ,VY6300,Arrival,07:45,1, Landed - On-time,2019-12-14,07:31,-
+875,2019-12-14,Madrid,(MAD),Iberia ,IB5874,Arrival,07:45,1, Landed - On-time,2019-12-14,07:31,-
+876,2019-12-14,Madrid,(MAD),LATAM Airlines ,LA5842,Arrival,07:45,1, Landed - On-time,2019-12-14,07:31,-
+877,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6006,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+878,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4819,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+879,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2407,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+880,2019-12-14,Palma Mallorca,(PMI),Delta Air Lines ,DL6747,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+881,2019-12-14,Palma Mallorca,(PMI),Etihad Airways ,EY4388,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+882,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3350,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+883,2019-12-14,Palma Mallorca,(PMI),TAROM ,RO9422,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+884,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3651,Arrival,07:50,1, Landed - On-time,2019-12-14,07:49,-
+885,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3915,Arrival,07:55,1, Landed - On-time,2019-12-14,07:35,-
+886,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5459,Arrival,07:55,1, Landed - On-time,2019-12-14,07:35,-
+887,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3793,Arrival,07:55,1, Landed - On-time,2019-12-14,07:35,-
+888,2019-12-14,Dubai,(DXB),Emirates ,EK255,Arrival,08:00,1, Landed - On-time,2019-12-14,08:01,-
+889,2019-12-14,Dubai,(DXB),Qantas ,QF8255,Arrival,08:00,1, Landed - On-time,2019-12-14,08:01,-
+890,2019-12-14,Alicante,(ALC),Vueling ,VY1311,Arrival,08:10,1, Landed - On-time,2019-12-14,08:00,-
+891,2019-12-14,Alicante,(ALC),Iberia ,IB5034,Arrival,08:10,1, Landed - On-time,2019-12-14,08:00,-
+892,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3531,Arrival,08:10,1, Landed - On-time,2019-12-14,08:00,-
+893,2019-12-14,Milan,(MXP),easyJet ,U22759,Arrival,08:20,2, Landed - On-time,2019-12-14,08:17,-
+894,2019-12-14,Asturias,(OVD),Vueling ,VY1572,Arrival,08:20,1, Landed - On-time,2019-12-14,08:03,-
+895,2019-12-14,Asturias,(OVD),Iberia ,IB5050,Arrival,08:20,1, Landed - On-time,2019-12-14,08:03,-
+896,2019-12-14,Asturias,(OVD),Qatar Airways ,QR3690,Arrival,08:20,1, Landed - On-time,2019-12-14,08:03,-
+897,2019-12-14,Vienna,(VIE),Lauda ,OE322,Arrival,08:20,2, Landed - On-time,2019-12-14,08:03,-
+898,2019-12-14,Santiago De Compostela,(SCQ),Vueling ,VY1674,Arrival,08:35,1, Landed - On-time,2019-12-14,08:07,-
+899,2019-12-14,Santiago De Compostela,(SCQ),Iberia ,IB5119,Arrival,08:35,1, Landed - On-time,2019-12-14,08:07,-
+900,2019-12-14,Santiago De Compostela,(SCQ),LATAM Airlines ,LA5870,Arrival,08:35,1, Landed - On-time,2019-12-14,08:07,-
+901,2019-12-14,Santiago De Compostela,(SCQ),Qatar Airways ,QR3578,Arrival,08:35,1, Landed - On-time,2019-12-14,08:07,-
+902,2019-12-14,Budapest,(BUD),Wizz Air ,W62375,Arrival,08:40,2, Landed - On-time,2019-12-14,08:33,-
+903,2019-12-14,Paris,(CDG),Air France ,AF1148,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+904,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7158,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+905,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8699,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+906,2019-12-14,Paris,(CDG),Air Mauritius ,MK9328,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+907,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU4995,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+908,2019-12-14,Paris,(CDG),Air Austral ,UU8148,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+909,2019-12-14,Paris,(CDG),Air Europa ,UX2244,Arrival,08:40,1, Landed - On-time,2019-12-14,08:34,-
+910,2019-12-14,La Coruna,(LCG),Vueling ,VY1293,Arrival,08:40,1, Landed - On-time,2019-12-14,08:10,-
+911,2019-12-14,La Coruna,(LCG),Iberia ,IB5020,Arrival,08:40,1, Landed - On-time,2019-12-14,08:10,-
+912,2019-12-14,La Coruna,(LCG),LATAM Airlines ,LA5821,Arrival,08:40,1, Landed - On-time,2019-12-14,08:10,-
+913,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3508,Arrival,08:40,1, Landed - On-time,2019-12-14,08:10,-
+914,2019-12-14,Miami,(MIA),American Airlines ,AA112,Arrival,08:40,1, Landed - Delayed,2019-12-14,09:08,-
+915,2019-12-14,Miami,(MIA),Finnair ,AY4010,Arrival,08:40,1, Landed - Delayed,2019-12-14,09:08,-
+916,2019-12-14,Miami,(MIA),British Airways ,BA1514,Arrival,08:40,1, Landed - Delayed,2019-12-14,09:08,-
+917,2019-12-14,Miami,(MIA),Iberia ,IB4460,Arrival,08:40,1, Landed - Delayed,2019-12-14,09:08,-
+918,2019-12-14,Miami,(MIA),El Al ,LY8161,Arrival,08:40,1, Landed - Delayed,2019-12-14,09:08,-
+919,2019-12-14,Sevilla,(SVQ),Ryanair ,FR6397,Arrival,08:40,2, Landed - On-time,2019-12-14,08:30,-
+920,2019-12-14,Paris,(CDG),easyJet ,U23915,Arrival,08:45,2, Landed - On-time,2019-12-14,08:38,-
+921,2019-12-14,Dusseldorf,(DUS),Eurowings ,EW9440,Arrival,08:50,2, Landed - On-time,2019-12-14,08:35,-
+922,2019-12-14,Rome,(FCO),Vueling ,VY6109,Arrival,08:50,1, Landed - On-time,2019-12-14,08:55,-
+923,2019-12-14,Rome,(FCO),British Airways ,BA8102,Arrival,08:50,1, Landed - On-time,2019-12-14,08:55,-
+924,2019-12-14,Rome,(FCO),Iberia ,IB5181,Arrival,08:50,1, Landed - On-time,2019-12-14,08:55,-
+925,2019-12-14,Rome,(FCO),LATAM Airlines ,LA5814,Arrival,08:50,1, Landed - On-time,2019-12-14,08:55,-
+926,2019-12-14,Menorca,(MAH),Swiftair,WT114,Arrival,08:50,, Scheduled,2019-12-14,08:50,-
+927,2019-12-14,Madrid,(MAD),Air Europa ,UX7701,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+928,2019-12-14,Madrid,(MAD),Aeromexico ,AM6896,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+929,2019-12-14,Madrid,(MAD),Aerolineas Argentinas ,AR7322,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+930,2019-12-14,Madrid,(MAD),Delta Air Lines ,DL6768,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+931,2019-12-14,Madrid,(MAD),Ethiopian Airlines ,ET1163,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+932,2019-12-14,Madrid,(MAD),China Eastern Airlines ,MU4461,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+933,2019-12-14,Madrid,(MAD),Aeroflot ,SU3672,Arrival,08:55,1, Landed - On-time,2019-12-14,08:49,-
+934,2019-12-14,Newark,(EWR),United Airlines ,UA120,Arrival,09:00,1, Landed - Delayed,2019-12-14,09:18,-
+935,2019-12-14,Newark,(EWR),Air Canada ,AC5934,Arrival,09:00,1, Landed - Delayed,2019-12-14,09:18,-
+936,2019-12-14,Newark,(EWR),Lufthansa ,LH7968,Arrival,09:00,1, Landed - Delayed,2019-12-14,09:18,-
+937,2019-12-14,Newark,(EWR),SWISS ,LX3011,Arrival,09:00,1, Landed - Delayed,2019-12-14,09:18,-
+938,2019-12-14,Zurich,(ZRH),SWISS ,LX1952,Arrival,09:00,1, Landed - On-time,2019-12-14,08:46,-
+939,2019-12-14,Zurich,(ZRH),Air Canada ,AC6792,Arrival,09:00,1, Landed - On-time,2019-12-14,08:46,-
+940,2019-12-14,Zurich,(ZRH),LATAM Airlines ,LA8795,Arrival,09:00,1, Landed - On-time,2019-12-14,08:46,-
+941,2019-12-14,Marseille,(MRS),Air Senegal,HC405,Arrival,09:05,2, Landed - Delayed,2019-12-14,09:44,-
+942,2019-12-14,Bilbao,(BIO),Vueling ,VY1439,Arrival,09:10,1, Landed - On-time,2019-12-14,08:59,-
+943,2019-12-14,Bilbao,(BIO),Iberia ,IB5943,Arrival,09:10,1, Landed - On-time,2019-12-14,08:59,-
+944,2019-12-14,Bilbao,(BIO),LATAM Airlines ,LA5773,Arrival,09:10,1, Landed - On-time,2019-12-14,08:59,-
+945,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3642,Arrival,09:10,1, Landed - On-time,2019-12-14,08:59,-
+946,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1124,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+947,2019-12-14,Frankfurt,(FRA),Air China LTD ,CA6291,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+948,2019-12-14,Frankfurt,(FRA),Ethiopian Airlines ,ET1557,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+949,2019-12-14,Frankfurt,(FRA),ANA ,NH5441,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+950,2019-12-14,Frankfurt,(FRA),Thai Airways International ,TG7654,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+951,2019-12-14,Frankfurt,(FRA),United Airlines ,UA8804,Arrival,09:10,1, Landed - On-time,2019-12-14,09:02,-
+952,2019-12-14,Amsterdam,(AMS),Transavia ,HV5131,Arrival,09:15,2, Landed - On-time,2019-12-14,09:08,-
+953,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL7516,Arrival,09:15,2, Landed - On-time,2019-12-14,09:08,-
+954,2019-12-14,Madrid,(MAD),Iberia ,IB800,Arrival,09:15,1, Landed - On-time,2019-12-14,09:23,-
+955,2019-12-14,Madrid,(MAD),American Airlines ,AA8642,Arrival,09:15,1, Landed - On-time,2019-12-14,09:23,-
+956,2019-12-14,Madrid,(MAD),SA AVIANCA ,AV6146,Arrival,09:15,1, Landed - On-time,2019-12-14,09:23,-
+957,2019-12-14,Tangier,(TNG),Air Arabia Maroc ,3O377,Arrival,09:15,2, Landed - On-time,2019-12-14,09:03,-
+958,2019-12-14,Amsterdam,(AMS),Anisec ,VK8318,Arrival,09:20,1, Landed - On-time,2019-12-14,09:13,-
+959,2019-12-14,Amsterdam,(AMS),Vueling ,VY9540,Arrival,09:20,1, Landed - On-time,2019-12-14,09:13,-
+960,2019-12-14,Sao Paulo,(GRU),Finnair ,AY4405,Arrival,09:20,1, Landed - On-time,2019-12-14,09:14,-
+961,2019-12-14,Sao Paulo,(GRU),Iberia ,IB7066,Arrival,09:20,1, Landed - On-time,2019-12-14,09:14,-
+962,2019-12-14,Sao Paulo,(GRU),LATAM Airlines ,LA8114,Arrival,09:20,1, Landed - On-time,2019-12-14,09:14,-
+963,2019-12-14,London,(LHR),British Airways ,BA472,Arrival,09:20,1, Landed - On-time,2019-12-14,09:02,-
+964,2019-12-14,London,(LHR),American Airlines ,AA6285,Arrival,09:20,1, Landed - On-time,2019-12-14,09:02,-
+965,2019-12-14,London,(LHR),Iberia ,IB7474,Arrival,09:20,1, Landed - On-time,2019-12-14,09:02,-
+966,2019-12-14,Belgrade,(BEG),Air Serbia ,JU580,Arrival,09:25,2, Landed - On-time,2019-12-14,09:25,-
+967,2019-12-14,Belgrade,(BEG),Etihad Airways ,EY6031,Arrival,09:25,2, Landed - On-time,2019-12-14,09:25,-
+968,2019-12-14,Belgrade,(BEG),Air Europa ,UX3643,Arrival,09:25,2, Landed - On-time,2019-12-14,09:25,-
+969,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8137,Arrival,09:25,2, Landed - On-time,2019-12-14,09:22,-
+970,2019-12-14,Porto,(OPO),Ryanair ,FR4584,Arrival,09:25,2, Landed - On-time,2019-12-14,08:57,-
+971,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3903,Arrival,09:25,1, Landed - On-time,2019-12-14,09:37,-
+972,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5451,Arrival,09:25,1, Landed - On-time,2019-12-14,09:37,-
+973,2019-12-14,Palma Mallorca,(PMI),LATAM Airlines ,LA5770,Arrival,09:25,1, Landed - On-time,2019-12-14,09:37,-
+974,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3661,Arrival,09:25,1, Landed - On-time,2019-12-14,09:37,-
+975,2019-12-14,Lisbon,(LIS),Aegean Airlines ,A31702,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+976,2019-12-14,Lisbon,(LIS),Azul ,AD7279,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+977,2019-12-14,Lisbon,(LIS),Air China LTD ,CA7040,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+978,2019-12-14,Lisbon,(LIS),Etihad Airways ,EY1520,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+979,2019-12-14,Lisbon,(LIS),UIA ,PS9925,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+980,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48044,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+981,2019-12-14,Lisbon,(LIS),Singapore Airlines ,SQ2794,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+982,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1048,Arrival,09:30,1, Landed - On-time,2019-12-14,09:17,-
+983,2019-12-14,London,(LTN),easyJet ,U22263,Arrival,09:30,2, Landed - On-time,2019-12-14,09:12,-
+984,2019-12-14,Algiers,(ALG),Vueling ,VY7477,Arrival,09:35,1, Landed - On-time,2019-12-14,09:04,-
+985,2019-12-14,Algiers,(ALG),Iberia ,IB5683,Arrival,09:35,1, Landed - On-time,2019-12-14,09:04,-
+986,2019-12-14,San Sebastian,(EAS),Vueling ,VY2487,Arrival,09:35,1, Landed - On-time,2019-12-14,09:28,-
+987,2019-12-14,San Sebastian,(EAS),Iberia ,IB5220,Arrival,09:35,1, Landed - On-time,2019-12-14,09:28,-
+988,2019-12-14,San Sebastian,(EAS),LATAM Airlines ,LA5813,Arrival,09:35,1, Landed - On-time,2019-12-14,09:28,-
+989,2019-12-14,San Sebastian,(EAS),Qatar Airways ,QR3603,Arrival,09:35,1, Landed - On-time,2019-12-14,09:28,-
+990,2019-12-14,Ibiza,(IBZ),Vueling ,VY3515,Arrival,09:40,1, Landed - On-time,2019-12-14,09:31,-
+991,2019-12-14,Ibiza,(IBZ),Iberia ,IB5424,Arrival,09:40,1, Landed - On-time,2019-12-14,09:31,-
+992,2019-12-14,Ibiza,(IBZ),LATAM Airlines ,LA5833,Arrival,09:40,1, Landed - On-time,2019-12-14,09:31,-
+993,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3595,Arrival,09:40,1, Landed - On-time,2019-12-14,09:31,-
+994,2019-12-14,Menorca,(MAH),Vueling ,VY3713,Arrival,09:40,1, Landed - On-time,2019-12-14,09:22,-
+995,2019-12-14,Menorca,(MAH),Iberia ,IB5435,Arrival,09:40,1, Landed - On-time,2019-12-14,09:22,-
+996,2019-12-14,Menorca,(MAH),LATAM Airlines ,LA5826,Arrival,09:40,1, Landed - On-time,2019-12-14,09:22,-
+997,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3700,Arrival,09:40,1, Landed - On-time,2019-12-14,09:22,-
+998,2019-12-14,San Francisco,(SFO),Norwegian Air Shuttle ,DY7076,Arrival,09:40,2, Landed - Delayed,2019-12-14,10:48,-
+999,2019-12-14,Dublin,(DUB),Aer Lingus ,EI562,Arrival,09:45,2, Landed - On-time,2019-12-14,09:26,-
+1000,2019-12-14,Dublin,(DUB),British Airways ,BA8948,Arrival,09:45,2, Landed - On-time,2019-12-14,09:26,-
+1001,2019-12-14,Dublin,(DUB),Ryanair ,FR6875,Arrival,09:45,2, Landed - On-time,2019-12-14,09:35,-
+1002,2019-12-14,Alicante,(ALC),Vueling ,VY1303,Arrival,09:50,1, Landed - On-time,2019-12-14,09:34,-
+1003,2019-12-14,Alicante,(ALC),Iberia ,IB5026,Arrival,09:50,1, Landed - On-time,2019-12-14,09:34,-
+1004,2019-12-14,Alicante,(ALC),LATAM Airlines ,LA5745,Arrival,09:50,1, Landed - On-time,2019-12-14,09:34,-
+1005,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3606,Arrival,09:50,1, Landed - On-time,2019-12-14,09:34,-
+1006,2019-12-14,Geneva,(GVA),easyJet ,U21401,Arrival,09:55,2, Landed - On-time,2019-12-14,09:47,-
+1007,2019-12-14,Manchester,(MAN),easyJet ,U21849,Arrival,09:55,2, Landed - On-time,2019-12-14,09:39,-
+1008,2019-12-14,London,(LGW),easyJet ,U28571,Arrival,10:00,2, Landed - On-time,2019-12-14,09:58,-
+1009,2019-12-14,Bilbao,(BIO),Vueling ,VY1421,Arrival,10:05,1, Landed - On-time,2019-12-14,09:44,-
+1010,2019-12-14,Bilbao,(BIO),Iberia ,IB5054,Arrival,10:05,1, Landed - On-time,2019-12-14,09:44,-
+1011,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3522,Arrival,10:05,1, Landed - On-time,2019-12-14,09:44,-
+1012,2019-12-14,Minsk,(MSQ),Belavia ,B2869,Arrival,10:05,2, Landed - On-time,2019-12-14,10:08,-
+1013,2019-12-14,Edinburgh,(EDI),Ryanair ,FR6266,Arrival,10:10,2, Landed - On-time,2019-12-14,10:00,-
+1014,2019-12-14,New York,(JFK),Delta Air Lines ,DL476,Arrival,10:10,1, Landed - On-time,2019-12-14,10:23,E70
+1015,2019-12-14,New York,(JFK),Air France ,AF3597,Arrival,10:10,1, Landed - On-time,2019-12-14,10:23,E70
+1016,2019-12-14,New York,(JFK),Aeromexico ,AM3269,Arrival,10:10,1, Landed - On-time,2019-12-14,10:23,E70
+1017,2019-12-14,New York,(JFK),KLM ,KL6053,Arrival,10:10,1, Landed - On-time,2019-12-14,10:23,E70
+1018,2019-12-14,New York,(JFK),Air Europa ,UX3398,Arrival,10:10,1, Landed - On-time,2019-12-14,10:23,E70
+1019,2019-12-14,Toronto,(YYZ),Air Canada ,AC1914,Arrival,10:10,1, Landed - On-time,2019-12-14,10:13,-
+1020,2019-12-14,Toronto,(YYZ),Lufthansa ,LH6635,Arrival,10:10,1, Landed - On-time,2019-12-14,10:13,-
+1021,2019-12-14,Toronto,(YYZ),United Airlines ,UA8682,Arrival,10:10,1, Landed - On-time,2019-12-14,10:13,-
+1022,2019-12-14,Milan,(BGY),Ryanair ,FR6354,Arrival,10:15,2, Landed - On-time,2019-12-14,10:18,-
+1023,2019-12-14,Bristol,(BRS),easyJet ,U26025,Arrival,10:20,2, Landed - On-time,2019-12-14,10:11,-
+1024,2019-12-14,Madrid,(MAD),Vueling ,VY9060,Arrival,10:20,1, Landed - Delayed,2019-12-14,11:00,-
+1025,2019-12-14,Madrid,(MAD),Iberia ,IB5879,Arrival,10:20,1, Landed - Delayed,2019-12-14,11:00,-
+1026,2019-12-14,Amsterdam,(AMS),KLM ,KL1665,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1027,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6200,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1028,2019-12-14,Amsterdam,(AMS),China Southern Airlines ,CZ7944,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1029,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9601,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1030,2019-12-14,Amsterdam,(AMS),Etihad Airways ,EY7348,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1031,2019-12-14,Amsterdam,(AMS),Korean Air ,KE6405,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1032,2019-12-14,Amsterdam,(AMS),Kenya Airways ,KQ1665,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1033,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9353,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1034,2019-12-14,Amsterdam,(AMS),China Eastern Airlines ,MU1839,Arrival,10:25,1, Landed - On-time,2019-12-14,10:29,-
+1035,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1853,Arrival,10:25,1, Landed - Delayed,2019-12-14,10:49,-
+1036,2019-12-14,Istanbul,(ISL),SA AVIANCA ,AV6615,Arrival,10:25,1, Landed - Delayed,2019-12-14,10:49,-
+1037,2019-12-14,Istanbul,(ISL),Uzbekistan Airways ,HY7293,Arrival,10:25,1, Landed - Delayed,2019-12-14,10:49,-
+1038,2019-12-14,Istanbul,(ISL),Air New Zealand ,NZ4863,Arrival,10:25,1, Landed - Delayed,2019-12-14,10:49,-
+1039,2019-12-14,Liverpool,(LPL),easyJet ,U27201,Arrival,10:25,2, Landed - On-time,2019-12-14,10:05,-
+1040,2019-12-14,Asturias,(OVD),Vueling ,VY1574,Arrival,10:25,1, Landed - On-time,2019-12-14,10:14,-
+1041,2019-12-14,Asturias,(OVD),Iberia ,IB5432,Arrival,10:25,1, Landed - On-time,2019-12-14,10:14,-
+1042,2019-12-14,Asturias,(OVD),Qatar Airways ,QR3681,Arrival,10:25,1, Landed - On-time,2019-12-14,10:14,-
+1043,2019-12-14,Florence,(FLR),Vueling ,VY6002,Arrival,10:30,1, Landed - On-time,2019-12-14,10:26,-
+1044,2019-12-14,Florence,(FLR),British Airways ,BA8165,Arrival,10:30,1, Landed - On-time,2019-12-14,10:26,-
+1045,2019-12-14,Florence,(FLR),Iberia ,IB5507,Arrival,10:30,1, Landed - On-time,2019-12-14,10:26,-
+1046,2019-12-14,Florence,(FLR),Qatar Airways ,QR3565,Arrival,10:30,1, Landed - On-time,2019-12-14,10:26,-
+1047,2019-12-14,Moscow,(SVO),Aeroflot ,SU2638,Arrival,10:30,1, Landed - On-time,2019-12-14,10:32,-
+1048,2019-12-14,Moscow,(SVO),Air Europa ,UX3284,Arrival,10:30,1, Landed - On-time,2019-12-14,10:32,-
+1049,2019-12-14,Berlin,(SXF),easyJet ,U24531,Arrival,10:30,2, Landed - On-time,2019-12-14,10:19,-
+1050,2019-12-14,Tenerife,(TFS),Ryanair ,FR6377,Arrival,10:30,2, Landed - On-time,2019-12-14,10:06,-
+1051,2019-12-14,Nice,(NCE),Vueling ,VY1516,Arrival,10:35,1, Landed - On-time,2019-12-14,10:29,-
+1052,2019-12-14,Nice,(NCE),Iberia ,IB5091,Arrival,10:35,1, Landed - On-time,2019-12-14,10:29,-
+1053,2019-12-14,Bucharest,(OTP),TAROM ,RO421,Arrival,10:40,1, Landed - On-time,2019-12-14,10:35,-
+1054,2019-12-14,Bucharest,(OTP),Air Europa ,UX3706,Arrival,10:40,1, Landed - On-time,2019-12-14,10:35,-
+1055,2019-12-14,Sevilla,(SVQ),Vueling ,VY2211,Arrival,10:40,1, Landed - On-time,2019-12-14,10:40,-
+1056,2019-12-14,Sevilla,(SVQ),Iberia ,IB5105,Arrival,10:40,1, Landed - On-time,2019-12-14,10:40,-
+1057,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3774,Arrival,10:40,1, Landed - On-time,2019-12-14,10:40,-
+1058,2019-12-14,Madrid,(MAD),Iberia ,IB930,Arrival,10:45,1, Landed - Delayed,2019-12-14,11:24,-
+1059,2019-12-14,Madrid,(MAD),American Airlines ,AA8733,Arrival,10:45,1, Landed - Delayed,2019-12-14,11:24,-
+1060,2019-12-14,Madrid,(MAD),SA AVIANCA ,AV6078,Arrival,10:45,1, Landed - Delayed,2019-12-14,11:24,-
+1061,2019-12-14,Madrid,(MAD),Cathay Pacific ,CX1825,Arrival,10:45,1, Landed - Delayed,2019-12-14,11:24,-
+1062,2019-12-14,Porto,(OPO),Vueling ,VY8477,Arrival,10:45,1, Landed - On-time,2019-12-14,10:23,-
+1063,2019-12-14,Porto,(OPO),Iberia ,IB5789,Arrival,10:45,1, Landed - On-time,2019-12-14,10:23,-
+1064,2019-12-14,Porto,(OPO),Qatar Airways ,QR3788,Arrival,10:45,1, Landed - On-time,2019-12-14,10:23,-
+1065,2019-12-14,Malaga,(AGP),Ryanair ,FR6387,Arrival,10:50,2, Landed - On-time,2019-12-14,10:47,-
+1066,2019-12-14,Santiago De Compostela,(SCQ),Ryanair ,FR6333,Arrival,10:50,2, Landed - On-time,2019-12-14,10:34,-
+1067,2019-12-14,Athens,(ATH),Aegean Airlines ,A3710,Arrival,10:55,1, Landed - On-time,2019-12-14,11:03,-
+1068,2019-12-14,Athens,(ATH),TAP Air Portugal ,TP7446,Arrival,10:55,1, Landed - On-time,2019-12-14,11:03,-
+1069,2019-12-14,London,(LHR),British Airways ,BA478,Arrival,10:55,1, Landed - On-time,2019-12-14,10:53,-
+1070,2019-12-14,London,(LHR),American Airlines ,AA6290,Arrival,10:55,1, Landed - On-time,2019-12-14,10:53,-
+1071,2019-12-14,London,(LHR),Iberia ,IB7479,Arrival,10:55,1, Landed - On-time,2019-12-14,10:53,-
+1072,2019-12-14,London,(LHR),JAL ,JL6505,Arrival,10:55,1, Landed - On-time,2019-12-14,10:53,-
+1073,2019-12-14,Munich,(MUC),Lufthansa ,LH1810,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1074,2019-12-14,Munich,(MUC),SA AVIANCA ,AV6513,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1075,2019-12-14,Munich,(MUC),Air China LTD ,CA6067,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1076,2019-12-14,Munich,(MUC),Etihad Airways ,EY4178,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1077,2019-12-14,Munich,(MUC),South African Airways ,SA7834,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1078,2019-12-14,Munich,(MUC),United Airlines ,UA9289,Arrival,10:55,1, Landed - On-time,2019-12-14,10:57,-
+1079,2019-12-14,Rome,(FCO),Alitalia ,AZ74,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1080,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7224,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1081,2019-12-14,Rome,(FCO),China Southern Airlines ,CZ7396,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1082,2019-12-14,Rome,(FCO),Delta Air Lines ,DL6617,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1083,2019-12-14,Rome,(FCO),Etihad Airways ,EY2823,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1084,2019-12-14,Rome,(FCO),Air Serbia ,JU7228,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1085,2019-12-14,Rome,(FCO),Kenya Airways ,KQ3416,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1086,2019-12-14,Rome,(FCO),Air Europa ,UX3125,Arrival,11:00,1, Landed - On-time,2019-12-14,11:05,-
+1087,2019-12-14,Rome,(FCO),Ryanair ,FR6342,Arrival,11:00,2, Landed - On-time,2019-12-14,10:49,-
+1088,2019-12-14,Malaga,(AGP),Vueling ,VY2114,Arrival,11:05,1, Landed - On-time,2019-12-14,11:04,-
+1089,2019-12-14,Malaga,(AGP),Iberia ,IB5172,Arrival,11:05,1, Landed - On-time,2019-12-14,11:04,-
+1090,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3507,Arrival,11:05,1, Landed - On-time,2019-12-14,11:04,-
+1091,2019-12-14,Brussels,(BRU),Ryanair ,FR2917,Arrival,11:05,2, Landed - On-time,2019-12-14,10:58,-
+1092,2019-12-14,Granada,(GRX),Vueling ,VY2011,Arrival,11:05,1, Landed - On-time,2019-12-14,10:41,-
+1093,2019-12-14,Granada,(GRX),Iberia ,IB5161,Arrival,11:05,1, Landed - On-time,2019-12-14,10:41,-
+1094,2019-12-14,Granada,(GRX),Qatar Airways ,QR3581,Arrival,11:05,1, Landed - On-time,2019-12-14,10:41,-
+1095,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6156,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1096,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4827,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1097,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2409,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1098,2019-12-14,Palma Mallorca,(PMI),Delta Air Lines ,DL6778,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1099,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3352,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1100,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3665,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1101,2019-12-14,Tangier,(TNG),Vueling ,VY7365,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1102,2019-12-14,Tangier,(TNG),Iberia ,IB5670,Arrival,11:05,1, Landed - On-time,2019-12-14,11:07,-
+1103,2019-12-14,Geneva,(GVA),Vueling ,VY6200,Arrival,11:10,1, Landed - Delayed,2019-12-14,11:36,-
+1104,2019-12-14,Geneva,(GVA),Iberia ,IB5547,Arrival,11:10,1, Landed - Delayed,2019-12-14,11:36,-
+1105,2019-12-14,Paris,(ORY),Vueling ,VY8013,Arrival,11:10,1, Landed - On-time,2019-12-14,11:15,-
+1106,2019-12-14,Paris,(ORY),British Airways ,BA8142,Arrival,11:10,1, Landed - On-time,2019-12-14,11:15,-
+1107,2019-12-14,Paris,(ORY),Iberia ,IB5209,Arrival,11:10,1, Landed - On-time,2019-12-14,11:15,-
+1108,2019-12-14,Bucharest,(OTP),Blue Air ,0B107,Arrival,11:10,2, Landed - On-time,2019-12-14,11:06,-
+1109,2019-12-14,Almeria,(LEI),American Airlines ,AA8610,Arrival,11:15,1, Landed,2019-12-14,11:15,-
+1110,2019-12-14,Almeria,(LEI),Iberia ,IB8653,Arrival,11:15,1, Landed,2019-12-14,11:15,-
+1111,2019-12-14,Paris,(CDG),Air France ,AF1348,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1112,2019-12-14,Paris,(CDG),Aeromexico ,AM6010,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1113,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7067,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1114,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8392,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1115,2019-12-14,Paris,(CDG),Gol ,G35176,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1116,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3048,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1117,2019-12-14,Paris,(CDG),Air Mauritius ,MK9320,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1118,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU8635,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1119,2019-12-14,Paris,(CDG),Air Austral ,UU8348,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1120,2019-12-14,Paris,(CDG),Air Europa ,UX2248,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1121,2019-12-14,Paris,(CDG),Vietnam Airlines ,VN3672,Arrival,11:20,1, Landed - On-time,2019-12-14,11:17,-
+1122,2019-12-14,Geneva,(GVA),easyJet ,U21405,Arrival,11:20,2, Landed - Delayed,2019-12-14,15:57,-
+1123,2019-12-14,Las Palmas,(LPA),Vueling ,VY3001,Arrival,11:20,1, Landed - On-time,2019-12-14,10:53,-
+1124,2019-12-14,Las Palmas,(LPA),Iberia ,IB5282,Arrival,11:20,1, Landed - On-time,2019-12-14,10:53,-
+1125,2019-12-14,Las Palmas,(LPA),Qatar Airways ,QR3597,Arrival,11:20,1, Landed - On-time,2019-12-14,10:53,-
+1126,2019-12-14,Tenerife,(TFN),Vueling ,VY3215,Arrival,11:20,1, Landed - On-time,2019-12-14,11:10,-
+1127,2019-12-14,Tenerife,(TFN),Iberia ,IB5113,Arrival,11:20,1, Landed - On-time,2019-12-14,11:10,-
+1128,2019-12-14,Tenerife,(TFN),Qatar Airways ,QR3776,Arrival,11:20,1, Landed - On-time,2019-12-14,11:10,-
+1129,2019-12-14,Venice,(VCE),Ryanair ,FR3044,Arrival,11:20,2, Landed - On-time,2019-12-14,11:23,-
+1130,2019-12-14,Toronto,(YYZ),Air Transat ,TS268,Arrival,11:25,2, Landed - On-time,2019-12-14,10:38,-
+1131,2019-12-14,"Basel, Switzerland / Mulhouse",(BSL),easyJet ,U21075,Arrival,11:30,2, Landed - On-time,2019-12-14,11:20,-
+1132,2019-12-14,London,(STN),Ryanair ,FR9814,Arrival,11:30,2, Landed - On-time,2019-12-14,11:27,-
+1133,2019-12-14,Menorca,(MAH),Vueling ,VY3715,Arrival,11:35,1, Landed - On-time,2019-12-14,11:23,-
+1134,2019-12-14,Menorca,(MAH),Iberia ,IB5141,Arrival,11:35,1, Landed - On-time,2019-12-14,11:23,-
+1135,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3764,Arrival,11:35,1, Landed - On-time,2019-12-14,11:23,-
+1136,2019-12-14,Mexico City,(MEX),Aeromexico ,AM37,Arrival,11:35,1, Landed - On-time,2019-12-14,11:12,E77
+1137,2019-12-14,Mexico City,(MEX),El Al ,LY8228,Arrival,11:35,1, Landed - On-time,2019-12-14,11:12,E77
+1138,2019-12-14,Mexico City,(MEX),Aeroflot ,SU4415,Arrival,11:35,1, Landed - On-time,2019-12-14,11:12,E77
+1139,2019-12-14,Mexico City,(MEX),Air Europa ,UX2487,Arrival,11:35,1, Landed - On-time,2019-12-14,11:12,E77
+1140,2019-12-14,Stuttgart,(STR),Eurowings ,EW2528,Arrival,11:35,2, Landed - On-time,2019-12-14,11:32,-
+1141,2019-12-14,Brussels,(BRU),Brussels Airlines ,SN3701,Arrival,11:40,1, Landed - On-time,2019-12-14,11:39,-
+1142,2019-12-14,Brussels,(BRU),Thai Airways International ,TG6504,Arrival,11:40,1, Landed - On-time,2019-12-14,11:39,-
+1143,2019-12-14,Brussels,(BRU),United Airlines ,UA9971,Arrival,11:40,1, Landed - On-time,2019-12-14,11:39,-
+1144,2019-12-14,Rome,(FCO),Vueling ,VY6101,Arrival,11:40,1, Landed - On-time,2019-12-14,11:48,-
+1145,2019-12-14,Rome,(FCO),British Airways ,BA8094,Arrival,11:40,1, Landed - On-time,2019-12-14,11:48,-
+1146,2019-12-14,Rome,(FCO),Iberia ,IB5515,Arrival,11:40,1, Landed - On-time,2019-12-14,11:48,-
+1147,2019-12-14,Milan,(MXP),Vueling ,VY6331,Arrival,11:40,1, Landed - On-time,2019-12-14,11:44,-
+1148,2019-12-14,Milan,(MXP),British Airways ,BA8839,Arrival,11:40,1, Landed - On-time,2019-12-14,11:44,-
+1149,2019-12-14,Milan,(MXP),Iberia ,IB5335,Arrival,11:40,1, Landed - On-time,2019-12-14,11:44,-
+1150,2019-12-14,Marrakech,(RAK),Vueling ,VY7337,Arrival,11:40,1, Landed - On-time,2019-12-14,11:09,-
+1151,2019-12-14,Marrakech,(RAK),Iberia ,IB5664,Arrival,11:40,1, Landed - On-time,2019-12-14,11:09,-
+1152,2019-12-14,Casablanca,(CMN),Royal Air Maroc ,AT964,Arrival,11:45,1, Landed - On-time,2019-12-14,11:35,-
+1153,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1040,Arrival,11:45,1, Landed - On-time,2019-12-14,11:47,-
+1154,2019-12-14,Lisbon,(LIS),Azul ,AD7289,Arrival,11:45,1, Landed - On-time,2019-12-14,11:47,-
+1155,2019-12-14,Lisbon,(LIS),EgyptAir ,MS9422,Arrival,11:45,1, Landed - On-time,2019-12-14,11:47,-
+1156,2019-12-14,Lisbon,(LIS),UIA ,PS9940,Arrival,11:45,1, Landed - On-time,2019-12-14,11:47,-
+1157,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48042,Arrival,11:45,1, Landed - On-time,2019-12-14,11:47,-
+1158,2019-12-14,Brussels,(BRU),Vueling ,VY8989,Arrival,11:50,1, Landed - On-time,2019-12-14,11:42,-
+1159,2019-12-14,Brussels,(BRU),Iberia ,IB5844,Arrival,11:50,1, Landed - On-time,2019-12-14,11:42,-
+1160,2019-12-14,Ibiza,(IBZ),Vueling ,VY3509,Arrival,11:50,1, Landed - On-time,2019-12-14,11:33,-
+1161,2019-12-14,Ibiza,(IBZ),Iberia ,IB5418,Arrival,11:50,1, Landed - On-time,2019-12-14,11:33,-
+1162,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3716,Arrival,11:50,1, Landed - On-time,2019-12-14,11:33,-
+1163,2019-12-14,Lisbon,(LIS),Vueling ,VY8461,Arrival,11:50,1, Landed - On-time,2019-12-14,11:39,-
+1164,2019-12-14,Lisbon,(LIS),British Airways ,BA2047,Arrival,11:50,1, Landed - On-time,2019-12-14,11:39,-
+1165,2019-12-14,Lisbon,(LIS),Iberia ,IB5778,Arrival,11:50,1, Landed - On-time,2019-12-14,11:39,-
+1166,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3634,Arrival,11:50,1, Landed - On-time,2019-12-14,11:39,-
+1167,2019-12-14,Nice,(NCE),easyJet ,U21697,Arrival,11:50,2, Landed - On-time,2019-12-14,11:27,-
+1168,2019-12-14,London,(LHR),British Airways ,BA484,Arrival,11:55,1, Landed - On-time,2019-12-14,11:57,-
+1169,2019-12-14,London,(LHR),American Airlines ,AA6728,Arrival,11:55,1, Landed - On-time,2019-12-14,11:57,-
+1170,2019-12-14,London,(LHR),Iberia ,IB7484,Arrival,11:55,1, Landed - On-time,2019-12-14,11:57,-
+1171,2019-12-14,Istanbul,(SAW),Pegasus ,PC1091,Arrival,11:55,2, Landed - Delayed,2019-12-14,12:19,-
+1172,2019-12-14,Munich,(MUC),Vueling ,VY1813,Arrival,12:00,1, Landed - On-time,2019-12-14,12:04,-
+1173,2019-12-14,Munich,(MUC),British Airways ,BA8065,Arrival,12:00,1, Landed - On-time,2019-12-14,12:04,-
+1174,2019-12-14,Munich,(MUC),Iberia ,IB5132,Arrival,12:00,1, Landed - On-time,2019-12-14,12:04,-
+1175,2019-12-14,Naples,(NAP),Ryanair ,FR5711,Arrival,12:00,2, Landed - On-time,2019-12-14,12:09,-
+1176,2019-12-14,London,(LTN),Ryanair ,FR5090,Arrival,12:10,2, Landed - Delayed,2019-12-14,19:18,-
+1177,2019-12-14,Amsterdam,(AMS),KLM ,KL1669,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1178,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6201,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1179,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9499,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1180,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL8207,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1181,2019-12-14,Amsterdam,(AMS),Etihad Airways ,EY7378,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1182,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9022,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1183,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9829,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1184,2019-12-14,Amsterdam,(AMS),China Eastern Airlines ,MU1841,Arrival,12:15,1, Landed - On-time,2019-12-14,12:20,-
+1185,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1126,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1186,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9186,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1187,2019-12-14,Frankfurt,(FRA),SA AVIANCA ,AV6515,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1188,2019-12-14,Frankfurt,(FRA),Etihad Airways ,EY4173,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1189,2019-12-14,Frankfurt,(FRA),South African Airways ,SA7832,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1190,2019-12-14,Frankfurt,(FRA),SAS ,SK3382,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1191,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9360,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1192,2019-12-14,Frankfurt,(FRA),Oman Air ,WY5526,Arrival,12:15,1, Landed - On-time,2019-12-14,12:18,-
+1193,2019-12-14,New York,(JFK),Norwegian Air Shuttle ,DY7026,Arrival,12:15,2, Landed - Delayed,2019-12-14,14:37,-
+1194,2019-12-14,Moscow,(SVO),Aeroflot ,SU2718,Arrival,12:15,1, Landed - Delayed,2019-12-14,13:31,-
+1195,2019-12-14,Moscow,(SVO),Aeromexico ,AM7047,Arrival,12:15,1, Landed - Delayed,2019-12-14,13:31,-
+1196,2019-12-14,Moscow,(SVO),Air Europa ,UX3248,Arrival,12:15,1, Landed - Delayed,2019-12-14,13:31,-
+1197,2019-12-14,Oslo,(OSL),Norwegian Air Shuttle ,DY1740,Arrival,12:20,2, Landed - Delayed,2019-12-14,12:39,-
+1198,2019-12-14,Berlin,(SXF),Ryanair ,FR148,Arrival,12:20,2, Landed - Delayed,2019-12-14,13:37,-
+1199,2019-12-14,Paris,(CDG),Vueling ,VY8243,Arrival,12:25,1, Landed - On-time,2019-12-14,12:06,-
+1200,2019-12-14,Paris,(CDG),British Airways ,BA8833,Arrival,12:25,1, Landed - On-time,2019-12-14,12:06,-
+1201,2019-12-14,Paris,(CDG),Iberia ,IB5744,Arrival,12:25,1, Landed - On-time,2019-12-14,12:06,-
+1202,2019-12-14,London,(LGW),easyJet ,U28569,Arrival,12:25,2, Landed - On-time,2019-12-14,12:36,-
+1203,2019-12-14,Amsterdam,(AMS),Vueling ,VY8301,Arrival,12:30,1, Landed - Delayed,2019-12-14,13:03,-
+1204,2019-12-14,Amsterdam,(AMS),British Airways ,BA8112,Arrival,12:30,1, Landed - Delayed,2019-12-14,13:03,-
+1205,2019-12-14,Amsterdam,(AMS),Iberia ,IB5756,Arrival,12:30,1, Landed - Delayed,2019-12-14,13:03,-
+1206,2019-12-14,Saint Petersburg,(LED),Aeroflot ,SU6701,Arrival,12:30,1, Landed,2019-12-14,12:30,-
+1207,2019-12-14,London,(LGW),Vueling ,VY7835,Arrival,12:30,1, Canceled,2019-12-14,12:30,-
+1208,2019-12-14,London,(LGW),British Airways ,BA8080,Arrival,12:30,1, Canceled,2019-12-14,12:30,-
+1209,2019-12-14,London,(LGW),Iberia ,IB5709,Arrival,12:30,1, Canceled,2019-12-14,12:30,-
+1210,2019-12-14,Moscow,(DME),Ural Airlines ,U6845,Arrival,12:35,2, Landed - Delayed,2019-12-14,13:27,-
+1211,2019-12-14,Kiev/Kyiv,(KBP),UIA ,PS991,Arrival,12:35,1, Landed - Delayed,2019-12-14,12:58,-
+1212,2019-12-14,Kiev/Kyiv,(KBP),TAP Air Portugal ,TP8222,Arrival,12:35,1, Landed - Delayed,2019-12-14,12:58,-
+1213,2019-12-14,Warsaw,(WAW),LOT - Polish Airlines ,LO437,Arrival,12:35,1, Landed - On-time,2019-12-14,12:24,-
+1214,2019-12-14,Cologne,(CGN),Ryanair ,FR2512,Arrival,12:40,2, Landed - On-time,2019-12-14,12:48,-
+1215,2019-12-14,Madrid,(MAD),Iberia ,IB1130,Arrival,12:45,1, Landed - Delayed,2019-12-14,13:12,-
+1216,2019-12-14,Madrid,(MAD),American Airlines ,AA8693,Arrival,12:45,1, Landed - Delayed,2019-12-14,13:12,-
+1217,2019-12-14,Madrid,(MAD),Cathay Pacific ,CX1839,Arrival,12:45,1, Landed - Delayed,2019-12-14,13:12,-
+1218,2019-12-14,Madrid,(MAD),Hainan Airlines ,HU8459,Arrival,12:45,1, Landed - Delayed,2019-12-14,13:12,-
+1219,2019-12-14,Bogota,(BOG),SA AVIANCA ,AV18,Arrival,12:50,1, Landed - On-time,2019-12-14,12:14,-
+1220,2019-12-14,Bogota,(BOG),Air China LTD ,CA5306,Arrival,12:50,1, Landed - On-time,2019-12-14,12:14,-
+1221,2019-12-14,Bogota,(BOG),Singapore Airlines ,SQ1192,Arrival,12:50,1, Landed - On-time,2019-12-14,12:14,-
+1222,2019-12-14,Bogota,(BOG),Turkish Airlines ,TK8472,Arrival,12:50,1, Landed - On-time,2019-12-14,12:14,-
+1223,2019-12-14,Moscow,(DME),S7 Airlines ,S73661,Arrival,12:50,1, Landed - On-time,2019-12-14,12:47,-
+1224,2019-12-14,Doha,(DOH),Qatar Airways ,QR145,Arrival,12:50,1, Landed - On-time,2019-12-14,12:58,-
+1225,2019-12-14,Doha,(DOH),SriLankan Airlines ,UL3549,Arrival,12:50,1, Landed - On-time,2019-12-14,12:58,-
+1226,2019-12-14,Dubai,(DXB),Emirates ,EK185,Arrival,12:50,1, Landed - On-time,2019-12-14,12:33,-
+1227,2019-12-14,Dubai,(DXB),Malaysia Airlines ,MH4509,Arrival,12:50,1, Landed - On-time,2019-12-14,12:33,-
+1228,2019-12-14,Dubai,(DXB),Qantas ,QF8185,Arrival,12:50,1, Landed - On-time,2019-12-14,12:33,-
+1229,2019-12-14,London,(LGW),Vueling ,VY7823,Arrival,12:50,1, Landed - Delayed,2019-12-14,13:35,-
+1230,2019-12-14,London,(LGW),British Airways ,BA8069,Arrival,12:50,1, Landed - Delayed,2019-12-14,13:35,-
+1231,2019-12-14,London,(LGW),Iberia ,IB5704,Arrival,12:50,1, Landed - Delayed,2019-12-14,13:35,-
+1232,2019-12-14,Brussels,(BRU),Ryanair ,FR2921,Arrival,12:55,2, Landed - On-time,2019-12-14,13:07,-
+1233,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1130,Arrival,13:00,1, Landed - On-time,2019-12-14,13:09,-
+1234,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9392,Arrival,13:00,1, Landed - On-time,2019-12-14,13:09,-
+1235,2019-12-14,Frankfurt,(FRA),Oman Air ,WY5017,Arrival,13:00,1, Landed - On-time,2019-12-14,13:09,-
+1236,2019-12-14,London,(STN),Ryanair ,FR9810,Arrival,13:00,2, Landed - On-time,2019-12-14,12:49,-
+1237,2019-12-14,Manchester,(MAN),Ryanair ,FR7542,Arrival,13:05,2, Landed - Delayed,2019-12-14,13:40,-
+1238,2019-12-14,Madrid,(MAD),Vueling ,VY1156,Arrival,13:10,1, Landed - Delayed,2019-12-14,13:34,-
+1239,2019-12-14,Madrid,(MAD),Iberia ,IB5868,Arrival,13:10,1, Landed - Delayed,2019-12-14,13:34,-
+1240,2019-12-14,Milan,(MXP),easyJet ,U22761,Arrival,13:15,2, Landed - On-time,2019-12-14,13:18,-
+1241,2019-12-14,Vienna,(VIE),Vueling ,VY8715,Arrival,13:15,1, Landed - On-time,2019-12-14,13:25,-
+1242,2019-12-14,Vienna,(VIE),Iberia ,IB5810,Arrival,13:15,1, Landed - On-time,2019-12-14,13:25,-
+1243,2019-12-14,Prague,(PRG),Vueling ,VY8653,Arrival,13:20,1, Landed - On-time,2019-12-14,13:02,-
+1244,2019-12-14,Prague,(PRG),British Airways ,BA8193,Arrival,13:20,1, Landed - On-time,2019-12-14,13:02,-
+1245,2019-12-14,Prague,(PRG),Iberia ,IB5807,Arrival,13:20,1, Landed - On-time,2019-12-14,13:02,-
+1246,2019-12-14,Mexico City,(MEX),Emirates ,EK256,Arrival,13:25,1, Landed - On-time,2019-12-14,13:39,-
+1247,2019-12-14,New York,(JFK),Iberia ,IB2628,Arrival,13:30,1, Landed - On-time,2019-12-14,12:46,-
+1248,2019-12-14,New York,(JFK),LEVEL ,LV2628,Arrival,13:30,1, Landed - On-time,2019-12-14,12:46,-
+1249,2019-12-14,London,(LHR),British Airways ,BA474,Arrival,13:30,1, Landed - Delayed,2019-12-14,14:01,-
+1250,2019-12-14,London,(LHR),American Airlines ,AA6287,Arrival,13:30,1, Landed - Delayed,2019-12-14,14:01,-
+1251,2019-12-14,London,(LHR),Iberia ,IB7476,Arrival,13:30,1, Landed - Delayed,2019-12-14,14:01,-
+1252,2019-12-14,Tenerife,(TFN),Ryanair ,FR3064,Arrival,13:45,2, Landed - On-time,2019-12-14,13:41,-
+1253,2019-12-14,Milan,(BGY),Ryanair ,FR6297,Arrival,13:50,2, Landed - On-time,2019-12-14,13:53,-
+1254,2019-12-14,Granada,(GRX),Vueling ,VY2013,Arrival,13:55,1, Landed - On-time,2019-12-14,13:52,-
+1255,2019-12-14,Granada,(GRX),Iberia ,IB5163,Arrival,13:55,1, Landed - On-time,2019-12-14,13:52,-
+1256,2019-12-14,Granada,(GRX),Qatar Airways ,QR3579,Arrival,13:55,1, Landed - On-time,2019-12-14,13:52,-
+1257,2019-12-14,London,(LGW),Norwegian Air International ,D85501,Arrival,13:55,2, Landed - On-time,2019-12-14,13:47,-
+1258,2019-12-14,Paris,(CDG),Air France ,AF1648,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1259,2019-12-14,Paris,(CDG),Aeromexico ,AM6011,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1260,2019-12-14,Paris,(CDG),China Southern Airlines ,CZ7065,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1261,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8704,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1262,2019-12-14,Paris,(CDG),Gol ,G35247,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1263,2019-12-14,Paris,(CDG),Air Serbia ,JU7815,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1264,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3786,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1265,2019-12-14,Paris,(CDG),Air Mauritius ,MK9326,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1266,2019-12-14,Paris,(CDG),Air Europa ,UX2268,Arrival,14:00,1, Landed - On-time,2019-12-14,14:08,-
+1267,2019-12-14,Las Palmas,(LPA),Vueling ,VY3007,Arrival,14:00,1, Landed - On-time,2019-12-14,13:52,-
+1268,2019-12-14,Las Palmas,(LPA),Iberia ,IB5287,Arrival,14:00,1, Landed - On-time,2019-12-14,13:52,-
+1269,2019-12-14,Las Palmas,(LPA),Qatar Airways ,QR3766,Arrival,14:00,1, Landed - On-time,2019-12-14,13:52,-
+1270,2019-12-14,Zurich,(ZRH),SWISS ,LX1954,Arrival,14:00,1, Landed - Delayed,2019-12-14,14:15,-
+1271,2019-12-14,Zurich,(ZRH),United Airlines ,UA9766,Arrival,14:00,1, Landed - Delayed,2019-12-14,14:15,-
+1272,2019-12-14,Athens,(ATH),Vueling ,VY8101,Arrival,14:05,1, Landed - On-time,2019-12-14,14:03,-
+1273,2019-12-14,Athens,(ATH),Iberia ,IB5727,Arrival,14:05,1, Landed - On-time,2019-12-14,14:03,-
+1274,2019-12-14,Lyon,(LYS),easyJet ,U24415,Arrival,14:10,2, Landed - On-time,2019-12-14,14:07,-
+1275,2019-12-14,Melilla,(MLN),Iberia ,IB8251,Arrival,14:10,1, Landed - On-time,2019-12-14,14:00,-
+1276,2019-12-14,Melilla,(MLN),Qatar Airways ,QR6597,Arrival,14:10,1, Landed - On-time,2019-12-14,14:00,-
+1277,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR3071,Arrival,14:10,2, Landed - On-time,2019-12-14,13:52,-
+1278,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1467,Arrival,14:15,1, Landed - On-time,2019-12-14,14:12,-
+1279,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3905,Arrival,14:15,1, Landed - On-time,2019-12-14,13:58,-
+1280,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5452,Arrival,14:15,1, Landed - On-time,2019-12-14,13:58,-
+1281,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3655,Arrival,14:15,1, Landed - On-time,2019-12-14,13:58,-
+1282,2019-12-14,Cairo,(CAI),EgyptAir ,MS767,Arrival,14:25,1, Landed - Delayed,2019-12-14,14:57,-
+1283,2019-12-14,Cairo,(CAI),TAP Air Portugal ,TP7012,Arrival,14:25,1, Landed - Delayed,2019-12-14,14:57,-
+1284,2019-12-14,Olbia,(OLB),Vueling ,VY6143,Arrival,14:25,1, Landed - On-time,2019-12-14,14:11,-
+1285,2019-12-14,Olbia,(OLB),Iberia ,IB5535,Arrival,14:25,1, Landed - On-time,2019-12-14,14:11,-
+1286,2019-12-14,Olbia,(OLB),Qatar Airways ,QR3787,Arrival,14:25,1, Landed - On-time,2019-12-14,14:11,-
+1287,2019-12-14,Munich,(MUC),Lufthansa ,LH1812,Arrival,14:40,1, Landed - On-time,2019-12-14,14:44,-
+1288,2019-12-14,Munich,(MUC),Aegean Airlines ,A31470,Arrival,14:40,1, Landed - On-time,2019-12-14,14:44,-
+1289,2019-12-14,Munich,(MUC),Air Canada ,AC9226,Arrival,14:40,1, Landed - On-time,2019-12-14,14:44,-
+1290,2019-12-14,Munich,(MUC),United Airlines ,UA9295,Arrival,14:40,1, Landed - On-time,2019-12-14,14:44,-
+1291,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6060,Arrival,14:40,1, Landed - On-time,2019-12-14,14:24,-
+1292,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4813,Arrival,14:40,1, Landed - On-time,2019-12-14,14:24,-
+1293,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2413,Arrival,14:40,1, Landed - On-time,2019-12-14,14:24,-
+1294,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3320,Arrival,14:40,1, Landed - On-time,2019-12-14,14:24,-
+1295,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3650,Arrival,14:40,1, Landed - On-time,2019-12-14,14:24,-
+1296,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1038,Arrival,14:45,1, Landed - On-time,2019-12-14,14:30,-
+1297,2019-12-14,Lisbon,(LIS),Azul ,AD7288,Arrival,14:45,1, Landed - On-time,2019-12-14,14:30,-
+1298,2019-12-14,Lisbon,(LIS),El Al ,LY9008,Arrival,14:45,1, Landed - On-time,2019-12-14,14:30,-
+1299,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48708,Arrival,14:45,1, Landed - On-time,2019-12-14,14:30,-
+1300,2019-12-14,Lisbon,(LIS),United Airlines ,UA6873,Arrival,14:45,1, Landed - On-time,2019-12-14,14:30,-
+1301,2019-12-14,Paris,(BVA),Ryanair ,FR6375,Arrival,15:00,2, Landed - Delayed,2019-12-14,15:19,-
+1302,2019-12-14,London,(STN),Ryanair ,FR3842,Arrival,15:00,2, Landed - On-time,2019-12-14,14:56,-
+1303,2019-12-14,Vienna,(VIE),Anisec ,VK1008,Arrival,15:05,1, Landed - On-time,2019-12-14,15:00,-
+1304,2019-12-14,Vienna,(VIE),Vueling ,VY9564,Arrival,15:05,1, Landed - On-time,2019-12-14,15:00,-
+1305,2019-12-14,Ibiza,(IBZ),Vueling ,VY3511,Arrival,15:15,1, Landed - On-time,2019-12-14,14:53,-
+1306,2019-12-14,Ibiza,(IBZ),Iberia ,IB5420,Arrival,15:15,1, Landed - On-time,2019-12-14,14:53,-
+1307,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3553,Arrival,15:15,1, Landed - On-time,2019-12-14,14:53,-
+1308,2019-12-14,Oran,(ORN),Air Algerie ,AH2018,Arrival,15:15,1, Landed - On-time,2019-12-14,15:04,-
+1309,2019-12-14,Casablanca,(CMN),Air Arabia Maroc ,3O373,Arrival,15:20,2, Landed - On-time,2019-12-14,15:30,-
+1310,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1128,Arrival,15:20,1, Landed - Delayed,2019-12-14,15:36,-
+1311,2019-12-14,Frankfurt,(FRA),Air Canada ,AC9288,Arrival,15:20,1, Landed - Delayed,2019-12-14,15:36,-
+1312,2019-12-14,Frankfurt,(FRA),SAS ,SK3386,Arrival,15:20,1, Landed - Delayed,2019-12-14,15:36,-
+1313,2019-12-14,Frankfurt,(FRA),United Airlines ,UA8719,Arrival,15:20,1, Landed - Delayed,2019-12-14,15:36,-
+1314,2019-12-14,Bologna,(BLQ),Ryanair ,FR9367,Arrival,15:25,2, Landed - On-time,2019-12-14,15:21,-
+1315,2019-12-14,Florence,(FLR),Vueling ,VY6006,Arrival,15:25,1, Landed - On-time,2019-12-14,15:18,-
+1316,2019-12-14,Florence,(FLR),British Airways ,BA8169,Arrival,15:25,1, Landed - On-time,2019-12-14,15:18,-
+1317,2019-12-14,Florence,(FLR),Iberia ,IB5513,Arrival,15:25,1, Landed - On-time,2019-12-14,15:18,-
+1318,2019-12-14,Florence,(FLR),Qatar Airways ,QR3771,Arrival,15:25,1, Landed - On-time,2019-12-14,15:18,-
+1319,2019-12-14,Sevilla,(SVQ),Vueling ,VY2213,Arrival,15:25,1, Landed - On-time,2019-12-14,15:17,-
+1320,2019-12-14,Sevilla,(SVQ),Iberia ,IB5191,Arrival,15:25,1, Landed - On-time,2019-12-14,15:17,-
+1321,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3593,Arrival,15:25,1, Landed - On-time,2019-12-14,15:17,-
+1322,2019-12-14,Rome,(FCO),Ryanair ,FR6984,Arrival,15:30,2, Landed - On-time,2019-12-14,15:23,-
+1323,2019-12-14,London,(LTN),easyJet ,U22267,Arrival,15:35,2, Landed - On-time,2019-12-14,15:36,-
+1324,2019-12-14,Santiago,(SCL),Iberia ,IB2606,Arrival,15:35,1, Landed - On-time,2019-12-14,15:27,-
+1325,2019-12-14,Santiago De Compostela,(SCQ),Vueling ,VY1678,Arrival,15:35,1, Landed - Delayed,2019-12-14,15:51,-
+1326,2019-12-14,Santiago De Compostela,(SCQ),Iberia ,IB5123,Arrival,15:35,1, Landed - Delayed,2019-12-14,15:51,-
+1327,2019-12-14,Santiago De Compostela,(SCQ),Qatar Airways ,QR3795,Arrival,15:35,1, Landed - Delayed,2019-12-14,15:51,-
+1328,2019-12-14,Turin,(TRN),Ryanair ,FR9112,Arrival,15:35,2, Landed - On-time,2019-12-14,15:30,-
+1329,2019-12-14,Rome,(FCO),Alitalia ,AZ76,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1330,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7226,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1331,2019-12-14,Rome,(FCO),Delta Air Lines ,DL9219,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1332,2019-12-14,Rome,(FCO),Etihad Airways ,EY2824,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1333,2019-12-14,Rome,(FCO),Bulgaria Air ,FB1727,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1334,2019-12-14,Rome,(FCO),Hainan Airlines ,HU8663,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1335,2019-12-14,Rome,(FCO),Air Serbia ,JU7229,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1336,2019-12-14,Rome,(FCO),Kenya Airways ,KQ3418,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1337,2019-12-14,Rome,(FCO),Middle East Airlines ,ME2076,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1338,2019-12-14,Rome,(FCO),Saudia ,SV6239,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1339,2019-12-14,Rome,(FCO),Air Europa ,UX3127,Arrival,15:50,1, Landed - On-time,2019-12-14,15:54,-
+1340,2019-12-14,Berlin,(SXF),Ryanair ,FR132,Arrival,15:50,2, Landed - On-time,2019-12-14,15:44,-
+1341,2019-12-14,Hanover,(HAJ),Vueling ,VY1891,Arrival,15:55,1, Landed - On-time,2019-12-14,15:48,-
+1342,2019-12-14,Hanover,(HAJ),Iberia ,IB5154,Arrival,15:55,1, Landed - On-time,2019-12-14,15:48,-
+1343,2019-12-14,Malaga,(AGP),Vueling ,VY2120,Arrival,16:00,1, Landed - On-time,2019-12-14,15:47,-
+1344,2019-12-14,Malaga,(AGP),Iberia ,IB5177,Arrival,16:00,1, Landed - On-time,2019-12-14,15:47,-
+1345,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3535,Arrival,16:00,1, Landed - On-time,2019-12-14,15:47,-
+1346,2019-12-14,London,(STN),Ryanair ,FR9044,Arrival,16:00,2, Landed - On-time,2019-12-14,16:14,-
+1347,2019-12-14,Moscow,(SVO),Aeroflot ,SU2514,Arrival,16:05,1, Landed - On-time,2019-12-14,16:02,-
+1348,2019-12-14,Moscow,(SVO),Air Europa ,UX3298,Arrival,16:05,1, Landed - On-time,2019-12-14,16:02,-
+1349,2019-12-14,Seoul,(ICN),Korean Air ,KE915,Arrival,16:10,1, Landed - Delayed,2019-12-14,16:30,-
+1350,2019-12-14,Milan,(MXP),Vueling ,VY6335,Arrival,16:10,1, Landed - On-time,2019-12-14,16:07,-
+1351,2019-12-14,Milan,(MXP),British Airways ,BA8843,Arrival,16:10,1, Landed - On-time,2019-12-14,16:07,-
+1352,2019-12-14,Milan,(MXP),Iberia ,IB5588,Arrival,16:10,1, Landed - On-time,2019-12-14,16:07,-
+1353,2019-12-14,Madrid,(MAD),Vueling ,VY1500,Arrival,16:15,1, Landed - On-time,2019-12-14,16:21,-
+1354,2019-12-14,Madrid,(MAD),Iberia ,IB5085,Arrival,16:15,1, Landed - On-time,2019-12-14,16:21,-
+1355,2019-12-14,Madrid,(MAD),Qatar Airways ,QR3743,Arrival,16:15,1, Landed - On-time,2019-12-14,16:21,-
+1356,2019-12-14,Brussels,(CRL),Ryanair ,FR2835,Arrival,16:20,2, Landed - On-time,2019-12-14,16:23,-
+1357,2019-12-14,Rome,(FCO),Vueling ,VY6105,Arrival,16:20,1, Landed - Delayed,2019-12-14,16:51,-
+1358,2019-12-14,Rome,(FCO),British Airways ,BA8098,Arrival,16:20,1, Landed - Delayed,2019-12-14,16:51,-
+1359,2019-12-14,Rome,(FCO),Iberia ,IB5520,Arrival,16:20,1, Landed - Delayed,2019-12-14,16:51,-
+1360,2019-12-14,Madrid,(MAD),Air Europa ,UX7703,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1361,2019-12-14,Madrid,(MAD),Aeromexico ,AM6808,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1362,2019-12-14,Madrid,(MAD),Delta Air Lines ,DL6771,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1363,2019-12-14,Madrid,(MAD),Etihad Airways ,EY4366,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1364,2019-12-14,Madrid,(MAD),Korean Air ,KE6651,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1365,2019-12-14,Madrid,(MAD),Middle East Airlines ,ME2006,Arrival,16:25,1, Landed - Delayed,2019-12-14,18:02,-
+1366,2019-12-14,"Basel, Switzerland / Mulhouse",(BSL),easyJet ,U21081,Arrival,16:30,2, Landed - On-time,2019-12-14,16:31,-
+1367,2019-12-14,London,(LHR),British Airways ,BA480,Arrival,16:30,1, Landed - On-time,2019-12-14,16:44,-
+1368,2019-12-14,London,(LHR),American Airlines ,AA6292,Arrival,16:30,1, Landed - On-time,2019-12-14,16:44,-
+1369,2019-12-14,London,(LHR),Iberia ,IB7481,Arrival,16:30,1, Landed - On-time,2019-12-14,16:44,-
+1370,2019-12-14,Amsterdam,(AMS),KLM ,KL1673,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1371,2019-12-14,Amsterdam,(AMS),China Airlines ,CI9393,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1372,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9603,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1373,2019-12-14,Amsterdam,(AMS),Gol ,G38583,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1374,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9246,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1375,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9705,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1376,2019-12-14,Amsterdam,(AMS),UIA ,PS9473,Arrival,16:35,1, Landed - On-time,2019-12-14,16:30,-
+1377,2019-12-14,Birmingham,(BHX),Ryanair ,FR9163,Arrival,16:35,2, Landed - On-time,2019-12-14,16:21,-
+1378,2019-12-14,Copenhagen,(CPH),Norwegian Air International ,D83658,Arrival,16:35,2, Landed - On-time,2019-12-14,16:37,-
+1379,2019-12-14,Vilnius,(VNO),Ryanair ,FR2743,Arrival,16:35,2, Landed - On-time,2019-12-14,16:20,-
+1380,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3921,Arrival,16:40,1, Landed - On-time,2019-12-14,16:13,-
+1381,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5464,Arrival,16:40,1, Landed - On-time,2019-12-14,16:13,-
+1382,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3668,Arrival,16:40,1, Landed - On-time,2019-12-14,16:13,-
+1383,2019-12-14,Birmingham,(BHX),Vueling ,VY8753,Arrival,16:45,1, Landed - On-time,2019-12-14,16:46,-
+1384,2019-12-14,Birmingham,(BHX),British Airways ,BA8197,Arrival,16:45,1, Landed - On-time,2019-12-14,16:46,-
+1385,2019-12-14,Birmingham,(BHX),Iberia ,IB5820,Arrival,16:45,1, Landed - On-time,2019-12-14,16:46,-
+1386,2019-12-14,Bilbao,(BIO),Vueling ,VY1435,Arrival,16:50,1, Landed - On-time,2019-12-14,16:36,-
+1387,2019-12-14,Bilbao,(BIO),Iberia ,IB5064,Arrival,16:50,1, Landed - On-time,2019-12-14,16:36,-
+1388,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3635,Arrival,16:50,1, Landed - On-time,2019-12-14,16:36,-
+1389,2019-12-14,Lisbon,(LIS),Vueling ,VY8467,Arrival,16:50,1, Landed - Delayed,2019-12-14,17:52,-
+1390,2019-12-14,Lisbon,(LIS),British Airways ,BA2053,Arrival,16:50,1, Landed - Delayed,2019-12-14,17:52,-
+1391,2019-12-14,Lisbon,(LIS),Iberia ,IB5784,Arrival,16:50,1, Landed - Delayed,2019-12-14,17:52,-
+1392,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3543,Arrival,16:50,1, Landed - Delayed,2019-12-14,17:52,-
+1393,2019-12-14,Amsterdam,(AMS),Transavia ,HV5133,Arrival,16:55,2, Landed - On-time,2019-12-14,16:48,-
+1394,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL7508,Arrival,16:55,2, Landed - On-time,2019-12-14,16:48,-
+1395,2019-12-14,Stockholm,(ARN),Norwegian Air International ,D85555,Arrival,16:55,2, Landed - On-time,2019-12-14,16:58,-
+1396,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1044,Arrival,17:00,1, Landed - Delayed,2019-12-14,19:20,-
+1397,2019-12-14,Lisbon,(LIS),Azul ,AD7293,Arrival,17:00,1, Landed - Delayed,2019-12-14,19:20,-
+1398,2019-12-14,Lisbon,(LIS),El Al ,LY9046,Arrival,17:00,1, Landed - Delayed,2019-12-14,19:20,-
+1399,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48714,Arrival,17:00,1, Landed - Delayed,2019-12-14,19:20,-
+1400,2019-12-14,Madrid,(MAD),Iberia ,IB1546,Arrival,17:00,1, Landed - On-time,2019-12-14,17:00,-
+1401,2019-12-14,Madrid,(MAD),SA AVIANCA ,AV6085,Arrival,17:00,1, Landed - On-time,2019-12-14,17:00,-
+1402,2019-12-14,Madrid,(MAD),BoA ,OB5008,Arrival,17:00,1, Landed - On-time,2019-12-14,17:00,-
+1403,2019-12-14,Lanzarote,(ACE),Vueling ,VY2473,Arrival,17:05,1, Landed - On-time,2019-12-14,17:11,-
+1404,2019-12-14,Lanzarote,(ACE),Iberia ,IB5206,Arrival,17:05,1, Landed - On-time,2019-12-14,17:11,-
+1405,2019-12-14,Lanzarote,(ACE),Qatar Airways ,QR3501,Arrival,17:05,1, Landed - On-time,2019-12-14,17:11,-
+1406,2019-12-14,Istanbul,(ISL),Turkish Airlines ,TK1855,Arrival,17:15,1, Landed - On-time,2019-12-14,17:04,-
+1407,2019-12-14,Istanbul,(ISL),Uzbekistan Airways ,HY7295,Arrival,17:15,1, Landed - On-time,2019-12-14,17:04,-
+1408,2019-12-14,Brussels,(BRU),Vueling ,VY8993,Arrival,17:20,1, Landed - Delayed,2019-12-14,17:55,-
+1409,2019-12-14,Brussels,(BRU),Iberia ,IB5848,Arrival,17:20,1, Landed - Delayed,2019-12-14,17:55,-
+1410,2019-12-14,Berlin,(SXF),easyJet ,U24535,Arrival,17:20,2, Landed - On-time,2019-12-14,17:33,-
+1411,2019-12-14,Paris,(CDG),easyJet ,U23919,Arrival,17:25,2, Landed - On-time,2019-12-14,17:25,-
+1412,2019-12-14,Reykjavik,(KEF),Norwegian Air International ,D85667,Arrival,17:25,2, Landed - On-time,2019-12-14,17:17,-
+1413,2019-12-14,Valladolid,(VLL),Ryanair ,FR6321,Arrival,17:25,2, Landed - On-time,2019-12-14,17:27,-
+1414,2019-12-14,Milan,(BGY),Ryanair ,FR6304,Arrival,17:30,2, Landed - On-time,2019-12-14,17:31,-
+1415,2019-12-14,London,(LGW),easyJet ,U28575,Arrival,17:30,2, Landed - On-time,2019-12-14,17:36,-
+1416,2019-12-14,Berlin,(TXL),Vueling ,VY1883,Arrival,17:30,1, Landed - On-time,2019-12-14,17:40,-
+1417,2019-12-14,Berlin,(TXL),Iberia ,IB5147,Arrival,17:30,1, Landed - On-time,2019-12-14,17:40,-
+1418,2019-12-14,Munich,(MUC),Lufthansa ,LH1814,Arrival,17:35,1, Landed - On-time,2019-12-14,17:30,-
+1419,2019-12-14,Munich,(MUC),Etihad Airways ,EY4188,Arrival,17:35,1, Landed - On-time,2019-12-14,17:30,-
+1420,2019-12-14,Munich,(MUC),SAS ,SK3336,Arrival,17:35,1, Landed - On-time,2019-12-14,17:30,-
+1421,2019-12-14,Munich,(MUC),United Airlines ,UA9298,Arrival,17:35,1, Landed - On-time,2019-12-14,17:30,-
+1422,2019-12-14,Milan,(MXP),easyJet ,U22765,Arrival,17:40,2, Landed - On-time,2019-12-14,17:47,-
+1423,2019-12-14,Casablanca,(CMN),Royal Air Maroc ,AT960,Arrival,17:45,1, Landed - On-time,2019-12-14,17:46,-
+1424,2019-12-14,Seoul,(ICN),Asiana Airlines ,OZ511,Arrival,17:50,1, Landed - Delayed,2019-12-14,18:25,-
+1425,2019-12-14,Dusseldorf,(DUS),Vueling ,VY1899,Arrival,17:55,1, Landed - Delayed,2019-12-14,18:24,-
+1426,2019-12-14,Dusseldorf,(DUS),Iberia ,IB5156,Arrival,17:55,1, Landed - Delayed,2019-12-14,18:24,-
+1427,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6579,Arrival,17:55,2, Landed - On-time,2019-12-14,17:42,-
+1428,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6072,Arrival,17:55,1, Landed - On-time,2019-12-14,17:40,-
+1429,2019-12-14,Palma Mallorca,(PMI),Air France ,AF4835,Arrival,17:55,1, Landed - On-time,2019-12-14,17:40,-
+1430,2019-12-14,Palma Mallorca,(PMI),Alitalia ,AZ2415,Arrival,17:55,1, Landed - On-time,2019-12-14,17:40,-
+1431,2019-12-14,Palma Mallorca,(PMI),KLM ,KL3334,Arrival,17:55,1, Landed - On-time,2019-12-14,17:40,-
+1432,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1132,Arrival,18:00,1, Landed - On-time,2019-12-14,17:51,-
+1433,2019-12-14,Frankfurt,(FRA),Etihad Airways ,EY4174,Arrival,18:00,1, Landed - On-time,2019-12-14,17:51,-
+1434,2019-12-14,Frankfurt,(FRA),United Airlines ,UA9515,Arrival,18:00,1, Landed - On-time,2019-12-14,17:51,-
+1435,2019-12-14,Los Angeles,(LAX),Norwegian Air Shuttle ,DY7110,Arrival,18:00,2, Landed - Delayed,2019-12-14,18:17,-
+1436,2019-12-14,Algiers,(ALG),Air Algerie ,AH2014,Arrival,18:05,1, Landed - On-time,2019-12-14,17:43,-
+1437,2019-12-14,Kiev/Kyiv,(KBP),SkyUP Airlines ,PQ741,Arrival,18:10,2, Landed - Delayed,2019-12-14,18:28,-
+1438,2019-12-14,Madrid,(MAD),Vueling ,VY1656,Arrival,18:10,1, Landed - Delayed,2019-12-14,18:28,-
+1439,2019-12-14,Madrid,(MAD),Iberia ,IB5869,Arrival,18:10,1, Landed - Delayed,2019-12-14,18:28,-
+1440,2019-12-14,La Coruna,(LCG),Vueling ,VY1295,Arrival,18:25,1, Landed - On-time,2019-12-14,18:08,-
+1441,2019-12-14,La Coruna,(LCG),Iberia ,IB5022,Arrival,18:25,1, Landed - On-time,2019-12-14,18:08,-
+1442,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3627,Arrival,18:25,1, Landed - On-time,2019-12-14,18:08,-
+1443,2019-12-14,Paris,(ORY),Vueling ,VY8019,Arrival,18:25,1, Landed - On-time,2019-12-14,18:20,-
+1444,2019-12-14,Paris,(ORY),British Airways ,BA8147,Arrival,18:25,1, Landed - On-time,2019-12-14,18:20,-
+1445,2019-12-14,Paris,(ORY),Iberia ,IB5725,Arrival,18:25,1, Landed - On-time,2019-12-14,18:20,-
+1446,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3913,Arrival,18:30,1, Landed - On-time,2019-12-14,18:11,-
+1447,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5457,Arrival,18:30,1, Landed - On-time,2019-12-14,18:11,-
+1448,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3512,Arrival,18:30,1, Landed - On-time,2019-12-14,18:11,-
+1449,2019-12-14,Venice,(VCE),Vueling ,VY6405,Arrival,18:30,1, Landed - Delayed,2019-12-14,18:48,-
+1450,2019-12-14,Venice,(VCE),British Airways ,BA8164,Arrival,18:30,1, Landed - Delayed,2019-12-14,18:48,-
+1451,2019-12-14,Venice,(VCE),Iberia ,IB5597,Arrival,18:30,1, Landed - Delayed,2019-12-14,18:48,-
+1452,2019-12-14,Venice,(VCE),Qatar Airways ,QR3697,Arrival,18:30,1, Landed - Delayed,2019-12-14,18:48,-
+1453,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8842,Arrival,18:35,2, Landed - On-time,2019-12-14,18:20,-
+1454,2019-12-14,Bologna,(BLQ),Vueling ,VY6523,Arrival,18:40,1, Landed - On-time,2019-12-14,18:52,-
+1455,2019-12-14,Bologna,(BLQ),Iberia ,IB5606,Arrival,18:40,1, Landed - On-time,2019-12-14,18:52,-
+1456,2019-12-14,Bologna,(BLQ),Qatar Airways ,QR3647,Arrival,18:40,1, Landed - On-time,2019-12-14,18:52,-
+1457,2019-12-14,Paris,(CDG),Air France ,AF1048,Arrival,18:40,1, Landed - On-time,2019-12-14,18:40,-
+1458,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8281,Arrival,18:40,1, Landed - On-time,2019-12-14,18:40,-
+1459,2019-12-14,Paris,(CDG),Gol ,G35233,Arrival,18:40,1, Landed - On-time,2019-12-14,18:40,-
+1460,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3156,Arrival,18:40,1, Landed - On-time,2019-12-14,18:40,-
+1461,2019-12-14,Paris,(CDG),Air Europa ,UX2204,Arrival,18:40,1, Landed - On-time,2019-12-14,18:40,-
+1462,2019-12-14,Bilbao,(BIO),Vueling ,VY1427,Arrival,18:55,1, Landed - On-time,2019-12-14,18:55,-
+1463,2019-12-14,Bilbao,(BIO),Iberia ,IB5059,Arrival,18:55,1, Landed - On-time,2019-12-14,18:55,-
+1464,2019-12-14,Bilbao,(BIO),Qatar Airways ,QR3538,Arrival,18:55,1, Landed - On-time,2019-12-14,18:55,-
+1465,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1134,Arrival,18:55,1, Landed - Delayed,2019-12-14,19:15,-
+1466,2019-12-14,Frankfurt,(FRA),ANA ,NH5449,Arrival,18:55,1, Landed - Delayed,2019-12-14,19:15,-
+1467,2019-12-14,Amsterdam,(AMS),KLM ,KL1675,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1468,2019-12-14,Amsterdam,(AMS),Aeromexico ,AM6202,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1469,2019-12-14,Amsterdam,(AMS),China Southern Airlines ,CZ7982,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1470,2019-12-14,Amsterdam,(AMS),Delta Air Lines ,DL9604,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1471,2019-12-14,Amsterdam,(AMS),Etihad Airways ,EY7355,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1472,2019-12-14,Amsterdam,(AMS),Gol ,G35651,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1473,2019-12-14,Amsterdam,(AMS),Garuda Indonesia ,GA9250,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1474,2019-12-14,Amsterdam,(AMS),Kenya Airways ,KQ1675,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1475,2019-12-14,Amsterdam,(AMS),Xiamen Airlines ,MF9956,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1476,2019-12-14,Amsterdam,(AMS),UIA ,PS9484,Arrival,19:05,1, Landed - On-time,2019-12-14,18:57,-
+1477,2019-12-14,Frankfurt,(FRA),Ryanair ,FR1680,Arrival,19:05,2, Landed - On-time,2019-12-14,19:00,-
+1478,2019-12-14,London,(LGW),easyJet ,U28577,Arrival,19:05,2, Landed - On-time,2019-12-14,18:59,-
+1479,2019-12-14,Prague,(PRG),Ryanair ,FR3040,Arrival,19:05,2, Landed - On-time,2019-12-14,19:03,-
+1480,2019-12-14,Marrakech,(RAK),Ryanair ,FR2240,Arrival,19:05,2, Landed - On-time,2019-12-14,19:05,-
+1481,2019-12-14,London,(STN),Ryanair ,FR9014,Arrival,19:05,2, Landed - Delayed,2019-12-14,19:34,-
+1482,2019-12-14,Modlin,(EPMO),Ryanair ,FR6945,Arrival,19:10,2, Landed - On-time,2019-12-14,18:53,-
+1483,2019-12-14,Zurich,(ZRH),SWISS ,LX1956,Arrival,19:10,1, Landed - On-time,2019-12-14,19:11,-
+1484,2019-12-14,Malaga,(AGP),Vueling ,VY2116,Arrival,19:15,1, Landed - On-time,2019-12-14,19:25,-
+1485,2019-12-14,Malaga,(AGP),Iberia ,IB5174,Arrival,19:15,1, Landed - On-time,2019-12-14,19:25,-
+1486,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3500,Arrival,19:15,1, Landed - On-time,2019-12-14,19:25,-
+1487,2019-12-14,Fez,(FEZ),Ryanair ,FR9017,Arrival,19:15,2, Landed - Delayed,2019-12-14,20:08,-
+1488,2019-12-14,London,(LHR),British Airways ,BA476,Arrival,19:15,1, Landed - On-time,2019-12-14,19:29,-
+1489,2019-12-14,London,(LHR),American Airlines ,AA6356,Arrival,19:15,1, Landed - On-time,2019-12-14,19:29,-
+1490,2019-12-14,Madrid,(MAD),Iberia ,IB1800,Arrival,19:15,1, Landed - On-time,2019-12-14,19:15,-
+1491,2019-12-14,Menorca,(MAH),Vueling ,VY3709,Arrival,19:25,1, Landed - On-time,2019-12-14,19:05,-
+1492,2019-12-14,Menorca,(MAH),Iberia ,IB5430,Arrival,19:25,1, Landed - On-time,2019-12-14,19:05,-
+1493,2019-12-14,Menorca,(MAH),Qatar Airways ,QR3752,Arrival,19:25,1, Landed - On-time,2019-12-14,19:05,-
+1494,2019-12-14,Paris,(CDG),Air France ,AF1248,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1495,2019-12-14,Paris,(CDG),Delta Air Lines ,DL8377,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1496,2019-12-14,Paris,(CDG),Gol ,G35235,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1497,2019-12-14,Paris,(CDG),JAL ,JL5317,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1498,2019-12-14,Paris,(CDG),Korean Air ,KE6343,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1499,2019-12-14,Paris,(CDG),Kenya Airways ,KQ3206,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1500,2019-12-14,Paris,(CDG),Air Europa ,UX2247,Arrival,19:30,1, Landed - On-time,2019-12-14,19:40,-
+1501,2019-12-14,Ibiza,(IBZ),Vueling ,VY3517,Arrival,19:30,1, Landed - On-time,2019-12-14,19:07,-
+1502,2019-12-14,Ibiza,(IBZ),Iberia ,IB5131,Arrival,19:30,1, Landed - On-time,2019-12-14,19:07,-
+1503,2019-12-14,Ibiza,(IBZ),Qatar Airways ,QR3601,Arrival,19:30,1, Landed - On-time,2019-12-14,19:07,-
+1504,2019-12-14,Geneva,(GVA),easyJet ,U21411,Arrival,19:35,2, Landed - On-time,2019-12-14,19:36,-
+1505,2019-12-14,Rome,(FCO),Vueling ,VY6111,Arrival,19:40,1, Landed - On-time,2019-12-14,19:20,-
+1506,2019-12-14,Rome,(FCO),British Airways ,BA8103,Arrival,19:40,1, Landed - On-time,2019-12-14,19:20,-
+1507,2019-12-14,Rome,(FCO),Iberia ,IB5524,Arrival,19:40,1, Landed - On-time,2019-12-14,19:20,-
+1508,2019-12-14,London,(LHR),British Airways ,BA486,Arrival,19:45,1, Landed - On-time,2019-12-14,19:55,-
+1509,2019-12-14,London,(LHR),American Airlines ,AA6297,Arrival,19:45,1, Landed - On-time,2019-12-14,19:55,-
+1510,2019-12-14,London,(LHR),Iberia ,IB7486,Arrival,19:45,1, Landed - On-time,2019-12-14,19:55,-
+1511,2019-12-14,London,(LHR),JAL ,JL7161,Arrival,19:45,1, Landed - On-time,2019-12-14,19:55,-
+1512,2019-12-14,Nantes,(NTE),Vueling ,VY2971,Arrival,19:45,1, Landed - On-time,2019-12-14,19:45,-
+1513,2019-12-14,Nantes,(NTE),Iberia ,IB5259,Arrival,19:45,1, Landed - On-time,2019-12-14,19:45,-
+1514,2019-12-14,Stuttgart,(STR),Vueling ,VY1867,Arrival,19:45,1, Landed - On-time,2019-12-14,19:30,-
+1515,2019-12-14,Stuttgart,(STR),Iberia ,IB5140,Arrival,19:45,1, Landed - On-time,2019-12-14,19:30,-
+1516,2019-12-14,Dublin,(DUB),Aer Lingus ,EI564,Arrival,19:55,2, Landed - On-time,2019-12-14,19:41,-
+1517,2019-12-14,Dublin,(DUB),British Airways ,BA8950,Arrival,19:55,2, Landed - On-time,2019-12-14,19:41,-
+1518,2019-12-14,Dublin,(DUB),Etihad Airways ,EY7878,Arrival,19:55,2, Landed - On-time,2019-12-14,19:41,-
+1519,2019-12-14,Moscow,(DME),Vueling ,VY7783,Arrival,20:00,1, Landed - On-time,2019-12-14,19:50,-
+1520,2019-12-14,Moscow,(DME),Iberia ,IB5696,Arrival,20:00,1, Landed - On-time,2019-12-14,19:50,-
+1521,2019-12-14,Katowice,(KTW),Wizz Air ,W61175,Arrival,20:00,2, Landed - Delayed,2019-12-14,20:53,-
+1522,2019-12-14,London,(LTN),easyJet ,U22269,Arrival,20:05,2, Landed - On-time,2019-12-14,19:53,-
+1523,2019-12-14,Dubai,(DXB),Emirates ,EK187,Arrival,20:10,1, Landed - On-time,2019-12-14,20:01,-
+1524,2019-12-14,Dubai,(DXB),Malaysia Airlines ,MH4511,Arrival,20:10,1, Landed - On-time,2019-12-14,20:01,-
+1525,2019-12-14,Dubai,(DXB),Qantas ,QF8187,Arrival,20:10,1, Landed - On-time,2019-12-14,20:01,-
+1526,2019-12-14,Lisbon,(LIS),Vueling ,VY8465,Arrival,20:15,1, Landed - On-time,2019-12-14,19:50,-
+1527,2019-12-14,Lisbon,(LIS),British Airways ,BA2051,Arrival,20:15,1, Landed - On-time,2019-12-14,19:50,-
+1528,2019-12-14,Lisbon,(LIS),Iberia ,IB5782,Arrival,20:15,1, Landed - On-time,2019-12-14,19:50,-
+1529,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3589,Arrival,20:15,1, Landed - On-time,2019-12-14,19:50,-
+1530,2019-12-14,Santander,(SDR),Ryanair ,FR6385,Arrival,20:15,2, Landed - On-time,2019-12-14,20:08,-
+1531,2019-12-14,Helsinki,(HEL),Finnair ,AY1653,Arrival,20:20,1, Landed - On-time,2019-12-14,20:24,-
+1532,2019-12-14,Helsinki,(HEL),Iberia ,IB391,Arrival,20:20,1, Landed - On-time,2019-12-14,20:24,-
+1533,2019-12-14,Helsinki,(HEL),JAL ,JL6855,Arrival,20:20,1, Landed - On-time,2019-12-14,20:24,-
+1534,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1046,Arrival,20:20,1, Landed - On-time,2019-12-14,20:17,-
+1535,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48710,Arrival,20:20,1, Landed - On-time,2019-12-14,20:17,-
+1536,2019-12-14,Sevilla,(SVQ),Vueling ,VY2227,Arrival,20:20,1, Landed - On-time,2019-12-14,20:04,-
+1537,2019-12-14,Sevilla,(SVQ),Iberia ,IB5417,Arrival,20:20,1, Landed - On-time,2019-12-14,20:04,-
+1538,2019-12-14,Sevilla,(SVQ),Qatar Airways ,QR3504,Arrival,20:20,1, Landed - On-time,2019-12-14,20:04,-
+1539,2019-12-14,Doha,(DOH),Qatar Airways ,QR141,Arrival,20:25,1, Landed - On-time,2019-12-14,20:21,-
+1540,2019-12-14,Doha,(DOH),SriLankan Airlines ,UL3551,Arrival,20:25,1, Landed - On-time,2019-12-14,20:21,-
+1541,2019-12-14,Paris,(CDG),Vueling ,VY8245,Arrival,20:35,1, Landed - On-time,2019-12-14,20:12,-
+1542,2019-12-14,Paris,(CDG),British Airways ,BA8835,Arrival,20:35,1, Landed - On-time,2019-12-14,20:12,-
+1543,2019-12-14,Paris,(CDG),Iberia ,IB5746,Arrival,20:35,1, Landed - On-time,2019-12-14,20:12,-
+1544,2019-12-14,Dublin,(DUB),Ryanair ,FR6395,Arrival,20:40,2, Landed - On-time,2019-12-14,20:34,-
+1545,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3911,Arrival,20:40,1, Landed - On-time,2019-12-14,20:29,-
+1546,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5455,Arrival,20:40,1, Landed - On-time,2019-12-14,20:29,-
+1547,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3792,Arrival,20:40,1, Landed - On-time,2019-12-14,20:29,-
+1548,2019-12-14,London,(LGW),Vueling ,VY7839,Arrival,20:45,1, Landed - Delayed,2019-12-14,21:00,-
+1549,2019-12-14,London,(LGW),British Airways ,BA8082,Arrival,20:45,1, Landed - Delayed,2019-12-14,21:00,-
+1550,2019-12-14,London,(LGW),Iberia ,IB5711,Arrival,20:45,1, Landed - Delayed,2019-12-14,21:00,-
+1551,2019-12-14,London,(LGW),Norwegian Air International ,D82432,Arrival,20:50,2, Landed - Delayed,2019-12-14,21:30,-
+1552,2019-12-14,Palma Mallorca,(PMI),Ryanair ,FR6369,Arrival,21:00,2, Landed - On-time,2019-12-14,20:46,-
+1553,2019-12-14,Palma Mallorca,(PMI),Air Europa ,UX6102,Arrival,21:05,1, Landed - On-time,2019-12-14,20:39,-
+1554,2019-12-14,Palma Mallorca,(PMI),Aeroflot ,SU3649,Arrival,21:05,1, Landed - On-time,2019-12-14,20:39,-
+1555,2019-12-14,Alicante,(ALC),Vueling ,VY1305,Arrival,21:10,1, Landed - On-time,2019-12-14,21:00,-
+1556,2019-12-14,Alicante,(ALC),Iberia ,IB5028,Arrival,21:10,1, Landed - On-time,2019-12-14,21:00,-
+1557,2019-12-14,Alicante,(ALC),Qatar Airways ,QR3524,Arrival,21:10,1, Landed - On-time,2019-12-14,21:00,-
+1558,2019-12-14,Vilnius,(VNO),Wizz Air ,W68063,Arrival,21:10,2, Landed - On-time,2019-12-14,21:20,-
+1559,2019-12-14,Amsterdam,(AMS),Vueling ,VY8307,Arrival,21:15,1, Landed - On-time,2019-12-14,20:56,-
+1560,2019-12-14,Amsterdam,(AMS),British Airways ,BA8118,Arrival,21:15,1, Landed - On-time,2019-12-14,20:56,-
+1561,2019-12-14,Amsterdam,(AMS),Iberia ,IB5759,Arrival,21:15,1, Landed - On-time,2019-12-14,20:56,-
+1562,2019-12-14,Madrid,(MAD),Iberia ,IB2000,Arrival,21:15,1, Landed - On-time,2019-12-14,21:20,-
+1563,2019-12-14,Madrid,(MAD),JAL ,JL6941,Arrival,21:15,1, Landed - On-time,2019-12-14,21:20,-
+1564,2019-12-14,Bucharest,(OTP),Wizz Air ,W63175,Arrival,21:15,2, Landed - On-time,2019-12-14,21:04,-
+1565,2019-12-14,Budapest,(BUD),Wizz Air ,W62377,Arrival,21:25,2, Landed - On-time,2019-12-14,21:39,-
+1566,2019-12-14,Nador,(NDR),Air Arabia Maroc ,3O375,Arrival,21:25,2, Landed - On-time,2019-12-14,21:10,-
+1567,2019-12-14,Chisinau,(KIV),Wizz Air ,W66901,Arrival,21:35,2, Landed - Delayed,2019-12-14,21:53,-
+1568,2019-12-14,Madrid,(MAD),Air Europa ,UX7707,Arrival,21:45,1, Landed - On-time,2019-12-14,21:50,-
+1569,2019-12-14,Madrid,(MAD),Aerolineas Argentinas ,AR7324,Arrival,21:45,1, Landed - On-time,2019-12-14,21:50,-
+1570,2019-12-14,Madrid,(MAD),Korean Air ,KE6653,Arrival,21:45,1, Landed - On-time,2019-12-14,21:50,-
+1571,2019-12-14,Madrid,(MAD),Aeroflot ,SU3674,Arrival,21:45,1, Landed - On-time,2019-12-14,21:50,-
+1572,2019-12-14,Madrid,(MAD),Saudia ,SV6184,Arrival,21:45,1, Landed - On-time,2019-12-14,21:50,-
+1573,2019-12-14,Paris,(ORY),Vueling ,VY8021,Arrival,21:45,1, Landed - On-time,2019-12-14,21:39,-
+1574,2019-12-14,Paris,(ORY),British Airways ,BA8149,Arrival,21:45,1, Landed - On-time,2019-12-14,21:39,-
+1575,2019-12-14,Paris,(ORY),Iberia ,IB5275,Arrival,21:45,1, Landed - On-time,2019-12-14,21:39,-
+1576,2019-12-14,Munich,(MUC),Lufthansa ,LH1816,Arrival,21:55,1, Landed - On-time,2019-12-14,22:08,-
+1577,2019-12-14,Munich,(MUC),Aegean Airlines ,A31476,Arrival,21:55,1, Landed - On-time,2019-12-14,22:08,-
+1578,2019-12-14,Munich,(MUC),ANA ,NH6077,Arrival,21:55,1, Landed - On-time,2019-12-14,22:08,-
+1579,2019-12-14,Munich,(MUC),SAS ,SK3310,Arrival,21:55,1, Landed - On-time,2019-12-14,22:08,-
+1580,2019-12-14,Munich,(MUC),United Airlines ,UA9299,Arrival,21:55,1, Landed - On-time,2019-12-14,22:08,-
+1581,2019-12-14,London,(LHR),British Airways ,BA482,Arrival,22:15,1, Landed - On-time,2019-12-14,22:15,-
+1582,2019-12-14,London,(LHR),American Airlines ,AA6294,Arrival,22:15,1, Landed - On-time,2019-12-14,22:15,-
+1583,2019-12-14,London,(LHR),Iberia ,IB7483,Arrival,22:15,1, Landed - On-time,2019-12-14,22:15,-
+1584,2019-12-14,London,(LHR),JAL ,JL7743,Arrival,22:15,1, Landed - On-time,2019-12-14,22:15,-
+1585,2019-12-14,Budapest,(BUD),Ryanair ,FR8393,Arrival,22:35,2, Landed - On-time,2019-12-14,22:38,-
+1586,2019-12-14,Moscow,(SVO),Aeroflot ,SU2512,Arrival,22:35,1, Landed - On-time,2019-12-14,22:32,-
+1587,2019-12-14,Moscow,(SVO),Air Europa ,UX3288,Arrival,22:35,1, Landed - On-time,2019-12-14,22:32,-
+1588,2019-12-14,London,(LGW),Vueling ,VY7825,Arrival,22:40,1, Landed - On-time,2019-12-14,22:52,-
+1589,2019-12-14,London,(LGW),British Airways ,BA8071,Arrival,22:40,1, Landed - On-time,2019-12-14,22:52,-
+1590,2019-12-14,London,(LGW),Iberia ,IB5706,Arrival,22:40,1, Landed - On-time,2019-12-14,22:52,-
+1591,2019-12-14,Palma Mallorca,(PMI),Vueling ,VY3919,Arrival,22:40,1, Landed - On-time,2019-12-14,22:20,-
+1592,2019-12-14,Palma Mallorca,(PMI),Iberia ,IB5462,Arrival,22:40,1, Landed - On-time,2019-12-14,22:20,-
+1593,2019-12-14,Palma Mallorca,(PMI),Qatar Airways ,QR3619,Arrival,22:40,1, Landed - On-time,2019-12-14,22:20,-
+1594,2019-12-14,Paris,(CDG),Air France ,AF1448,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1595,2019-12-14,Paris,(CDG),Aeromexico ,AM6031,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1596,2019-12-14,Paris,(CDG),Gol ,G35279,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1597,2019-12-14,Paris,(CDG),JAL ,JL5353,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1598,2019-12-14,Paris,(CDG),Air Serbia ,JU7811,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1599,2019-12-14,Paris,(CDG),Korean Air ,KE6341,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1600,2019-12-14,Paris,(CDG),China Eastern Airlines ,MU8637,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1601,2019-12-14,Paris,(CDG),Air Europa ,UX2223,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1602,2019-12-14,Paris,(CDG),Vietnam Airlines ,VN3674,Arrival,22:55,1, Landed - On-time,2019-12-14,22:46,-
+1603,2019-12-14,London,(LGW),easyJet ,U28581,Arrival,22:55,2, Landed - On-time,2019-12-14,22:48,-
+1604,2019-12-14,Manchester,(MAN),Vueling ,VY8749,Arrival,22:55,1, Landed - On-time,2019-12-14,22:52,-
+1605,2019-12-14,Manchester,(MAN),Iberia ,IB5818,Arrival,22:55,1, Landed - On-time,2019-12-14,22:52,-
+1606,2019-12-14,Sevilla,(SVQ),Ryanair ,FR6399,Arrival,23:10,2, Landed - On-time,2019-12-14,22:39,-
+1607,2019-12-14,Rome,(FCO),Alitalia ,AZ78,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1608,2019-12-14,Rome,(FCO),Aerolineas Argentinas ,AR7228,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1609,2019-12-14,Rome,(FCO),Bulgaria Air ,FB1729,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1610,2019-12-14,Rome,(FCO),Air Serbia ,JU7264,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1611,2019-12-14,Rome,(FCO),Korean Air ,KE6283,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1612,2019-12-14,Rome,(FCO),China Eastern Airlines ,MU8195,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1613,2019-12-14,Rome,(FCO),Air Europa ,UX3129,Arrival,23:15,1, Landed - On-time,2019-12-14,22:55,-
+1614,2019-12-14,Frankfurt,(FRA),Lufthansa ,LH1138,Arrival,23:15,1, Landed - Delayed,2019-12-14,23:33,-
+1615,2019-12-14,Frankfurt,(FRA),Air China LTD ,CA6293,Arrival,23:15,1, Landed - Delayed,2019-12-14,23:33,-
+1616,2019-12-14,Frankfurt,(FRA),SAS ,SK3380,Arrival,23:15,1, Landed - Delayed,2019-12-14,23:33,-
+1617,2019-12-14,Frankfurt,(FRA),Thai Airways International ,TG7656,Arrival,23:15,1, Landed - Delayed,2019-12-14,23:33,-
+1618,2019-12-14,Gothenburg,(GOT),Ryanair ,FR5125,Arrival,23:15,2, Landed - Delayed,2019-12-14,23:40,-
+1619,2019-12-14,Malaga,(AGP),Vueling ,VY2118,Arrival,23:20,1, Landed - On-time,2019-12-14,23:09,-
+1620,2019-12-14,Malaga,(AGP),Iberia ,IB5176,Arrival,23:20,1, Landed - On-time,2019-12-14,23:09,-
+1621,2019-12-14,Malaga,(AGP),LATAM Airlines ,LA5741,Arrival,23:20,1, Landed - On-time,2019-12-14,23:09,-
+1622,2019-12-14,Malaga,(AGP),Qatar Airways ,QR3511,Arrival,23:20,1, Landed - On-time,2019-12-14,23:09,-
+1623,2019-12-14,Rome,(FCO),Ryanair ,FR6986,Arrival,23:25,2, Landed - Delayed,2019-12-15,00:02,-
+1624,2019-12-14,Ibiza,(IBZ),Ryanair ,FR8140,Arrival,23:25,2, Landed - On-time,2019-12-14,23:04,-
+1625,2019-12-14,Milan,(BGY),Ryanair ,FR6366,Arrival,23:30,2, Landed - Delayed,2019-12-14,23:55,-
+1626,2019-12-14,Marseille,(MRS),Vueling ,VY1509,Arrival,23:30,1, Landed - On-time,2019-12-14,23:11,-
+1627,2019-12-14,Marseille,(MRS),Iberia ,IB5090,Arrival,23:30,1, Landed - On-time,2019-12-14,23:11,-
+1628,2019-12-14,Marseille,(MRS),LATAM Airlines ,LA5830,Arrival,23:30,1, Landed - On-time,2019-12-14,23:11,-
+1629,2019-12-14,Cologne,(CGN),Ryanair ,FR2508,Arrival,23:40,2, Landed - Delayed,2019-12-15,00:03,-
+1630,2019-12-14,Lisbon,(LIS),TAP Air Portugal ,TP1042,Arrival,23:40,1, Landed - Delayed,2019-12-15,00:37,-
+1631,2019-12-14,Lisbon,(LIS),Azul ,AD7297,Arrival,23:40,1, Landed - Delayed,2019-12-15,00:37,-
+1632,2019-12-14,Lisbon,(LIS),Azores Airlines ,S48692,Arrival,23:40,1, Landed - Delayed,2019-12-15,00:37,-
+1633,2019-12-14,Lisbon,(LIS),United Airlines ,UA6870,Arrival,23:40,1, Landed - Delayed,2019-12-15,00:37,-
+1634,2019-12-14,Nador,(NDR),Ryanair ,FR2234,Arrival,23:40,2, Landed - Delayed,2019-12-14,23:56,-
+1635,2019-12-14,Puerto del Rosario,(FUE),Ryanair ,FR6303,Arrival,23:55,2, Landed - Delayed,2019-12-15,00:15,-
+1636,2019-12-14,Lisbon,(LIS),Vueling ,VY8463,Arrival,23:55,1, Landed - On-time,2019-12-14,23:18,-
+1637,2019-12-14,Lisbon,(LIS),British Airways ,BA2049,Arrival,23:55,1, Landed - On-time,2019-12-14,23:18,-
+1638,2019-12-14,Lisbon,(LIS),Iberia ,IB5780,Arrival,23:55,1, Landed - On-time,2019-12-14,23:18,-
+1639,2019-12-14,Lisbon,(LIS),LATAM Airlines ,LA5752,Arrival,23:55,1, Landed - On-time,2019-12-14,23:18,-
+1640,2019-12-14,Lisbon,(LIS),Qatar Airways ,QR3585,Arrival,23:55,1, Landed - On-time,2019-12-14,23:18,-
+1641,2019-12-14,Porto,(OPO),Ryanair ,FR4596,Arrival,23:55,2, Landed - On-time,2019-12-14,23:48,-
+1642,2019-12-14,Athens,(ATH),Ryanair ,FR6328,Arrival,23:59,2, Landed - On-time,2019-12-15,00:06,-
+1643,2019-12-14,Kiev/Kyiv,(KBP),Ryanair ,FR3069,Arrival,23:59,2, Landed - Delayed,2019-12-15,00:21,-
+1644,2019-12-14,La Coruna,(LCG),Vueling ,VY1291,Arrival,23:59,1, Landed - On-time,2019-12-14,23:44,-
+1645,2019-12-14,La Coruna,(LCG),Iberia ,IB5019,Arrival,23:59,1, Landed - On-time,2019-12-14,23:44,-
+1646,2019-12-14,La Coruna,(LCG),LATAM Airlines ,LA5742,Arrival,23:59,1, Landed - On-time,2019-12-14,23:44,-
+1647,2019-12-14,La Coruna,(LCG),Qatar Airways ,QR3513,Arrival,23:59,1, Landed - On-time,2019-12-14,23:44,-
+1648,2019-12-14,Las Palmas,(LPA),Ryanair ,FR6371,Arrival,23:59,2, Landed - On-time,2019-12-15,00:04,-
