@@ -1,0 +1,1982 @@
+,City,Operation,Time block,Delay
+0,Bologna,Departure,6,-9.0
+1,Florence,Departure,6,-2.0
+2,Las Palmas,Departure,6,-8.0
+3,Tangier,Departure,6,1.0
+4,San Sebastian,Departure,6,3.0
+5,Alicante,Departure,6,-7.0
+6,Brussels,Departure,6,-1.0
+7,Asturias,Departure,6,17.0
+8,Sevilla,Departure,6,-7.0
+9,Malaga,Departure,7,-5.0
+10,Bilbao,Departure,7,3.0
+11,Madrid,Departure,7,-6.0
+12,Munich,Departure,7,0.0
+13,Paris,Departure,7,3.0
+14,Palma Mallorca,Departure,7,-5.0
+15,Venice,Departure,7,1.0
+16,Amsterdam,Departure,7,0.0
+17,Ibiza,Departure,7,0.0
+18,Lisbon,Departure,7,0.0
+19,Zurich,Departure,7,3.0
+20,Athens,Departure,7,4.0
+21,Geneva,Departure,7,-3.0
+22,London,Departure,7,-3.0
+23,Menorca,Departure,7,4.0
+24,Copenhagen,Departure,7,7.0
+25,Rome,Departure,7,4.0
+26,Nice,Departure,7,-11.0
+27,Santander,Departure,7,7.0
+28,Vigo,Departure,7,48.0
+29,Granada,Departure,7,-1.0
+30,Madrid,Departure,7,-2.0
+31,London,Departure,7,0.0
+32,Naples,Departure,7,7.0
+33,Porto,Departure,7,34.0
+34,Vienna,Departure,7,-7.0
+35,Milan,Departure,7,-4.0
+36,Prague,Departure,7,4.0
+37,Paris,Departure,7,-4.0
+38,Palma Mallorca,Departure,8,0.0
+39,Tenerife,Departure,8,-2.0
+40,Paris,Departure,8,-1.0
+41,Madrid,Departure,8,-1.0
+42,Palma Mallorca,Departure,8,-7.0
+43,Alicante,Departure,8,96.0
+44,Bilbao,Departure,8,-7.0
+45,Malaga,Departure,9,-8.0
+46,Menorca,Departure,9,-4.0
+47,Sevilla,Departure,9,-3.0
+48,Ibiza,Departure,9,-1.0
+49,Santiago De Compostela,Departure,9,-9.0
+50,Paris,Departure,9,-5.0
+51,Palma Mallorca,Departure,9,-4.0
+52,La Coruna,Departure,9,-6.0
+53,Rome,Departure,9,-1.0
+54,London,Departure,9,-7.0
+55,Madrid,Departure,9,57.0
+56,Bilbao,Departure,9,-12.0
+57,Milan,Departure,10,4.0
+58,Amsterdam,Departure,10,3.0
+59,Lanzarote,Departure,10,0.0
+60,Sevilla,Departure,10,2.0
+61,Hanover,Departure,10,0.0
+62,Almeria,Departure,10,-2.0
+63,Granada,Departure,10,4.0
+64,Puerto del Rosario,Departure,10,-1.0
+65,Lyon,Departure,10,0.0
+66,Paris,Departure,11,5.0
+67,Menorca,Departure,11,3.0
+68,Valladolid,Departure,11,88.0
+69,Cagliari,Departure,11,64.0
+70,Hamburg,Departure,11,6.0
+71,Oran,Departure,11,4.0
+72,Bilbao,Departure,11,2.0
+73,Malta,Departure,11,3.0
+74,Sevilla,Departure,11,0.0
+75,Birmingham,Departure,11,-2.0
+76,Berlin,Departure,11,14.0
+77,Stockholm,Departure,11,14.0
+78,Palma Mallorca,Departure,11,5.0
+79,Malaga,Departure,12,15.0
+80,Tenerife,Departure,12,-5.0
+81,Las Palmas,Departure,12,3.0
+82,Milan,Departure,12,-1.0
+83,Nuremberg,Departure,12,0.0
+84,Lisbon,Departure,12,27.0
+85,Asturias,Departure,12,3.0
+86,Catania,Departure,12,5.0
+87,Palermo,Departure,12,2.0
+88,Dublin,Departure,12,-1.0
+89,London,Departure,12,6.0
+90,Dusseldorf,Departure,12,10.0
+91,Ibiza,Departure,12,3.0
+92,Jerez De La Frontera,Departure,12,-1.0
+93,Bilbao,Departure,13,-1.0
+94,Ibiza,Departure,14,-9.0
+95,Madrid,Departure,14,11.0
+96,Venice,Departure,14,-3.0
+97,Paris,Departure,14,7.0
+98,Alicante,Departure,14,-5.0
+99,Porto,Departure,14,0.0
+100,Palma Mallorca,Departure,14,-1.0
+101,Turin,Departure,14,0.0
+102,Bologna,Departure,14,-7.0
+103,Milan,Departure,14,8.0
+104,Rome,Departure,15,2.0
+105,Stuttgart,Departure,15,1.0
+106,Bari,Departure,15,0.0
+107,Malaga,Departure,15,0.0
+108,Amsterdam,Departure,15,-2.0
+109,La Coruna,Departure,15,-1.0
+110,Bilbao,Departure,15,3.0
+111,Marseille,Departure,15,-1.0
+112,Vienna,Departure,15,12.0
+113,Santander,Departure,16,-1.0
+114,Paris,Departure,16,22.0
+115,Geneva,Departure,16,4.0
+116,Palma Mallorca,Departure,16,3.0
+117,Madrid,Departure,16,1.0
+118,Santiago De Compostela,Departure,16,-8.0
+119,Sevilla,Departure,16,6.0
+120,Valencia,Departure,16,2.0
+121,San Sebastian,Departure,16,-2.0
+122,Alicante,Departure,16,-6.0
+123,Ibiza,Departure,16,7.0
+124,Menorca,Departure,17,-3.0
+125,Granada,Departure,17,2.0
+126,Madrid,Departure,17,46.0
+127,Palma Mallorca,Departure,17,0.0
+128,London,Departure,17,-9.0
+129,Las Palmas,Departure,17,-7.0
+130,Bordeaux,Departure,17,-4.0
+131,Manchester,Departure,17,12.0
+132,Paris,Departure,17,-2.0
+133,Bilbao,Departure,17,9.0
+134,Munich,Departure,17,33.0
+135,Tenerife,Departure,17,12.0
+136,Florence,Departure,17,25.0
+137,Zurich,Departure,18,-5.0
+138,Sevilla,Departure,18,10.0
+139,Alicante,Departure,18,-4.0
+140,Palma Mallorca,Departure,18,-3.0
+141,Prague,Departure,18,-1.0
+142,Rome,Departure,18,11.0
+143,Marrakech,Departure,18,3.0
+144,Amsterdam,Departure,18,2.0
+145,Brussels,Departure,18,0.0
+146,Milan,Departure,18,12.0
+147,London,Departure,18,-3.0
+148,Vienna,Departure,18,24.0
+149,Paris,Departure,18,24.0
+150,Madrid,Departure,19,14.0
+151,Lisbon,Departure,19,18.0
+152,Venice,Departure,19,30.0
+153,Vigo,Departure,19,-1.0
+154,Paris,Departure,19,-2.0
+155,Naples,Departure,19,20.0
+156,Malaga,Departure,19,0.0
+157,Alicante,Departure,19,-5.0
+158,Bilbao,Departure,19,-1.0
+159,Menorca,Departure,19,3.0
+160,La Coruna,Departure,20,-1.0
+161,Tenerife,Departure,20,-16.0
+162,Milan,Departure,20,-1.0
+163,Lisbon,Departure,20,-14.0
+164,Paris,Departure,20,1.0
+165,Palma Mallorca,Departure,20,2.0
+166,Granada,Departure,20,-8.0
+167,Ibiza,Departure,20,8.0
+168,London,Departure,20,-3.0
+169,Nantes,Departure,20,29.0
+170,Las Palmas,Departure,20,1.0
+171,Santiago De Compostela,Departure,21,2.0
+172,Algiers,Departure,21,-8.0
+173,Sevilla,Departure,21,0.0
+174,Malaga,Departure,21,43.0
+175,Bilbao,Departure,21,-4.0
+176,Madrid,Departure,21,28.0
+177,Asturias,Departure,22,-10.0
+178,Palma Mallorca,Departure,22,-10.0
+179,Tel Aviv-Yafo,Departure,23,7.0
+180,Edinburgh,Arrival,0,9.0
+181,Granada,Arrival,0,-4.0
+182,Milan,Arrival,0,5.0
+183,Sevilla,Arrival,0,-8.0
+184,Lanzarote,Arrival,0,-4.0
+185,Athens,Arrival,0,-7.0
+186,Vienna,Arrival,0,0.0
+187,Nantes,Arrival,0,-6.0
+188,Las Palmas,Arrival,0,-9.0
+189,London,Arrival,0,-9.0
+190,Marrakech,Arrival,0,1384.0
+191,Lisbon,Arrival,0,-27.0
+192,Porto,Arrival,0,81.0
+193,Berlin,Arrival,0,12.0
+194,Tenerife,Arrival,1,-18.0
+195,Algiers,Arrival,1,-28.0
+196,Madrid,Arrival,7,-11.0
+197,Palma Mallorca,Arrival,7,-11.0
+198,Alicante,Arrival,8,104.0
+199,Bilbao,Arrival,8,-23.0
+200,Asturias,Arrival,8,-10.0
+201,Malaga,Arrival,8,-10.0
+202,Sevilla,Arrival,8,-4.0
+203,Palma Mallorca,Arrival,8,-9.0
+204,Santiago De Compostela,Arrival,8,-21.0
+205,La Coruna,Arrival,8,-15.0
+206,Paris,Arrival,8,-21.0
+207,Rome,Arrival,8,-12.0
+208,Madrid,Arrival,9,10.0
+209,Bilbao,Arrival,9,-6.0
+210,Amsterdam,Arrival,9,2.0
+211,Palma Mallorca,Arrival,9,-8.0
+212,Sevilla,Arrival,9,-11.0
+213,Algiers,Arrival,9,-2.0
+214,San Sebastian,Arrival,9,0.0
+215,Ibiza,Arrival,9,-3.0
+216,Menorca,Arrival,9,-13.0
+217,Alicante,Arrival,9,-11.0
+218,Tel Aviv-Yafo,Arrival,10,40.0
+219,Bologna,Arrival,10,37.0
+220,Madrid,Arrival,10,-2.0
+221,Palma Mallorca,Arrival,10,-7.0
+222,Asturias,Arrival,10,0.0
+223,Florence,Arrival,10,1.0
+224,Santander,Arrival,10,1.0
+225,Nice,Arrival,10,6.0
+226,Sevilla,Arrival,10,1.0
+227,Madrid,Arrival,11,2.0
+228,Malaga,Arrival,11,12.0
+229,Granada,Arrival,11,3.0
+230,Geneva,Arrival,11,8.0
+231,Tangier,Arrival,11,5.0
+232,Paris,Arrival,11,8.0
+233,Las Palmas,Arrival,11,2.0
+234,Tenerife,Arrival,11,2.0
+235,Vigo,Arrival,11,56.0
+236,Zurich,Arrival,11,21.0
+237,Menorca,Arrival,11,13.0
+238,Venice,Arrival,11,-9.0
+239,Rome,Arrival,11,6.0
+240,Milan,Arrival,11,5.0
+241,Brussels,Arrival,11,-4.0
+242,Ibiza,Arrival,11,-5.0
+243,Lisbon,Arrival,11,-4.0
+244,Porto,Arrival,11,33.0
+245,Munich,Arrival,12,-6.0
+246,Naples,Arrival,12,-8.0
+247,Paris,Arrival,12,-9.0
+248,London,Arrival,12,-14.0
+249,Paris,Arrival,12,-8.0
+250,Amsterdam,Arrival,12,-11.0
+251,London,Arrival,12,-1.0
+252,Madrid,Arrival,13,46.0
+253,Vienna,Arrival,13,3.0
+254,Alicante,Arrival,13,-2.0
+255,Menorca,Arrival,13,-10.0
+256,Prague,Arrival,13,2.0
+257,Las Palmas,Arrival,13,-5.0
+258,Almeria,Arrival,13,-4.0
+259,Copenhagen,Arrival,13,-3.0
+260,Granada,Arrival,13,-11.0
+261,Milan,Arrival,14,-15.0
+262,Athens,Arrival,14,5.0
+263,Lyon,Arrival,14,-4.0
+264,Palma Mallorca,Arrival,14,-1.0
+265,Valladolid,Arrival,14,63.0
+266,Bilbao,Arrival,14,4.0
+267,London,Arrival,14,-13.0
+268,Cagliari,Arrival,15,38.0
+269,Vienna,Arrival,15,7.0
+270,Ibiza,Arrival,15,20.0
+271,Paris,Arrival,15,-7.0
+272,Oran,Arrival,15,-7.0
+273,Sevilla,Arrival,15,1.0
+274,Tenerife,Arrival,15,-13.0
+275,Santiago De Compostela,Arrival,15,-9.0
+276,Hanover,Arrival,15,-11.0
+277,Malaga,Arrival,16,15.0
+278,Milan,Arrival,16,-11.0
+279,Bilbao,Arrival,16,-20.0
+280,Madrid,Arrival,16,45.0
+281,Malta,Arrival,16,22.0
+282,Ibiza,Arrival,16,-14.0
+283,Palma Mallorca,Arrival,16,216.0
+284,Birmingham,Arrival,16,-20.0
+285,Bilbao,Arrival,16,-12.0
+286,Lisbon,Arrival,16,23.0
+287,Nuremberg,Arrival,16,5.0
+288,Jerez De La Frontera,Arrival,16,3.0
+289,Lanzarote,Arrival,17,-1.0
+290,Palermo,Arrival,17,6.0
+291,Hamburg,Arrival,17,13.0
+292,Sevilla,Arrival,17,-10.0
+293,Puerto del Rosario,Arrival,17,13.0
+294,Berlin,Arrival,17,1.0
+295,Catania,Arrival,17,-9.0
+296,Dusseldorf,Arrival,17,-5.0
+297,London,Arrival,17,126.0
+298,Turin,Arrival,18,4.0
+299,Madrid,Arrival,18,8.0
+300,Paris,Arrival,18,8.0
+301,Dublin,Arrival,18,-10.0
+302,Porto,Arrival,18,-4.0
+303,Palma Mallorca,Arrival,18,26.0
+304,Venice,Arrival,18,-19.0
+305,Bologna,Arrival,18,-3.0
+306,Milan,Arrival,18,-1.0
+307,Alicante,Arrival,18,-1.0
+308,Bilbao,Arrival,18,-6.0
+309,Valencia,Arrival,19,7.0
+310,Santander,Arrival,19,-8.0
+311,Malaga,Arrival,19,-10.0
+312,Tenerife,Arrival,19,-11.0
+313,Rome,Arrival,19,63.0
+314,Menorca,Arrival,19,-3.0
+315,Ibiza,Arrival,19,-6.0
+316,Palma Mallorca,Arrival,19,3.0
+317,San Sebastian,Arrival,19,-9.0
+318,Madrid,Arrival,19,-6.0
+319,Paris,Arrival,19,-1.0
+320,Alicante,Arrival,19,-9.0
+321,Stuttgart,Arrival,19,-7.0
+322,Stockholm,Arrival,19,18.0
+323,La Coruna,Arrival,19,-10.0
+324,Geneva,Arrival,20,23.0
+325,Bari,Arrival,20,29.0
+326,Las Palmas,Arrival,20,-3.0
+327,Sevilla,Arrival,20,23.0
+328,Bordeaux,Arrival,20,-22.0
+329,Paris,Arrival,20,25.0
+330,Santiago De Compostela,Arrival,20,-2.0
+331,Granada,Arrival,20,1.0
+332,Palma Mallorca,Arrival,20,-14.0
+333,Madrid,Arrival,20,38.0
+334,Sevilla,Arrival,20,-11.0
+335,Malaga,Arrival,21,29.0
+336,Bilbao,Arrival,21,-18.0
+337,Alicante,Arrival,21,-16.0
+338,Asturias,Arrival,21,-14.0
+339,Amsterdam,Arrival,21,30.0
+340,Paris,Arrival,21,-10.0
+341,Florence,Arrival,21,16.0
+342,Palma Mallorca,Arrival,22,-17.0
+343,Menorca,Arrival,22,-17.0
+344,Zurich,Arrival,22,-16.0
+345,London,Arrival,22,-22.0
+346,Munich,Arrival,22,10.0
+347,Palma Mallorca,Arrival,22,-18.0
+348,Bilbao,Arrival,22,-20.0
+349,Rome,Arrival,22,12.0
+350,Milan,Arrival,22,-1.0
+351,Manchester,Arrival,22,7.0
+352,Malaga,Arrival,23,-11.0
+353,Vigo,Arrival,23,3.0
+354,Paris,Arrival,23,26.0
+355,Marseille,Arrival,23,5.0
+356,Paris,Arrival,23,-5.0
+357,Brussels,Arrival,23,9.0
+358,Venice,Arrival,23,24.0
+359,Marrakech,Arrival,23,-1.0
+360,Lisbon,Arrival,23,18.0
+361,Prague,Arrival,23,-7.0
+362,Amsterdam,Arrival,23,35.0
+363,La Coruna,Arrival,23,-8.0
+364,London,Arrival,23,11.0
+365,Naples,Arrival,23,26.0
+366,Florence,Departure,6,-2.0
+367,Tangier,Departure,6,-1.0
+368,Las Palmas,Departure,6,3.0
+369,Alicante,Departure,6,-12.0
+370,Brussels,Departure,6,-6.0
+371,Asturias,Departure,6,-3.0
+372,Sevilla,Departure,6,4.0
+373,Malaga,Departure,7,0.0
+374,Bilbao,Departure,7,-4.0
+375,Madrid,Departure,7,1.0
+376,Paris,Departure,7,33.0
+377,Palma Mallorca,Departure,7,-4.0
+378,Venice,Departure,7,0.0
+379,Amsterdam,Departure,7,70.0
+380,Ibiza,Departure,7,4.0
+381,Lisbon,Departure,7,5.0
+382,Athens,Departure,7,-6.0
+383,Rome,Departure,7,1.0
+384,London,Departure,7,57.0
+385,Menorca,Departure,7,-10.0
+386,Milan,Departure,7,-13.0
+387,Granada,Departure,7,-1.0
+388,Madrid,Departure,7,4.0
+389,Prague,Departure,7,22.0
+390,Vienna,Departure,7,-8.0
+391,Paris,Departure,7,2.0
+392,Tenerife,Departure,8,-5.0
+393,Paris,Departure,8,-11.0
+394,Madrid,Departure,8,39.0
+395,Palma Mallorca,Departure,8,-2.0
+396,Alicante,Departure,8,-3.0
+397,Bilbao,Departure,8,-4.0
+398,Malaga,Departure,9,2.0
+399,Menorca,Departure,9,-5.0
+400,Sevilla,Departure,9,1.0
+401,Ibiza,Departure,9,-1.0
+402,Santiago De Compostela,Departure,9,-4.0
+403,Paris,Departure,9,-13.0
+404,Palma Mallorca,Departure,9,-4.0
+405,La Coruna,Departure,9,1.0
+406,Madrid,Departure,9,68.0
+407,Milan,Departure,10,-8.0
+408,Amsterdam,Departure,10,11.0
+409,Lanzarote,Departure,10,0.0
+410,Sevilla,Departure,10,3.0
+411,Granada,Departure,10,15.0
+412,Olbia,Departure,10,-3.0
+413,Bilbao,Departure,11,-2.0
+414,Sevilla,Departure,11,11.0
+415,Berlin,Departure,11,3.0
+416,Rome,Departure,11,17.0
+417,Palma Mallorca,Departure,11,0.0
+418,Malaga,Departure,12,10.0
+419,Las Palmas,Departure,12,16.0
+420,Milan,Departure,12,0.0
+421,Lisbon,Departure,12,-4.0
+422,Asturias,Departure,12,-2.0
+423,London,Departure,12,-5.0
+424,Dusseldorf,Departure,12,14.0
+425,Ibiza,Departure,12,-1.0
+426,London,Departure,13,-11.0
+427,Madrid,Departure,14,77.0
+428,Paris,Departure,14,30.0
+429,Alicante,Departure,14,1.0
+430,Porto,Departure,14,4.0
+431,Palma Mallorca,Departure,14,-10.0
+432,Bologna,Departure,14,-5.0
+433,Malaga,Departure,15,-3.0
+434,Amsterdam,Departure,15,-5.0
+435,La Coruna,Departure,15,2.0
+436,Bilbao,Departure,15,-8.0
+437,Marseille,Departure,15,-4.0
+438,Vienna,Departure,15,7.0
+439,Santander,Departure,16,0.0
+440,Palma Mallorca,Departure,16,-12.0
+441,Madrid,Departure,16,0.0
+442,Banjul,Departure,16,-5.0
+443,Santiago De Compostela,Departure,16,-5.0
+444,Sevilla,Departure,16,5.0
+445,San Sebastian,Departure,16,-2.0
+446,Ibiza,Departure,16,-1.0
+447,Menorca,Departure,17,-5.0
+448,Granada,Departure,17,-6.0
+449,Madrid,Departure,17,0.0
+450,Palma Mallorca,Departure,17,-3.0
+451,London,Departure,17,11.0
+452,Bordeaux,Departure,17,-11.0
+453,Manchester,Departure,17,1.0
+454,Paris,Departure,17,11.0
+455,Bilbao,Departure,17,-3.0
+456,Munich,Departure,17,-8.0
+457,Tenerife,Departure,17,5.0
+458,Florence,Departure,17,-5.0
+459,Sevilla,Departure,18,-4.0
+460,Alicante,Departure,18,-3.0
+461,Palma Mallorca,Departure,18,-4.0
+462,Rome,Departure,18,3.0
+463,Amsterdam,Departure,18,-3.0
+464,Brussels,Departure,18,14.0
+465,Milan,Departure,18,-1.0
+466,London,Departure,18,-1.0
+467,Madrid,Departure,19,23.0
+468,Lisbon,Departure,19,-7.0
+469,Venice,Departure,19,-1.0
+470,Vigo,Departure,19,4.0
+471,Alicante,Departure,19,-3.0
+472,London,Departure,19,1.0
+473,Menorca,Departure,19,-7.0
+474,La Coruna,Departure,20,-3.0
+475,Paris,Departure,20,1.0
+476,Palma Mallorca,Departure,20,-7.0
+477,Granada,Departure,20,3.0
+478,Ibiza,Departure,20,-7.0
+479,Las Palmas,Departure,20,12.0
+480,Santiago De Compostela,Departure,21,-11.0
+481,Algiers,Departure,21,-7.0
+482,Malaga,Departure,21,4.0
+483,Bilbao,Departure,21,-11.0
+484,Madrid,Departure,21,2.0
+485,Asturias,Departure,22,-9.0
+486,Tel Aviv-Yafo,Departure,23,13.0
+487,Granada,Arrival,0,-6.0
+488,Milan,Arrival,0,2.0
+489,Vienna,Arrival,0,13.0
+490,Nantes,Arrival,0,18.0
+491,Las Palmas,Arrival,0,-8.0
+492,Lisbon,Arrival,0,-8.0
+493,Tenerife,Arrival,1,7.0
+494,Algiers,Arrival,1,-20.0
+495,London,Arrival,1,-18.0
+496,Madrid,Arrival,7,0.0
+497,Palma Mallorca,Arrival,7,-13.0
+498,Alicante,Arrival,8,-14.0
+499,Bilbao,Arrival,8,-11.0
+500,Asturias,Arrival,8,-6.0
+501,Malaga,Arrival,8,3.0
+502,Sevilla,Arrival,8,1.0
+503,Palma Mallorca,Arrival,8,-12.0
+504,Santiago De Compostela,Arrival,8,-4.0
+505,La Coruna,Arrival,8,-9.0
+506,Paris,Arrival,8,-24.0
+507,Madrid,Arrival,9,59.0
+508,Amsterdam,Arrival,9,-12.0
+509,Palma Mallorca,Arrival,9,-22.0
+510,Sevilla,Arrival,9,-1.0
+511,Algiers,Arrival,9,2.0
+512,Ibiza,Arrival,9,8.0
+513,Menorca,Arrival,9,-10.0
+514,Alicante,Arrival,9,-10.0
+515,Bilbao,Arrival,10,-12.0
+516,Tel Aviv-Yafo,Arrival,10,-9.0
+517,Madrid,Arrival,10,105.0
+518,Asturias,Arrival,10,4.0
+519,Florence,Arrival,10,-7.0
+520,Sevilla,Arrival,10,20.0
+521,Madrid,Arrival,11,75.0
+522,Malaga,Arrival,11,8.0
+523,Granada,Arrival,11,-7.0
+524,Tangier,Arrival,11,-11.0
+525,Paris,Arrival,11,93.0
+526,Las Palmas,Arrival,11,-4.0
+527,Milan,Arrival,11,24.0
+528,Menorca,Arrival,11,-17.0
+529,Rome,Arrival,11,19.0
+530,Venice,Arrival,11,-2.0
+531,Brussels,Arrival,11,70.0
+532,Ibiza,Arrival,11,-11.0
+533,Lisbon,Arrival,11,20.0
+534,Paris,Arrival,12,4.0
+535,Amsterdam,Arrival,12,74.0
+536,London,Arrival,12,44.0
+537,Paris,Arrival,12,26.0
+538,Madrid,Arrival,13,17.0
+539,Vienna,Arrival,13,-9.0
+540,Prague,Arrival,13,13.0
+541,Alicante,Arrival,13,1.0
+542,Granada,Arrival,13,0.0
+543,Las Palmas,Arrival,14,8.0
+544,Milan,Arrival,14,18.0
+545,Athens,Arrival,14,6.0
+546,Palma Mallorca,Arrival,14,5.0
+547,Olbia,Arrival,14,-10.0
+548,Bilbao,Arrival,14,-9.0
+549,Vienna,Arrival,15,-20.0
+550,Ibiza,Arrival,15,-2.0
+551,Sevilla,Arrival,15,45.0
+552,Tenerife,Arrival,15,-3.0
+553,Santiago De Compostela,Arrival,15,-7.0
+554,Malaga,Arrival,16,34.0
+555,Milan,Arrival,16,8.0
+556,Madrid,Arrival,16,1.0
+557,Rome,Arrival,16,17.0
+558,Palma Mallorca,Arrival,16,-17.0
+559,Bilbao,Arrival,16,-10.0
+560,Lisbon,Arrival,16,-6.0
+561,Lanzarote,Arrival,17,-2.0
+562,Sevilla,Arrival,17,-4.0
+563,Berlin,Arrival,17,8.0
+564,Dusseldorf,Arrival,17,22.0
+565,London,Arrival,17,-3.0
+566,Madrid,Arrival,18,11.0
+567,Paris,Arrival,18,51.0
+568,Porto,Arrival,18,-7.0
+569,Palma Mallorca,Arrival,18,-20.0
+570,Bologna,Arrival,18,45.0
+571,Alicante,Arrival,18,-4.0
+572,Bilbao,Arrival,18,-22.0
+573,London,Arrival,19,-24.0
+574,Santander,Arrival,19,-8.0
+575,Malaga,Arrival,19,-6.0
+576,Menorca,Arrival,19,-12.0
+577,Ibiza,Arrival,19,-13.0
+578,Palma Mallorca,Arrival,19,-26.0
+579,San Sebastian,Arrival,19,3.0
+580,Madrid,Arrival,19,-5.0
+581,Paris,Arrival,19,-9.0
+582,La Coruna,Arrival,19,-15.0
+583,Las Palmas,Arrival,20,1.0
+584,Sevilla,Arrival,20,-1.0
+585,Bordeaux,Arrival,20,-25.0
+586,Santiago De Compostela,Arrival,20,-19.0
+587,Granada,Arrival,20,-15.0
+588,Palma Mallorca,Arrival,20,-24.0
+589,Madrid,Arrival,20,-2.0
+590,Malaga,Arrival,21,5.0
+591,Bilbao,Arrival,21,-20.0
+592,Alicante,Arrival,21,-10.0
+593,Amsterdam,Arrival,21,-14.0
+594,Asturias,Arrival,21,-10.0
+595,Paris,Arrival,21,-1.0
+596,Florence,Arrival,21,-2.0
+597,Menorca,Arrival,22,-19.0
+598,London,Arrival,22,21.0
+599,Munich,Arrival,22,-3.0
+600,Palma Mallorca,Arrival,22,-32.0
+601,Rome,Arrival,22,3.0
+602,Milan,Arrival,22,-3.0
+603,Manchester,Arrival,22,27.0
+604,Ibiza,Arrival,23,-20.0
+605,Vigo,Arrival,23,-6.0
+606,Marseille,Arrival,23,18.0
+607,Brussels,Arrival,23,8.0
+608,Venice,Arrival,23,50.0
+609,Lisbon,Arrival,23,-26.0
+610,Amsterdam,Arrival,23,-6.0
+611,La Coruna,Arrival,23,-14.0
+612,London,Arrival,23,-14.0
+613,Florence,Departure,6,-3.0
+614,Alicante,Departure,6,-5.0
+615,Brussels,Departure,6,-4.0
+616,Sevilla,Departure,6,-10.0
+617,Malaga,Departure,7,-8.0
+618,Bilbao,Departure,7,-7.0
+619,Madrid,Departure,7,-4.0
+620,Paris,Departure,7,-1.0
+621,Palma Mallorca,Departure,7,-12.0
+622,Amsterdam,Departure,7,-4.0
+623,Ibiza,Departure,7,0.0
+624,Lisbon,Departure,7,-8.0
+625,Athens,Departure,7,1.0
+626,London,Departure,7,-3.0
+627,Menorca,Departure,7,-8.0
+628,Milan,Departure,7,-1.0
+629,Granada,Departure,7,-7.0
+630,Prague,Departure,7,-6.0
+631,Vienna,Departure,7,-1.0
+632,Tenerife,Departure,8,2.0
+633,Madrid,Departure,8,27.0
+634,Palma Mallorca,Departure,8,-6.0
+635,Alicante,Departure,8,0.0
+636,Bilbao,Departure,8,5.0
+637,Malaga,Departure,9,-6.0
+638,Menorca,Departure,9,-5.0
+639,Sevilla,Departure,9,7.0
+640,Ibiza,Departure,9,0.0
+641,Santiago De Compostela,Departure,9,-5.0
+642,Paris,Departure,9,41.0
+643,Palma Mallorca,Departure,9,0.0
+644,La Coruna,Departure,9,0.0
+645,Madrid,Departure,9,90.0
+646,Milan,Departure,10,3.0
+647,Amsterdam,Departure,10,6.0
+648,Lanzarote,Departure,10,5.0
+649,Sevilla,Departure,10,5.0
+650,Hanover,Departure,10,-8.0
+651,Granada,Departure,10,5.0
+652,Oran,Departure,11,-10.0
+653,Bilbao,Departure,11,0.0
+654,Sevilla,Departure,11,-1.0
+655,Birmingham,Departure,11,12.0
+656,Rome,Departure,11,2.0
+657,Palma Mallorca,Departure,11,-3.0
+658,Malaga,Departure,12,12.0
+659,Las Palmas,Departure,12,-2.0
+660,Milan,Departure,12,-6.0
+661,Lisbon,Departure,12,-8.0
+662,Asturias,Departure,12,-4.0
+663,Catania,Departure,12,22.0
+664,Budapest,Departure,12,-2.0
+665,London,Departure,12,-2.0
+666,Ibiza,Departure,12,-5.0
+667,Copenhagen,Departure,13,15.0
+668,Madrid,Departure,14,17.0
+669,Paris,Departure,14,0.0
+670,Alicante,Departure,14,-3.0
+671,Porto,Departure,14,9.0
+672,Palma Mallorca,Departure,14,-2.0
+673,Turin,Departure,14,4.0
+674,Bologna,Departure,14,0.0
+675,Milan,Departure,14,5.0
+676,Malaga,Departure,15,-4.0
+677,Amsterdam,Departure,15,34.0
+678,La Coruna,Departure,15,-5.0
+679,Bilbao,Departure,15,-7.0
+680,Marseille,Departure,15,-6.0
+681,Vienna,Departure,15,-1.0
+682,Geneva,Departure,16,55.0
+683,Palma Mallorca,Departure,16,-5.0
+684,Madrid,Departure,16,25.0
+685,Santiago De Compostela,Departure,16,-10.0
+686,Sevilla,Departure,16,1.0
+687,San Sebastian,Departure,16,-8.0
+688,Ibiza,Departure,16,5.0
+689,Menorca,Departure,17,0.0
+690,Granada,Departure,17,5.0
+691,Madrid,Departure,17,4.0
+692,London,Departure,17,-5.0
+693,Las Palmas,Departure,17,3.0
+694,Manchester,Departure,17,3.0
+695,Paris,Departure,17,0.0
+696,Bilbao,Departure,17,-5.0
+697,Tenerife,Departure,17,0.0
+698,Florence,Departure,17,-1.0
+699,Sevilla,Departure,18,-1.0
+700,Alicante,Departure,18,-7.0
+701,Palma Mallorca,Departure,18,0.0
+702,Rome,Departure,18,1.0
+703,Amsterdam,Departure,18,111.0
+704,Brussels,Departure,18,-1.0
+705,London,Departure,18,-4.0
+706,Madrid,Departure,19,-3.0
+707,Lisbon,Departure,19,-2.0
+708,Venice,Departure,19,-9.0
+709,Vigo,Departure,19,3.0
+710,Paris,Departure,19,-3.0
+711,Alicante,Departure,19,-5.0
+712,London,Departure,19,31.0
+713,Menorca,Departure,19,-1.0
+714,La Coruna,Departure,20,-5.0
+715,Paris,Departure,20,-13.0
+716,Palma Mallorca,Departure,20,-4.0
+717,Granada,Departure,20,-12.0
+718,Ibiza,Departure,20,79.0
+719,Las Palmas,Departure,20,1.0
+720,Santiago De Compostela,Departure,21,-14.0
+721,Algiers,Departure,21,-6.0
+722,Malaga,Departure,21,18.0
+723,Bilbao,Departure,21,0.0
+724,Madrid,Departure,21,-1.0
+725,Asturias,Departure,22,-4.0
+726,Palma Mallorca,Departure,22,-12.0
+727,Tel Aviv-Yafo,Departure,23,-2.0
+728,Granada,Arrival,0,-16.0
+729,London,Arrival,0,-9.0
+730,Tenerife,Arrival,1,-15.0
+731,Algiers,Arrival,1,-31.0
+732,Banjul,Arrival,3,5.0
+733,Madrid,Arrival,7,22.0
+734,Palma Mallorca,Arrival,7,-15.0
+735,Alicante,Arrival,8,-5.0
+736,Bilbao,Arrival,8,-8.0
+737,Asturias,Arrival,8,-9.0
+738,Malaga,Arrival,8,-8.0
+739,Sevilla,Arrival,8,9.0
+740,Palma Mallorca,Arrival,8,-14.0
+741,Santiago De Compostela,Arrival,8,-15.0
+742,La Coruna,Arrival,8,-17.0
+743,Paris,Arrival,8,-1.0
+744,Madrid,Arrival,9,-1.0
+745,Amsterdam,Arrival,9,2.0
+746,Palma Mallorca,Arrival,9,-5.0
+747,Sevilla,Arrival,9,47.0
+748,Algiers,Arrival,9,-5.0
+749,Ibiza,Arrival,9,-6.0
+750,Menorca,Arrival,9,-16.0
+751,Alicante,Arrival,9,-7.0
+752,Bilbao,Arrival,10,-9.0
+753,Tel Aviv-Yafo,Arrival,10,-3.0
+754,Madrid,Arrival,10,-5.0
+755,Florence,Arrival,10,15.0
+756,Sevilla,Arrival,10,34.0
+757,Malaga,Arrival,11,-6.0
+758,Granada,Arrival,11,-23.0
+759,Paris,Arrival,11,-12.0
+760,Las Palmas,Arrival,11,-16.0
+761,Milan,Arrival,11,0.0
+762,Menorca,Arrival,11,-16.0
+763,Brussels,Arrival,11,7.0
+764,Ibiza,Arrival,11,-14.0
+765,Lisbon,Arrival,11,-20.0
+766,Amsterdam,Arrival,12,6.0
+767,London,Arrival,12,13.0
+768,Madrid,Arrival,13,94.0
+769,Vienna,Arrival,13,-21.0
+770,Prague,Arrival,13,-10.0
+771,Alicante,Arrival,13,-7.0
+772,Granada,Arrival,13,-9.0
+773,Milan,Arrival,14,-24.0
+774,Athens,Arrival,14,-11.0
+775,Palma Mallorca,Arrival,14,-8.0
+776,Bilbao,Arrival,14,-15.0
+777,Vienna,Arrival,15,-4.0
+778,Ibiza,Arrival,15,-11.0
+779,Oran,Arrival,15,-11.0
+780,Sevilla,Arrival,15,16.0
+781,Tenerife,Arrival,15,-1.0
+782,Santiago De Compostela,Arrival,15,-13.0
+783,Hanover,Arrival,15,8.0
+784,Malaga,Arrival,16,12.0
+785,Milan,Arrival,16,-18.0
+786,Madrid,Arrival,16,1.0
+787,Rome,Arrival,16,-1.0
+788,Palma Mallorca,Arrival,16,-7.0
+789,Birmingham,Arrival,16,18.0
+790,Bilbao,Arrival,16,-14.0
+791,Lisbon,Arrival,16,-19.0
+792,Lanzarote,Arrival,17,13.0
+793,Sevilla,Arrival,17,2.0
+794,Catania,Arrival,17,25.0
+795,London,Arrival,17,-21.0
+796,Turin,Arrival,18,86.0
+797,Madrid,Arrival,18,-8.0
+798,Budapest,Arrival,18,20.0
+799,Paris,Arrival,18,-7.0
+800,Porto,Arrival,18,-7.0
+801,Palma Mallorca,Arrival,18,-20.0
+802,Bologna,Arrival,18,-12.0
+803,Milan,Arrival,18,1.0
+804,Alicante,Arrival,18,4.0
+805,Bilbao,Arrival,18,-11.0
+806,Malaga,Arrival,19,10.0
+807,Menorca,Arrival,19,-5.0
+808,Ibiza,Arrival,19,-14.0
+809,San Sebastian,Arrival,19,-14.0
+810,Madrid,Arrival,19,0.0
+811,Paris,Arrival,19,17.0
+812,La Coruna,Arrival,19,-13.0
+813,Geneva,Arrival,20,32.0
+814,Copenhagen,Arrival,20,17.0
+815,Las Palmas,Arrival,20,-13.0
+816,Sevilla,Arrival,20,4.0
+817,Santiago De Compostela,Arrival,20,-14.0
+818,Granada,Arrival,20,-6.0
+819,Palma Mallorca,Arrival,20,-21.0
+820,Madrid,Arrival,20,-1.0
+821,Malaga,Arrival,21,6.0
+822,Bilbao,Arrival,21,-11.0
+823,Alicante,Arrival,21,-11.0
+824,Asturias,Arrival,21,-19.0
+825,Amsterdam,Arrival,21,19.0
+826,Paris,Arrival,21,3.0
+827,Florence,Arrival,21,-19.0
+828,Palma Mallorca,Arrival,22,-13.0
+829,Menorca,Arrival,22,-26.0
+830,London,Arrival,22,-23.0
+831,Palma Mallorca,Arrival,22,-19.0
+832,Rome,Arrival,22,-7.0
+833,Manchester,Arrival,22,-1.0
+834,Ibiza,Arrival,23,59.0
+835,Vigo,Arrival,23,4.0
+836,Marseille,Arrival,23,-18.0
+837,Paris,Arrival,23,-1.0
+838,Brussels,Arrival,23,-2.0
+839,Venice,Arrival,23,14.0
+840,Lisbon,Arrival,23,-21.0
+841,Amsterdam,Arrival,23,79.0
+842,La Coruna,Arrival,23,-8.0
+843,London,Arrival,23,-19.0
+844,Algiers,Departure,6,-12.0
+845,Florence,Departure,6,-1.0
+846,Tangier,Departure,6,0.0
+847,Alicante,Departure,6,-3.0
+848,Brussels,Departure,6,51.0
+849,Asturias,Departure,6,-6.0
+850,Sevilla,Departure,6,10.0
+851,Malaga,Departure,7,1.0
+852,Bilbao,Departure,7,3.0
+853,Moscow,Departure,7,-7.0
+854,Madrid,Departure,7,3.0
+855,Paris,Departure,7,46.0
+856,Palma Mallorca,Departure,7,0.0
+857,Venice,Departure,7,-2.0
+858,Amsterdam,Departure,7,68.0
+859,Ibiza,Departure,7,-10.0
+860,Lisbon,Departure,7,17.0
+861,Athens,Departure,7,0.0
+862,London,Departure,7,67.0
+863,Menorca,Departure,7,-2.0
+864,Granada,Departure,7,9.0
+865,Porto,Departure,7,-4.0
+866,Vienna,Departure,7,6.0
+867,Paris,Departure,7,-8.0
+868,Tenerife,Departure,8,9.0
+869,Paris,Departure,8,-5.0
+870,Madrid,Departure,8,4.0
+871,Palma Mallorca,Departure,8,-8.0
+872,Alicante,Departure,8,5.0
+873,Bilbao,Departure,8,3.0
+874,Malaga,Departure,9,-2.0
+875,Menorca,Departure,9,-3.0
+876,Ibiza,Departure,9,-5.0
+877,Santiago De Compostela,Departure,9,-2.0
+878,Paris,Departure,9,9.0
+879,Palma Mallorca,Departure,9,-5.0
+880,La Coruna,Departure,9,32.0
+881,Rome,Departure,9,3.0
+882,Madrid,Departure,9,0.0
+883,Milan,Departure,10,27.0
+884,Amsterdam,Departure,10,11.0
+885,Sevilla,Departure,10,10.0
+886,Granada,Departure,10,-1.0
+887,Puerto del Rosario,Departure,10,-3.0
+888,Lyon,Departure,10,69.0
+889,Paris,Departure,11,5.0
+890,Hamburg,Departure,11,5.0
+891,Bilbao,Departure,11,-2.0
+892,Sevilla,Departure,11,14.0
+893,Berlin,Departure,11,47.0
+894,Rome,Departure,11,1.0
+895,Palma Mallorca,Departure,11,3.0
+896,Toulouse,Departure,12,-3.0
+897,Malaga,Departure,12,3.0
+898,Las Palmas,Departure,12,-7.0
+899,Milan,Departure,12,20.0
+900,Lisbon,Departure,12,0.0
+901,Asturias,Departure,12,-3.0
+902,London,Departure,12,6.0
+903,Dusseldorf,Departure,12,53.0
+904,Ibiza,Departure,12,-3.0
+905,Jerez De La Frontera,Departure,12,5.0
+906,Copenhagen,Departure,13,-5.0
+907,London,Departure,13,-2.0
+908,Madrid,Departure,14,1.0
+909,Paris,Departure,14,13.0
+910,Alicante,Departure,14,12.0
+911,Palma Mallorca,Departure,14,-1.0
+912,Turin,Departure,14,0.0
+913,Bologna,Departure,14,22.0
+914,Milan,Departure,14,-3.0
+915,Stuttgart,Departure,15,13.0
+916,Malaga,Departure,15,0.0
+917,Amsterdam,Departure,15,22.0
+918,La Coruna,Departure,15,28.0
+919,Bilbao,Departure,15,8.0
+920,Marseille,Departure,15,0.0
+921,Vienna,Departure,15,28.0
+922,Santander,Departure,16,0.0
+923,Geneva,Departure,16,-1.0
+924,Palma Mallorca,Departure,16,-1.0
+925,Madrid,Departure,16,-3.0
+926,Santiago De Compostela,Departure,16,-1.0
+927,Sevilla,Departure,16,3.0
+928,Valencia,Departure,16,-4.0
+929,San Sebastian,Departure,16,2.0
+930,Ibiza,Departure,16,0.0
+931,Menorca,Departure,17,-4.0
+932,Madrid,Departure,17,2.0
+933,Palma Mallorca,Departure,17,40.0
+934,London,Departure,17,-6.0
+935,Bordeaux,Departure,17,-13.0
+936,Manchester,Departure,17,4.0
+937,Paris,Departure,17,4.0
+938,Bilbao,Departure,17,-4.0
+939,Munich,Departure,17,38.0
+940,Florence,Departure,17,42.0
+941,Zurich,Departure,18,21.0
+942,Sevilla,Departure,18,7.0
+943,Alicante,Departure,18,-6.0
+944,Palma Mallorca,Departure,18,0.0
+945,Prague,Departure,18,43.0
+946,Rome,Departure,18,12.0
+947,Amsterdam,Departure,18,-1.0
+948,Brussels,Departure,18,15.0
+949,Milan,Departure,18,53.0
+950,London,Departure,18,34.0
+951,Paris,Departure,18,1.0
+952,Madrid,Departure,19,3.0
+953,Vigo,Departure,19,16.0
+954,Lisbon,Departure,19,-5.0
+955,Venice,Departure,19,29.0
+956,Paris,Departure,19,6.0
+957,Naples,Departure,19,3.0
+958,Malaga,Departure,19,-1.0
+959,Alicante,Departure,19,-6.0
+960,Bilbao,Departure,19,-5.0
+961,Menorca,Departure,19,-1.0
+962,La Coruna,Departure,20,28.0
+963,Oran,Departure,20,-4.0
+964,Paris,Departure,20,14.0
+965,Palma Mallorca,Departure,20,-4.0
+966,Granada,Departure,20,1.0
+967,Ibiza,Departure,20,-10.0
+968,Porto,Departure,20,1.0
+969,Alicante,Departure,20,-2.0
+970,Las Palmas,Departure,20,7.0
+971,Santiago De Compostela,Departure,21,-6.0
+972,Algiers,Departure,21,-6.0
+973,Sevilla,Departure,21,-10.0
+974,Bilbao,Departure,21,-6.0
+975,Madrid,Departure,21,0.0
+976,Asturias,Departure,22,-10.0
+977,Tel Aviv-Yafo,Departure,23,53.0
+978,Granada,Arrival,0,-26.0
+979,Las Palmas,Arrival,0,4.0
+980,London,Arrival,0,-1.0
+981,Tenerife,Arrival,1,40.0
+982,Algiers,Arrival,1,-14.0
+983,Madrid,Arrival,7,9.0
+984,Palma Mallorca,Arrival,7,-10.0
+985,Alicante,Arrival,8,-1.0
+986,Bilbao,Arrival,8,-13.0
+987,Asturias,Arrival,8,-9.0
+988,Malaga,Arrival,8,-13.0
+989,Palma Mallorca,Arrival,8,-10.0
+990,Santiago De Compostela,Arrival,8,-13.0
+991,La Coruna,Arrival,8,-5.0
+992,Paris,Arrival,8,1.0
+993,Rome,Arrival,8,0.0
+994,Madrid,Arrival,9,-3.0
+995,Amsterdam,Arrival,9,13.0
+996,Palma Mallorca,Arrival,9,-2.0
+997,Sevilla,Arrival,9,-3.0
+998,Algiers,Arrival,9,-6.0
+999,Ibiza,Arrival,9,1.0
+1000,Menorca,Arrival,9,-8.0
+1001,Alicante,Arrival,9,-2.0
+1002,Bilbao,Arrival,10,-2.0
+1003,Tel Aviv-Yafo,Arrival,10,0.0
+1004,Madrid,Arrival,10,-1.0
+1005,Asturias,Arrival,10,-12.0
+1006,Florence,Arrival,10,7.0
+1007,Sevilla,Arrival,10,32.0
+1008,Malaga,Arrival,11,-5.0
+1009,Granada,Arrival,11,-10.0
+1010,Tangier,Arrival,11,7.0
+1011,Paris,Arrival,11,68.0
+1012,Las Palmas,Arrival,11,-11.0
+1013,Menorca,Arrival,11,-18.0
+1014,Venice,Arrival,11,17.0
+1015,Brussels,Arrival,11,87.0
+1016,Ibiza,Arrival,11,-20.0
+1017,Lisbon,Arrival,11,2.0
+1018,Porto,Arrival,11,-8.0
+1019,Paris,Arrival,12,8.0
+1020,London,Arrival,12,58.0
+1021,Amsterdam,Arrival,12,60.0
+1022,Paris,Arrival,12,52.0
+1023,Madrid,Arrival,13,3.0
+1024,Vienna,Arrival,13,15.0
+1025,Alicante,Arrival,13,5.0
+1026,Granada,Arrival,13,3.0
+1027,Milan,Arrival,14,17.0
+1028,Athens,Arrival,14,-4.0
+1029,Lyon,Arrival,14,85.0
+1030,Palma Mallorca,Arrival,14,-1.0
+1031,Bilbao,Arrival,14,-10.0
+1032,Toulouse,Arrival,14,-4.0
+1033,Vienna,Arrival,15,0.0
+1034,Ibiza,Arrival,15,-11.0
+1035,Paris,Arrival,15,5.0
+1036,Sevilla,Arrival,15,32.0
+1037,Tenerife,Arrival,15,37.0
+1038,Santiago De Compostela,Arrival,15,-14.0
+1039,Malaga,Arrival,16,1.0
+1040,Milan,Arrival,16,-13.0
+1041,Madrid,Arrival,16,-6.0
+1042,Rome,Arrival,16,48.0
+1043,Palma Mallorca,Arrival,16,3.0
+1044,Bilbao,Arrival,16,-20.0
+1045,Lisbon,Arrival,16,2.0
+1046,Jerez De La Frontera,Arrival,16,15.0
+1047,Moscow,Arrival,17,-13.0
+1048,Hamburg,Arrival,17,40.0
+1049,Sevilla,Arrival,17,-3.0
+1050,Puerto del Rosario,Arrival,17,20.0
+1051,Berlin,Arrival,17,180.0
+1052,Dusseldorf,Arrival,17,42.0
+1053,London,Arrival,17,-6.0
+1054,Turin,Arrival,18,10.0
+1055,Madrid,Arrival,18,8.0
+1056,Paris,Arrival,18,83.0
+1057,Palma Mallorca,Arrival,18,-7.0
+1058,Bologna,Arrival,18,11.0
+1059,Milan,Arrival,18,33.0
+1060,Alicante,Arrival,18,2.0
+1061,Bilbao,Arrival,18,11.0
+1062,London,Arrival,19,-26.0
+1063,Valencia,Arrival,19,-19.0
+1064,Santander,Arrival,19,4.0
+1065,Malaga,Arrival,19,27.0
+1066,Menorca,Arrival,19,-9.0
+1067,Ibiza,Arrival,19,-8.0
+1068,Palma Mallorca,Arrival,19,21.0
+1069,San Sebastian,Arrival,19,-11.0
+1070,Madrid,Arrival,19,0.0
+1071,Paris,Arrival,19,104.0
+1072,Stuttgart,Arrival,19,15.0
+1073,La Coruna,Arrival,19,79.0
+1074,Alicante,Arrival,20,-11.0
+1075,Geneva,Arrival,20,75.0
+1076,Copenhagen,Arrival,20,49.0
+1077,Las Palmas,Arrival,20,7.0
+1078,Sevilla,Arrival,20,3.0
+1079,Bordeaux,Arrival,20,-4.0
+1080,Santiago De Compostela,Arrival,20,-6.0
+1081,Palma Mallorca,Arrival,20,-18.0
+1082,Madrid,Arrival,20,-8.0
+1083,Sevilla,Arrival,20,-10.0
+1084,Bilbao,Arrival,21,-20.0
+1085,Alicante,Arrival,21,-14.0
+1086,Amsterdam,Arrival,21,28.0
+1087,Asturias,Arrival,21,-17.0
+1088,Paris,Arrival,21,-5.0
+1089,Florence,Arrival,21,31.0
+1090,Menorca,Arrival,22,-21.0
+1091,Zurich,Arrival,22,24.0
+1092,London,Arrival,22,13.0
+1093,Munich,Arrival,22,26.0
+1094,Palma Mallorca,Arrival,22,-22.0
+1095,Bilbao,Arrival,22,-6.0
+1096,Rome,Arrival,22,9.0
+1097,Milan,Arrival,22,71.0
+1098,Manchester,Arrival,22,21.0
+1099,Ibiza,Arrival,23,-15.0
+1100,Vigo,Arrival,23,22.0
+1101,Malaga,Arrival,23,-5.0
+1102,Paris,Arrival,23,25.0
+1103,Marseille,Arrival,23,70.0
+1104,Paris,Arrival,23,39.0
+1105,Brussels,Arrival,23,61.0
+1106,Venice,Arrival,23,62.0
+1107,Lisbon,Arrival,23,-5.0
+1108,Prague,Arrival,23,55.0
+1109,Amsterdam,Arrival,23,35.0
+1110,La Coruna,Arrival,23,93.0
+1111,London,Arrival,23,21.0
+1112,Naples,Arrival,23,65.0
+1113,Bologna,Departure,6,-3.0
+1114,Florence,Departure,6,0.0
+1115,Tangier,Departure,6,12.0
+1116,Las Palmas,Departure,6,-3.0
+1117,Alicante,Departure,6,12.0
+1118,Brussels,Departure,6,-1.0
+1119,Asturias,Departure,6,11.0
+1120,Sevilla,Departure,6,-9.0
+1121,Malaga,Departure,7,0.0
+1122,Bilbao,Departure,7,0.0
+1123,Madrid,Departure,7,3.0
+1124,Munich,Departure,7,0.0
+1125,Paris,Departure,7,1.0
+1126,Palma Mallorca,Departure,7,8.0
+1127,Venice,Departure,7,4.0
+1128,Amsterdam,Departure,7,-6.0
+1129,Ibiza,Departure,7,-7.0
+1130,Lisbon,Departure,7,0.0
+1131,Zurich,Departure,7,2.0
+1132,Athens,Departure,7,-1.0
+1133,Menorca,Departure,7,18.0
+1134,Copenhagen,Departure,7,13.0
+1135,Vigo,Departure,7,3.0
+1136,Granada,Departure,7,-2.0
+1137,London,Departure,7,2.0
+1138,Naples,Departure,7,-3.0
+1139,Vienna,Departure,7,24.0
+1140,Bari,Departure,7,-2.0
+1141,Paris,Departure,7,-5.0
+1142,Tenerife,Departure,8,10.0
+1143,Paris,Departure,8,-10.0
+1144,Madrid,Departure,8,0.0
+1145,Palma Mallorca,Departure,8,-6.0
+1146,Alicante,Departure,8,3.0
+1147,Bilbao,Departure,8,-7.0
+1148,Malaga,Departure,9,1.0
+1149,Menorca,Departure,9,5.0
+1150,Sevilla,Departure,9,0.0
+1151,Ibiza,Departure,9,1.0
+1152,Santiago De Compostela,Departure,9,79.0
+1153,Paris,Departure,9,-1.0
+1154,Palma Mallorca,Departure,9,-3.0
+1155,La Coruna,Departure,9,5.0
+1156,Rome,Departure,9,38.0
+1157,London,Departure,9,6.0
+1158,Madrid,Departure,9,-4.0
+1159,Milan,Departure,10,-5.0
+1160,Amsterdam,Departure,10,10.0
+1161,Lanzarote,Departure,10,95.0
+1162,Sevilla,Departure,10,5.0
+1163,Hanover,Departure,10,22.0
+1164,Granada,Departure,10,-1.0
+1165,Lyon,Departure,10,-4.0
+1166,Paris,Departure,11,-4.0
+1167,Menorca,Departure,11,-4.0
+1168,Cagliari,Departure,11,-5.0
+1169,Hamburg,Departure,11,105.0
+1170,Bilbao,Departure,11,2.0
+1171,Malta,Departure,11,-3.0
+1172,Sevilla,Departure,11,1.0
+1173,Birmingham,Departure,11,-2.0
+1174,"Basel, Switzerland / Mulhouse",Departure,11,34.0
+1175,Berlin,Departure,11,6.0
+1176,Stockholm,Departure,11,18.0
+1177,Palma Mallorca,Departure,11,0.0
+1178,Amsterdam,Departure,12,-2.0
+1179,Malaga,Departure,12,-1.0
+1180,Budapest,Departure,12,24.0
+1181,Tenerife,Departure,12,54.0
+1182,Las Palmas,Departure,12,5.0
+1183,Milan,Departure,12,-5.0
+1184,Nuremberg,Departure,12,40.0
+1185,Lisbon,Departure,12,2.0
+1186,Asturias,Departure,12,-2.0
+1187,Brussels,Departure,12,5.0
+1188,Catania,Departure,12,4.0
+1189,Palermo,Departure,12,5.0
+1190,Dublin,Departure,12,-4.0
+1191,London,Departure,12,-2.0
+1192,Dusseldorf,Departure,12,17.0
+1193,Ibiza,Departure,12,4.0
+1194,Almeria,Departure,12,0.0
+1195,Jerez De La Frontera,Departure,12,22.0
+1196,Munich,Departure,13,-1.0
+1197,Copenhagen,Departure,13,-5.0
+1198,Valladolid,Departure,13,1.0
+1199,Ibiza,Departure,14,-8.0
+1200,Madrid,Departure,14,12.0
+1201,Venice,Departure,14,0.0
+1202,Paris,Departure,14,28.0
+1203,Alicante,Departure,14,17.0
+1204,Porto,Departure,14,40.0
+1205,Palma Mallorca,Departure,14,0.0
+1206,Turin,Departure,14,-4.0
+1207,Bologna,Departure,14,-1.0
+1208,Milan,Departure,14,-5.0
+1209,Rome,Departure,15,0.0
+1210,Stuttgart,Departure,15,7.0
+1211,Malaga,Departure,15,10.0
+1212,Amsterdam,Departure,15,-2.0
+1213,La Coruna,Departure,15,1.0
+1214,Bilbao,Departure,15,-2.0
+1215,Marseille,Departure,15,17.0
+1216,Santander,Departure,16,-2.0
+1217,Paris,Departure,16,61.0
+1218,Geneva,Departure,16,35.0
+1219,Palma Mallorca,Departure,16,-3.0
+1220,Madrid,Departure,16,0.0
+1221,Nice,Departure,16,-1.0
+1222,Santiago De Compostela,Departure,16,-1.0
+1223,Sevilla,Departure,16,-1.0
+1224,Valencia,Departure,16,2.0
+1225,San Sebastian,Departure,16,19.0
+1226,Ibiza,Departure,16,13.0
+1227,Menorca,Departure,17,-6.0
+1228,Granada,Departure,17,0.0
+1229,Madrid,Departure,17,-6.0
+1230,Palma Mallorca,Departure,17,3.0
+1231,London,Departure,17,2.0
+1232,Las Palmas,Departure,17,-3.0
+1233,Manchester,Departure,17,32.0
+1234,Paris,Departure,17,4.0
+1235,Athens,Departure,17,35.0
+1236,Bilbao,Departure,17,2.0
+1237,Munich,Departure,17,2.0
+1238,Tenerife,Departure,17,1.0
+1239,Edinburgh,Departure,17,11.0
+1240,Florence,Departure,17,-2.0
+1241,Sevilla,Departure,17,5.0
+1242,Zurich,Departure,18,0.0
+1243,Alicante,Departure,18,23.0
+1244,Palma Mallorca,Departure,18,7.0
+1245,Prague,Departure,18,8.0
+1246,Rome,Departure,18,-3.0
+1247,Amsterdam,Departure,18,-1.0
+1248,Brussels,Departure,18,10.0
+1249,Milan,Departure,18,-9.0
+1250,Paris,Departure,18,-2.0
+1251,London,Departure,18,18.0
+1252,Vienna,Departure,18,-5.0
+1253,Madrid,Departure,19,-2.0
+1254,Lisbon,Departure,19,-5.0
+1255,Marrakech,Departure,19,55.0
+1256,Venice,Departure,19,-4.0
+1257,Vigo,Departure,19,30.0
+1258,Paris,Departure,19,-7.0
+1259,Naples,Departure,19,9.0
+1260,Malaga,Departure,19,13.0
+1261,Alicante,Departure,19,0.0
+1262,Bilbao,Departure,19,26.0
+1263,London,Departure,19,-6.0
+1264,Menorca,Departure,19,-5.0
+1265,Bordeaux,Departure,20,4.0
+1266,La Coruna,Departure,20,-6.0
+1267,Rennes,Departure,20,-7.0
+1268,Tenerife,Departure,20,6.0
+1269,Milan,Departure,20,-2.0
+1270,Pisa,Departure,20,8.0
+1271,Paris,Departure,20,9.0
+1272,Palma Mallorca,Departure,20,0.0
+1273,Granada,Departure,20,-7.0
+1274,Ibiza,Departure,20,1.0
+1275,Vienna,Departure,20,-2.0
+1276,Porto,Departure,20,-6.0
+1277,Nantes,Departure,20,-3.0
+1278,Las Palmas,Departure,20,6.0
+1279,Palma Mallorca,Departure,21,-8.0
+1280,Santiago De Compostela,Departure,21,-11.0
+1281,Sevilla,Departure,21,-2.0
+1282,Malaga,Departure,21,4.0
+1283,Madrid,Departure,21,-5.0
+1284,Asturias,Departure,22,-2.0
+1285,Algiers,Departure,22,-7.0
+1286,Palma Mallorca,Departure,22,-8.0
+1287,Granada,Arrival,0,-8.0
+1288,Oran,Arrival,0,-19.0
+1289,Porto,Arrival,0,19.0
+1290,Algiers,Arrival,1,-13.0
+1291,Madrid,Arrival,7,2.0
+1292,Palma Mallorca,Arrival,7,-14.0
+1293,Alicante,Arrival,8,-9.0
+1294,Bilbao,Arrival,8,-8.0
+1295,Asturias,Arrival,8,-11.0
+1296,Malaga,Arrival,8,1.0
+1297,Sevilla,Arrival,8,-4.0
+1298,Palma Mallorca,Arrival,8,-3.0
+1299,Santiago De Compostela,Arrival,8,-18.0
+1300,La Coruna,Arrival,8,-15.0
+1301,Paris,Arrival,8,-5.0
+1302,Rome,Arrival,8,9.0
+1303,Madrid,Arrival,9,7.0
+1304,Amsterdam,Arrival,9,-24.0
+1305,Palma Mallorca,Arrival,9,81.0
+1306,Sevilla,Arrival,9,-4.0
+1307,Algiers,Arrival,9,-10.0
+1308,Ibiza,Arrival,9,2.0
+1309,Menorca,Arrival,9,-3.0
+1310,Alicante,Arrival,9,0.0
+1311,Bilbao,Arrival,10,3.0
+1312,Bologna,Arrival,10,-26.0
+1313,Madrid,Arrival,10,23.0
+1314,Asturias,Arrival,10,16.0
+1315,Florence,Arrival,10,52.0
+1316,Sevilla,Arrival,10,0.0
+1317,Tel Aviv-Yafo,Arrival,10,20.0
+1318,Malaga,Arrival,11,6.0
+1319,Granada,Arrival,11,-7.0
+1320,Tangier,Arrival,11,18.0
+1321,Paris,Arrival,11,24.0
+1322,Las Palmas,Arrival,11,5.0
+1323,Tenerife,Arrival,11,14.0
+1324,Vigo,Arrival,11,0.0
+1325,Zurich,Arrival,11,1.0
+1326,Menorca,Arrival,11,-6.0
+1327,Venice,Arrival,11,-1.0
+1328,Brussels,Arrival,11,-7.0
+1329,Ibiza,Arrival,11,-7.0
+1330,Lisbon,Arrival,11,35.0
+1331,Munich,Arrival,12,-1.0
+1332,Naples,Arrival,12,-1.0
+1333,Paris,Arrival,12,-13.0
+1334,Amsterdam,Arrival,12,4.0
+1335,Paris,Arrival,12,-3.0
+1336,Bari,Arrival,12,16.0
+1337,London,Arrival,12,-11.0
+1338,Madrid,Arrival,13,15.0
+1339,Vienna,Arrival,13,49.0
+1340,Alicante,Arrival,13,7.0
+1341,Menorca,Arrival,13,-18.0
+1342,Copenhagen,Arrival,13,2.0
+1343,Granada,Arrival,13,-4.0
+1344,Las Palmas,Arrival,14,-20.0
+1345,Milan,Arrival,14,31.0
+1346,Athens,Arrival,14,-3.0
+1347,Lyon,Arrival,14,0.0
+1348,Palma Mallorca,Arrival,14,6.0
+1349,Bilbao,Arrival,14,1.0
+1350,London,Arrival,14,-17.0
+1351,Cagliari,Arrival,15,-9.0
+1352,Paris,Arrival,15,-5.0
+1353,Ibiza,Arrival,15,1.0
+1354,Sevilla,Arrival,15,-9.0
+1355,Tenerife,Arrival,15,15.0
+1356,Santiago De Compostela,Arrival,15,-4.0
+1357,"Basel, Switzerland / Mulhouse",Arrival,15,34.0
+1358,Hanover,Arrival,15,21.0
+1359,Malaga,Arrival,16,44.0
+1360,Almeria,Arrival,16,5.0
+1361,Milan,Arrival,16,-3.0
+1362,Madrid,Arrival,16,2.0
+1363,Malta,Arrival,16,2.0
+1364,Ibiza,Arrival,16,8.0
+1365,Palma Mallorca,Arrival,16,49.0
+1366,Birmingham,Arrival,16,3.0
+1367,Bilbao,Arrival,16,-5.0
+1368,Lisbon,Arrival,16,1.0
+1369,Valladolid,Arrival,16,-10.0
+1370,Nuremberg,Arrival,16,38.0
+1371,Jerez De La Frontera,Arrival,16,22.0
+1372,Lanzarote,Arrival,17,121.0
+1373,Palermo,Arrival,17,-1.0
+1374,Sevilla,Arrival,17,2.0
+1375,Hamburg,Arrival,17,116.0
+1376,Brussels,Arrival,17,19.0
+1377,Amsterdam,Arrival,17,-17.0
+1378,Berlin,Arrival,17,12.0
+1379,Catania,Arrival,17,16.0
+1380,Budapest,Arrival,17,21.0
+1381,Dusseldorf,Arrival,17,33.0
+1382,London,Arrival,17,-15.0
+1383,Turin,Arrival,18,-8.0
+1384,Madrid,Arrival,18,-5.0
+1385,Munich,Arrival,18,-9.0
+1386,Paris,Arrival,18,63.0
+1387,Dublin,Arrival,18,3.0
+1388,Porto,Arrival,18,37.0
+1389,Palma Mallorca,Arrival,18,-9.0
+1390,Venice,Arrival,18,-18.0
+1391,Bologna,Arrival,18,181.0
+1392,Milan,Arrival,18,8.0
+1393,Alicante,Arrival,18,2.0
+1394,Bilbao,Arrival,18,-1.0
+1395,Valencia,Arrival,19,-14.0
+1396,Santander,Arrival,19,-11.0
+1397,Malaga,Arrival,19,14.0
+1398,Tenerife,Arrival,19,-3.0
+1399,Rome,Arrival,19,6.0
+1400,Menorca,Arrival,19,3.0
+1401,Ibiza,Arrival,19,3.0
+1402,Palma Mallorca,Arrival,19,0.0
+1403,San Sebastian,Arrival,19,7.0
+1404,Madrid,Arrival,19,2.0
+1405,Paris,Arrival,19,1.0
+1406,Nice,Arrival,19,-1.0
+1407,Stuttgart,Arrival,19,7.0
+1408,Vienna,Arrival,19,-7.0
+1409,Stockholm,Arrival,19,16.0
+1410,La Coruna,Arrival,19,19.0
+1411,Geneva,Arrival,20,37.0
+1412,Copenhagen,Arrival,20,-8.0
+1413,Las Palmas,Arrival,20,-2.0
+1414,Sevilla,Arrival,20,0.0
+1415,Paris,Arrival,20,58.0
+1416,Santiago De Compostela,Arrival,20,-15.0
+1417,Granada,Arrival,20,6.0
+1418,Palma Mallorca,Arrival,20,-7.0
+1419,Madrid,Arrival,20,-11.0
+1420,Sevilla,Arrival,20,-7.0
+1421,Malaga,Arrival,21,6.0
+1422,Bilbao,Arrival,21,-22.0
+1423,Alicante,Arrival,21,14.0
+1424,Asturias,Arrival,21,10.0
+1425,Amsterdam,Arrival,21,-18.0
+1426,Paris,Arrival,21,-20.0
+1427,Florence,Arrival,21,-7.0
+1428,Palma Mallorca,Arrival,22,-14.0
+1429,Menorca,Arrival,22,-18.0
+1430,Zurich,Arrival,22,-8.0
+1431,London,Arrival,22,-34.0
+1432,Munich,Arrival,22,-7.0
+1433,Palma Mallorca,Arrival,22,-18.0
+1434,Bilbao,Arrival,22,5.0
+1435,Rome,Arrival,22,-2.0
+1436,Milan,Arrival,22,-15.0
+1437,Manchester,Arrival,22,47.0
+1438,Bordeaux,Arrival,23,-6.0
+1439,Ibiza,Arrival,23,-5.0
+1440,Paris,Arrival,23,5.0
+1441,Vigo,Arrival,23,43.0
+1442,Malaga,Arrival,23,-2.0
+1443,Marseille,Arrival,23,16.0
+1444,Paris,Arrival,23,-7.0
+1445,Brussels,Arrival,23,30.0
+1446,Venice,Arrival,23,-10.0
+1447,Palma Mallorca,Arrival,23,12.0
+1448,Lisbon,Arrival,23,-6.0
+1449,Prague,Arrival,23,17.0
+1450,Amsterdam,Arrival,23,-13.0
+1451,La Coruna,Arrival,23,-7.0
+1452,London,Arrival,23,25.0
+1453,Naples,Arrival,23,-2.0
+1454,Rennes,Arrival,23,-6.0
+1455,Marrakech,Departure,6,-3.0
+1456,Florence,Departure,6,-10.0
+1457,Porto,Departure,6,-3.0
+1458,Tangier,Departure,6,14.0
+1459,San Sebastian,Departure,6,-1.0
+1460,Las Palmas,Departure,6,0.0
+1461,Alicante,Departure,6,-3.0
+1462,Brussels,Departure,6,0.0
+1463,Asturias,Departure,6,-1.0
+1464,Sevilla,Departure,6,-4.0
+1465,Malaga,Departure,7,-6.0
+1466,Bilbao,Departure,7,-3.0
+1467,Madrid,Departure,7,2.0
+1468,Munich,Departure,7,0.0
+1469,Paris,Departure,7,14.0
+1470,Palma Mallorca,Departure,7,33.0
+1471,Amsterdam,Departure,7,35.0
+1472,Ibiza,Departure,7,-1.0
+1473,Lisbon,Departure,7,-1.0
+1474,Athens,Departure,7,-1.0
+1475,Rome,Departure,7,-1.0
+1476,London,Departure,7,-1.0
+1477,Menorca,Departure,7,-9.0
+1478,Geneva,Departure,7,-1.0
+1479,Nice,Departure,7,-3.0
+1480,Granada,Departure,7,0.0
+1481,London,Departure,7,22.0
+1482,Milan,Departure,7,4.0
+1483,Prague,Departure,7,1.0
+1484,Vienna,Departure,7,0.0
+1485,Paris,Departure,7,-2.0
+1486,Madrid,Departure,8,93.0
+1487,Palma Mallorca,Departure,8,-4.0
+1488,Alicante,Departure,8,-11.0
+1489,Menorca,Departure,9,-10.0
+1490,Ibiza,Departure,9,-9.0
+1491,Santiago De Compostela,Departure,9,36.0
+1492,La Coruna,Departure,9,0.0
+1493,Rome,Departure,9,7.0
+1494,Tenerife,Departure,9,2.0
+1495,Bilbao,Departure,9,-4.0
+1496,Moscow,Departure,9,6.0
+1497,Amsterdam,Departure,10,37.0
+1498,Lanzarote,Departure,10,14.0
+1499,Hanover,Departure,10,-9.0
+1500,Granada,Departure,10,-2.0
+1501,Olbia,Departure,10,-2.0
+1502,Florence,Departure,11,-11.0
+1503,Sevilla,Departure,11,6.0
+1504,Birmingham,Departure,11,0.0
+1505,Berlin,Departure,11,1.0
+1506,Rome,Departure,11,32.0
+1507,Palma Mallorca,Departure,11,6.0
+1508,Malaga,Departure,12,-8.0
+1509,Tenerife,Departure,12,0.0
+1510,Las Palmas,Departure,12,3.0
+1511,Milan,Departure,12,-3.0
+1512,Lisbon,Departure,12,70.0
+1513,Asturias,Departure,12,14.0
+1514,Brussels,Departure,12,36.0
+1515,Dusseldorf,Departure,12,19.0
+1516,Ibiza,Departure,12,8.0
+1517,Madrid,Departure,14,31.0
+1518,Venice,Departure,14,9.0
+1519,Paris,Departure,14,5.0
+1520,Palma Mallorca,Departure,14,-1.0
+1521,La Coruna,Departure,14,-7.0
+1522,Bologna,Departure,14,-8.0
+1523,Nantes,Departure,14,1.0
+1524,Stuttgart,Departure,15,-3.0
+1525,Rome,Departure,15,-2.0
+1526,Malaga,Departure,15,-6.0
+1527,Lisbon,Departure,15,-10.0
+1528,London,Departure,15,1.0
+1529,Amsterdam,Departure,15,-4.0
+1530,Bilbao,Departure,15,7.0
+1531,Marseille,Departure,15,-2.0
+1532,Vienna,Departure,15,-3.0
+1533,Paris,Departure,16,-5.0
+1534,Palma Mallorca,Departure,16,-7.0
+1535,Dakar,Departure,16,22.0
+1536,Banjul,Departure,16,-2.0
+1537,Santiago De Compostela,Departure,16,10.0
+1538,Sevilla,Departure,16,-4.0
+1539,Ibiza,Departure,16,-4.0
+1540,Menorca,Departure,17,-8.0
+1541,Madrid,Departure,17,5.0
+1542,London,Departure,17,-5.0
+1543,Manchester,Departure,17,-7.0
+1544,Paris,Departure,17,2.0
+1545,Bilbao,Departure,17,0.0
+1546,Alicante,Departure,18,-4.0
+1547,Palma Mallorca,Departure,18,-2.0
+1548,Beirut,Departure,18,12.0
+1549,Madrid,Departure,19,22.0
+1550,Lisbon,Departure,19,-2.0
+1551,Malaga,Departure,19,11.0
+1552,London,Departure,19,-14.0
+1553,Palma Mallorca,Departure,20,-6.0
+1554,Algiers,Departure,21,-9.0
+1555,Tel Aviv-Yafo,Departure,23,2.0
+1556,Granada,Arrival,0,7.0
+1557,Pisa,Arrival,0,-1.0
+1558,Milan,Arrival,0,0.0
+1559,Athens,Arrival,0,58.0
+1560,Edinburgh,Arrival,0,16.0
+1561,Vienna,Arrival,0,-5.0
+1562,Nantes,Arrival,0,-6.0
+1563,Las Palmas,Arrival,0,-11.0
+1564,Marrakech,Arrival,0,32.0
+1565,Porto,Arrival,0,-24.0
+1566,Tenerife,Arrival,1,-19.0
+1567,London,Arrival,1,-15.0
+1568,Algiers,Arrival,2,-31.0
+1569,Madrid,Arrival,7,-14.0
+1570,Palma Mallorca,Arrival,7,-20.0
+1571,Alicante,Arrival,8,-10.0
+1572,Asturias,Arrival,8,-17.0
+1573,Santiago De Compostela,Arrival,8,-28.0
+1574,La Coruna,Arrival,8,-30.0
+1575,Rome,Arrival,8,5.0
+1576,Bilbao,Arrival,9,-11.0
+1577,Amsterdam,Arrival,9,-7.0
+1578,Palma Mallorca,Arrival,9,12.0
+1579,Algiers,Arrival,9,-31.0
+1580,San Sebastian,Arrival,9,-7.0
+1581,Ibiza,Arrival,9,-9.0
+1582,Menorca,Arrival,9,-18.0
+1583,Alicante,Arrival,9,-16.0
+1584,Bilbao,Arrival,10,-21.0
+1585,Madrid,Arrival,10,40.0
+1586,Asturias,Arrival,10,-11.0
+1587,Florence,Arrival,10,-4.0
+1588,Nice,Arrival,10,-6.0
+1589,Sevilla,Arrival,10,0.0
+1590,Porto,Arrival,10,-22.0
+1591,Malaga,Arrival,11,-1.0
+1592,Granada,Arrival,11,-24.0
+1593,Tangier,Arrival,11,2.0
+1594,Geneva,Arrival,11,26.0
+1595,Paris,Arrival,11,5.0
+1596,Las Palmas,Arrival,11,-27.0
+1597,Tenerife,Arrival,11,-10.0
+1598,Menorca,Arrival,11,-12.0
+1599,Rome,Arrival,11,8.0
+1600,Milan,Arrival,11,4.0
+1601,Marrakech,Arrival,11,-31.0
+1602,Brussels,Arrival,11,-8.0
+1603,Ibiza,Arrival,11,-17.0
+1604,Lisbon,Arrival,11,-11.0
+1605,Munich,Arrival,12,4.0
+1606,Paris,Arrival,12,-19.0
+1607,Amsterdam,Arrival,12,33.0
+1608,London,Arrival,12,45.0
+1609,Madrid,Arrival,13,24.0
+1610,Vienna,Arrival,13,10.0
+1611,Prague,Arrival,13,-18.0
+1612,Granada,Arrival,13,-3.0
+1613,Las Palmas,Arrival,14,-8.0
+1614,Athens,Arrival,14,-2.0
+1615,Palma Mallorca,Arrival,14,-17.0
+1616,Olbia,Arrival,14,-14.0
+1617,Vienna,Arrival,15,-5.0
+1618,Ibiza,Arrival,15,-22.0
+1619,Florence,Arrival,15,-7.0
+1620,Sevilla,Arrival,15,-8.0
+1621,Santiago De Compostela,Arrival,15,16.0
+1622,Hanover,Arrival,15,-7.0
+1623,Malaga,Arrival,16,-13.0
+1624,Milan,Arrival,16,-3.0
+1625,Madrid,Arrival,16,6.0
+1626,Rome,Arrival,16,31.0
+1627,Palma Mallorca,Arrival,16,-27.0
+1628,Birmingham,Arrival,16,1.0
+1629,Bilbao,Arrival,16,-14.0
+1630,Lisbon,Arrival,16,62.0
+1631,Lanzarote,Arrival,17,6.0
+1632,Brussels,Arrival,17,35.0
+1633,Berlin,Arrival,17,10.0
+1634,Dusseldorf,Arrival,17,29.0
+1635,Madrid,Arrival,18,18.0
+1636,La Coruna,Arrival,18,-17.0
+1637,Paris,Arrival,18,-5.0
+1638,Palma Mallorca,Arrival,18,-19.0
+1639,Venice,Arrival,18,18.0
+1640,Bologna,Arrival,18,12.0
+1641,Bilbao,Arrival,18,0.0
+1642,Malaga,Arrival,19,10.0
+1643,Menorca,Arrival,19,-20.0
+1644,Ibiza,Arrival,19,-23.0
+1645,Rome,Arrival,19,-20.0
+1646,Nantes,Arrival,19,0.0
+1647,Stuttgart,Arrival,19,-15.0
+1648,Moscow,Arrival,20,-10.0
+1649,Lisbon,Arrival,20,-25.0
+1650,Sevilla,Arrival,20,-16.0
+1651,Paris,Arrival,20,-23.0
+1652,Palma Mallorca,Arrival,20,-11.0
+1653,London,Arrival,20,15.0
+1654,Alicante,Arrival,21,-10.0
+1655,Amsterdam,Arrival,21,-19.0
+1656,Paris,Arrival,21,-6.0
+1657,London,Arrival,22,12.0
+1658,Palma Mallorca,Arrival,22,-20.0
+1659,Manchester,Arrival,22,-3.0
+1660,Malaga,Arrival,23,-11.0
+1661,Marseille,Arrival,23,-19.0
+1662,Lisbon,Arrival,23,-37.0
+1663,La Coruna,Arrival,23,-15.0
+1664,Bologna,Departure,6,-4.0
+1665,Florence,Departure,6,-7.0
+1666,Tangier,Departure,6,-5.0
+1667,La Coruna,Departure,6,-11.0
+1668,Asturias,Departure,6,-6.0
+1669,Oran,Departure,6,-13.0
+1670,Malaga,Departure,7,28.0
+1671,Madrid,Departure,7,-2.0
+1672,Paris,Departure,7,-4.0
+1673,Palma Mallorca,Departure,7,9.0
+1674,Amsterdam,Departure,7,66.0
+1675,Granada,Departure,7,-5.0
+1676,Ibiza,Departure,7,-8.0
+1677,Athens,Departure,7,5.0
+1678,London,Departure,7,-5.0
+1679,Menorca,Departure,7,-1.0
+1680,London,Departure,7,-12.0
+1681,Naples,Departure,7,8.0
+1682,Tenerife,Departure,8,2.0
+1683,Paris,Departure,8,-5.0
+1684,Madrid,Departure,8,1.0
+1685,Palma Mallorca,Departure,8,-14.0
+1686,Alicante,Departure,8,-5.0
+1687,Bilbao,Departure,8,-13.0
+1688,Menorca,Departure,9,-10.0
+1689,Ibiza,Departure,9,-7.0
+1690,Santiago De Compostela,Departure,9,-4.0
+1691,Paris,Departure,9,50.0
+1692,Palma Mallorca,Departure,9,-7.0
+1693,Rome,Departure,9,16.0
+1694,Milan,Departure,10,-5.0
+1695,Amsterdam,Departure,10,0.0
+1696,Lanzarote,Departure,10,2.0
+1697,Sevilla,Departure,10,-4.0
+1698,Hanover,Departure,10,0.0
+1699,Almeria,Departure,10,-2.0
+1700,Granada,Departure,10,1.0
+1701,Puerto del Rosario,Departure,10,-3.0
+1702,Lyon,Departure,10,-12.0
+1703,Paris,Departure,11,-8.0
+1704,Menorca,Departure,11,-9.0
+1705,Hamburg,Departure,11,0.0
+1706,Malta,Departure,11,-3.0
+1707,Sevilla,Departure,11,2.0
+1708,Pisa,Departure,11,23.0
+1709,Birmingham,Departure,11,35.0
+1710,"Basel, Switzerland / Mulhouse",Departure,11,4.0
+1711,Berlin,Departure,11,-9.0
+1712,Stockholm,Departure,11,0.0
+1713,La Coruna,Departure,11,0.0
+1714,Palma Mallorca,Departure,11,-5.0
+1715,Amsterdam,Departure,12,9.0
+1716,Budapest,Departure,12,8.0
+1717,Tenerife,Departure,12,11.0
+1718,Las Palmas,Departure,12,-5.0
+1719,Milan,Departure,12,-8.0
+1720,Nuremberg,Departure,12,-5.0
+1721,Lisbon,Departure,12,-2.0
+1722,Asturias,Departure,12,-1.0
+1723,Brussels,Departure,12,-1.0
+1724,Catania,Departure,12,15.0
+1725,Dublin,Departure,12,-9.0
+1726,London,Departure,12,43.0
+1727,Dusseldorf,Departure,12,9.0
+1728,Ibiza,Departure,12,2.0
+1729,Jerez De La Frontera,Departure,12,12.0
+1730,Munich,Departure,13,5.0
+1731,Copenhagen,Departure,13,-5.0
+1732,Toulouse,Departure,13,-6.0
+1733,Ibiza,Departure,14,-2.0
+1734,Madrid,Departure,14,2.0
+1735,Venice,Departure,14,1.0
+1736,Paris,Departure,14,0.0
+1737,Alicante,Departure,14,-12.0
+1738,Porto,Departure,14,0.0
+1739,Palma Mallorca,Departure,14,-1.0
+1740,Turin,Departure,14,9.0
+1741,Bologna,Departure,14,0.0
+1742,Milan,Departure,14,0.0
+1743,Vienna,Departure,14,-4.0
+1744,Rome,Departure,15,1.0
+1745,Stuttgart,Departure,15,3.0
+1746,Malaga,Departure,15,3.0
+1747,Amsterdam,Departure,15,-9.0
+1748,Bilbao,Departure,15,0.0
+1749,Marseille,Departure,15,-1.0
+1750,Santander,Departure,16,-8.0
+1751,Paris,Departure,16,3.0
+1752,Geneva,Departure,16,5.0
+1753,Palma Mallorca,Departure,16,-3.0
+1754,Valladolid,Departure,16,0.0
+1755,Madrid,Departure,16,-2.0
+1756,Santiago De Compostela,Departure,16,-10.0
+1757,Sevilla,Departure,16,-5.0
+1758,Valencia,Departure,16,-9.0
+1759,San Sebastian,Departure,16,0.0
+1760,Ibiza,Departure,16,22.0
+1761,Menorca,Departure,17,-2.0
+1762,Granada,Departure,17,-1.0
+1763,Madrid,Departure,17,-1.0
+1764,Palma Mallorca,Departure,17,18.0
+1765,London,Departure,17,-8.0
+1766,Las Palmas,Departure,17,0.0
+1767,Manchester,Departure,17,-3.0
+1768,Lanzarote,Departure,17,0.0
+1769,Florence,Departure,17,-4.0
+1770,Bilbao,Departure,17,-5.0
+1771,Paris,Departure,17,-3.0
+1772,Athens,Departure,17,-1.0
+1773,Edinburgh,Departure,17,-2.0
+1774,Munich,Departure,17,1.0
+1775,Tenerife,Departure,17,-1.0
+1776,Sevilla,Departure,17,-2.0
+1777,Zurich,Departure,18,8.0
+1778,Alicante,Departure,18,0.0
+1779,Palma Mallorca,Departure,18,3.0
+1780,Prague,Departure,18,-3.0
+1781,Rome,Departure,18,-2.0
+1782,Amsterdam,Departure,18,-6.0
+1783,Brussels,Departure,18,2.0
+1784,Milan,Departure,18,4.0
+1785,Paris,Departure,18,-2.0
+1786,London,Departure,18,-11.0
+1787,Madrid,Departure,19,6.0
+1788,Berlin,Departure,19,-1.0
+1789,Lisbon,Departure,19,2.0
+1790,Marrakech,Departure,19,3.0
+1791,Venice,Departure,19,-10.0
+1792,Vigo,Departure,19,4.0
+1793,Paris,Departure,19,-4.0
+1794,Naples,Departure,19,5.0
+1795,Malaga,Departure,19,-4.0
+1796,Alicante,Departure,19,-13.0
+1797,Bilbao,Departure,19,-3.0
+1798,London,Departure,19,-5.0
+1799,Menorca,Departure,19,-9.0
+1800,Bordeaux,Departure,20,6.0
+1801,La Coruna,Departure,20,24.0
+1802,Rennes,Departure,20,2.0
+1803,Tenerife,Departure,20,-10.0
+1804,Milan,Departure,20,-1.0
+1805,Nice,Departure,20,-2.0
+1806,Lisbon,Departure,20,0.0
+1807,Paris,Departure,20,-5.0
+1808,Palma Mallorca,Departure,20,-3.0
+1809,Sevilla,Departure,20,-1.0
+1810,Granada,Departure,20,7.0
+1811,Ibiza,Departure,20,-4.0
+1812,Vienna,Departure,20,14.0
+1813,Porto,Departure,20,48.0
+1814,Nantes,Departure,20,3.0
+1815,Las Palmas,Departure,20,-2.0
+1816,Palma Mallorca,Departure,21,-2.0
+1817,Santiago De Compostela,Departure,21,-13.0
+1818,Algiers,Departure,21,-3.0
+1819,Sevilla,Departure,21,-9.0
+1820,Malaga,Departure,21,11.0
+1821,Bilbao,Departure,21,-8.0
+1822,Madrid,Departure,21,-4.0
+1823,Asturias,Departure,22,-12.0
+1824,Rome,Departure,22,-6.0
+1825,Palma Mallorca,Departure,22,-6.0
+1826,Tel Aviv-Yafo,Departure,23,-3.0
+1827,Tenerife,Arrival,0,2.0
+1828,London,Arrival,1,-7.0
+1829,Algiers,Arrival,1,-34.0
+1830,Dakar,Arrival,3,5.0
+1831,Banjul,Arrival,3,-6.0
+1832,Beirut,Arrival,4,-17.0
+1833,Madrid,Arrival,7,-14.0
+1834,Palma Mallorca,Arrival,7,-14.0
+1835,Alicante,Arrival,8,-5.0
+1836,Bilbao,Arrival,8,-9.0
+1837,Asturias,Arrival,8,-5.0
+1838,Palma Mallorca,Arrival,8,-13.0
+1839,Santiago De Compostela,Arrival,8,-20.0
+1840,Paris,Arrival,8,-5.0
+1841,Rome,Arrival,8,-1.0
+1842,Amsterdam,Arrival,9,-10.0
+1843,Palma Mallorca,Arrival,9,-5.0
+1844,Sevilla,Arrival,9,-15.0
+1845,Algiers,Arrival,9,-21.0
+1846,Ibiza,Arrival,9,-13.0
+1847,Menorca,Arrival,9,-16.0
+1848,Bologna,Arrival,10,-15.0
+1849,Madrid,Arrival,10,-11.0
+1850,Asturias,Arrival,10,-22.0
+1851,Florence,Arrival,10,-14.0
+1852,Granada,Arrival,10,-18.0
+1853,La Coruna,Arrival,10,-16.0
+1854,Oran,Arrival,10,-17.0
+1855,Tel Aviv-Yafo,Arrival,10,-15.0
+1856,Malaga,Arrival,11,16.0
+1857,Tangier,Arrival,11,-6.0
+1858,Paris,Arrival,11,10.0
+1859,Las Palmas,Arrival,11,-30.0
+1860,Tenerife,Arrival,11,-8.0
+1861,Menorca,Arrival,11,-16.0
+1862,Ibiza,Arrival,11,-6.0
+1863,Naples,Arrival,12,-1.0
+1864,London,Arrival,12,21.0
+1865,Amsterdam,Arrival,12,51.0
+1866,Paris,Arrival,12,6.0
+1867,London,Arrival,12,2.0
+1868,Madrid,Arrival,13,-9.0
+1869,Alicante,Arrival,13,-15.0
+1870,Menorca,Arrival,13,-3.0
+1871,Almeria,Arrival,13,-6.0
+1872,Granada,Arrival,13,-8.0
+1873,Milan,Arrival,14,-19.0
+1874,Athens,Arrival,14,2.0
+1875,Lyon,Arrival,14,-1.0
+1876,Vienna,Arrival,14,-10.0
+1877,Palma Mallorca,Arrival,14,-8.0
+1878,Ibiza,Arrival,15,-11.0
+1879,Paris,Arrival,15,-18.0
+1880,Sevilla,Arrival,15,-13.0
+1881,Tenerife,Arrival,15,-17.0
+1882,Pisa,Arrival,15,-8.0
+1883,Santiago De Compostela,Arrival,15,-8.0
+1884,"Basel, Switzerland / Mulhouse",Arrival,15,3.0
+1885,Hanover,Arrival,15,7.0
+1886,La Coruna,Arrival,15,0.0
+1887,Milan,Arrival,16,-15.0
+1888,Madrid,Arrival,16,3.0
+1889,Toulouse,Arrival,16,-8.0
+1890,Malta,Arrival,16,-4.0
+1891,Ibiza,Arrival,16,-12.0
+1892,Palma Mallorca,Arrival,16,-11.0
+1893,Birmingham,Arrival,16,50.0
+1894,Bilbao,Arrival,16,-21.0
+1895,Lisbon,Arrival,16,1.0
+1896,Nuremberg,Arrival,16,13.0
+1897,Jerez De La Frontera,Arrival,16,13.0
+1898,Lanzarote,Arrival,17,13.0
+1899,Sevilla,Arrival,17,-28.0
+1900,Hamburg,Arrival,17,11.0
+1901,Brussels,Arrival,17,8.0
+1902,Puerto del Rosario,Arrival,17,-1.0
+1903,Berlin,Arrival,17,25.0
+1904,Amsterdam,Arrival,17,16.0
+1905,Catania,Arrival,17,-3.0
+1906,Budapest,Arrival,17,10.0
+1907,London,Arrival,17,19.0
+1908,Turin,Arrival,18,-1.0
+1909,Madrid,Arrival,18,7.0
+1910,Munich,Arrival,18,0.0
+1911,Paris,Arrival,18,34.0
+1912,Dublin,Arrival,18,-3.0
+1913,Porto,Arrival,18,-11.0
+1914,Palma Mallorca,Arrival,18,-19.0
+1915,Venice,Arrival,18,-12.0
+1916,Bologna,Arrival,18,-3.0
+1917,Milan,Arrival,18,-18.0
+1918,Alicante,Arrival,18,-9.0
+1919,Bilbao,Arrival,18,2.0
+1920,Valencia,Arrival,19,-15.0
+1921,Santander,Arrival,19,71.0
+1922,Malaga,Arrival,19,-7.0
+1923,Tenerife,Arrival,19,-21.0
+1924,Rome,Arrival,19,-5.0
+1925,Menorca,Arrival,19,-12.0
+1926,Valladolid,Arrival,19,-9.0
+1927,Ibiza,Arrival,19,15.0
+1928,Palma Mallorca,Arrival,19,14.0
+1929,San Sebastian,Arrival,19,-4.0
+1930,Madrid,Arrival,19,-11.0
+1931,Paris,Arrival,19,20.0
+1932,Stuttgart,Arrival,19,-5.0
+1933,Vienna,Arrival,19,5.0
+1934,Stockholm,Arrival,19,11.0
+1935,Geneva,Arrival,20,6.0
+1936,Copenhagen,Arrival,20,26.0
+1937,Las Palmas,Arrival,20,-22.0
+1938,Sevilla,Arrival,20,-14.0
+1939,Paris,Arrival,20,-6.0
+1940,Santiago De Compostela,Arrival,20,-16.0
+1941,Granada,Arrival,20,2.0
+1942,Palma Mallorca,Arrival,20,-14.0
+1943,Madrid,Arrival,20,-5.0
+1944,Sevilla,Arrival,20,-22.0
+1945,Malaga,Arrival,21,9.0
+1946,Bilbao,Arrival,21,-14.0
+1947,Alicante,Arrival,21,2.0
+1948,Asturias,Arrival,21,-11.0
+1949,Amsterdam,Arrival,21,-8.0
+1950,Rome,Arrival,21,-9.0
+1951,Paris,Arrival,21,27.0
+1952,Florence,Arrival,21,6.0
+1953,Palma Mallorca,Arrival,22,-21.0
+1954,Menorca,Arrival,22,-21.0
+1955,Zurich,Arrival,22,16.0
+1956,London,Arrival,22,-5.0
+1957,Munich,Arrival,22,-14.0
+1958,Palma Mallorca,Arrival,22,-21.0
+1959,Bilbao,Arrival,22,-2.0
+1960,Milan,Arrival,22,-18.0
+1961,Rome,Arrival,22,-13.0
+1962,Manchester,Arrival,22,3.0
+1963,Bordeaux,Arrival,23,-18.0
+1964,Ibiza,Arrival,23,-14.0
+1965,Paris,Arrival,23,100.0
+1966,Vigo,Arrival,23,-7.0
+1967,Malaga,Arrival,23,-10.0
+1968,Nice,Arrival,23,-19.0
+1969,Marseille,Arrival,23,-5.0
+1970,Paris,Arrival,23,5.0
+1971,Brussels,Arrival,23,17.0
+1972,Venice,Arrival,23,2.0
+1973,Palma Mallorca,Arrival,23,-10.0
+1974,Lisbon,Arrival,23,14.0
+1975,Prague,Arrival,23,10.0
+1976,Amsterdam,Arrival,23,19.0
+1977,La Coruna,Arrival,23,28.0
+1978,London,Arrival,23,16.0
+1979,Naples,Arrival,23,2.0
+1980,Rennes,Arrival,23,-3.0
